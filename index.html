@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Persian Patches</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://fonts.googleapis.com/css?family=Vazirmatn&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Styles.css"/>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="./JS.js"></script>
+</head>
+
+<body class="MainBody">
+
+<div class="header" role="banner">
+    <h1>Persian Video Games Patches</h1>
+</div>
+<div class="menubar">
+    <div id="SortBy" class="toggle-btn-group">
+        <label>Sorted by:</label>
+        <button role="button" title="Name" class="toggle-btn selected" type="button">Name</button>
+        <button role="button" title="Year" class="toggle-btn" type="button">Year</button>
+    </div>
+    <div id="SortType" class="toggle-btn-group">
+        <label>Sort Type</label>
+        <button role="button" title="ASC" class="toggle-btn selected" type="button">ASC</button>
+        <button role="button" title="DSC" class="toggle-btn" type="button">DSC</button>
+    </div>
+    <div id="Group" class="toggle-btn-group">
+        <label>Group By</label>
+        <button role="button" title="Engine" class="toggle-btn" type="button">Engine</button>
+        <button role="button" title="Genre" class="toggle-btn" type="button">Genre</button>
+        <button role="button" title="Platform" class="toggle-btn" type="button">Platform</button>
+        <button role="button" title="Company" class="toggle-btn" type="button">Company</button>
+        <button role="button" title="Patcher" class="toggle-btn" type="button">Patcher</button>
+    </div>
+    <div id="addGame" class="toggle-btn-group">
+        <button role="button" onclick="location.href='https://forms.gle/K34jc6X7sWj3bXKa6';" title="addGame"
+                class="toggle-btn" type="button">addGame
+        </button>
+    </div>
+</div>
+<div id="main" class="Main">
+    <div id="body" class="Body"></div>
+</div>
+<div class="footer" role="contentinfo">Created By <a href="https://t.me/Reza1147">Reza147<a/> gathered from <a
+        href="https://www.igdb.com">IGDB</a></div>
+
+
+<script>
+    var sortMode;
+    var sortType = 'ASC';
+    var groupBy = 'none';
+
+    fetchData();
+
+    function initCards() {
+        sortCards("Name", sortType);
+    }
+
+    var sortModes = document.querySelectorAll('#SortBy>.toggle-btn');
+    [...sortModes].forEach((sortMode) => {
+        sortMode.addEventListener('click', function () {
+            var selected = document.querySelector('#SortBy>.toggle-btn.selected');
+            selected.classList.toggle('selected');
+            sortMode.classList.toggle('selected');
+            sortCards(sortMode.title, sortType);
+        });
+    });
+    var sortTypes = document.querySelectorAll('#SortType>.toggle-btn');
+    [...sortTypes].forEach((sortType) => {
+        sortType.addEventListener('click', function () {
+            var selected = document.querySelector('#SortType>.toggle-btn.selected');
+            selected.classList.toggle('selected');
+            sortType.classList.toggle('selected');
+            sortCards(sortMode, sortType.title);
+        });
+    });
+    var groupModes = document.querySelectorAll('#Group>.toggle-btn');
+    [...groupModes].forEach((groupMode) => {
+        groupMode.addEventListener('click', function () {
+            var selected = document.querySelector('#Group>.toggle-btn.selected');
+            if (selected != null)
+                if (groupMode.title === selected.title) {
+                    selected.classList.toggle('selected');
+                    groupBy = 'none';
+                    groupCards();
+                    return;
+                } else {
+                    selected.classList.toggle('selected');
+                }
+            groupMode.classList.toggle('selected');
+            groupBy = groupMode.title;
+            groupCards();
+        });
+    });
+</script>
+</body>
+</html>

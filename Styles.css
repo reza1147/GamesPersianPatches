@@ -1,0 +1,265 @@
+:root {
+    --header_foreground_color: #ffffff;
+    --Font1: "Vazirmatn", sans-serif;
+    --Font2: "Ubuntu", sans-serif;
+    --C1: rgb(172, 252, 105);
+    --C2: rgb(4, 92, 92);
+    --C3: rgb(109, 148, 156);
+    --C4: rgb(180, 200, 200);
+    --C5: rgb(36, 84, 84);
+    --footer_background_color: rgb(36, 84, 84);
+    --footer_foreground_color: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: var(--C5);
+    padding: 15px;
+    text-align: center;
+    color: var(--header_foreground_color);
+    flex-shrink: 0;
+    height: 15%;
+    width: 100%;
+    order: 1;
+    font-family: var(--Font1);
+    margin-bottom: 7px;
+}
+
+.menubar {
+    background-color: var(--C5);
+    padding: 15px;
+    color: var(--header_foreground_color);
+    flex-shrink: 0;
+    height: 15%;
+    width: 100%;
+    order: 2;
+    margin-bottom: 7px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.toggle-btn-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    gap: 1px;
+}
+
+.toggle-btn-group > label {
+    font-family: var(--Font2);
+    font-size: 20px;
+}
+
+.toggle-btn-group .toggle-btn {
+    height: 40px;
+    min-width: 65px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    background: -moz-linear-gradient(top, #7e7e7e 0%, #737373 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7e7e7e), color-stop(100%, #737373)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #7e7e7e 0%, #737373 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #7e7e7e 0%, #737373 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #7e7e7e 0%, #737373 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #7e7e7e 0%, #737373 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7e7e7e', endColorstr='#737373', GradientType=0); /* IE6-8 */
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, .8);
+    border: none;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, .2);
+    -moz-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.2), 1px 1px 3px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.2), 1px 1px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.2), 1px 1px 3px rgba(0, 0, 0, 0.3);
+    font-family: var(--Font2);
+}
+
+.toggle-btn-group > button:hover {
+    color: #13c5c7;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, .5);
+    -moz-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+    cursor: pointer;
+}
+
+.toggle-btn-group > button:active {
+    background: #09626c;
+}
+
+.toggle-btn-group > .selected:hover {
+    background: #505050;
+}
+
+.toggle-btn.selected {
+    border-color: #141414;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    -moz-box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5);
+    background: #404040;
+    color: #d1d3d4;
+}
+
+
+.footer {
+    background-color: var(--footer_background_color);
+    text-align: center;
+    padding: 10px;
+    margin-top: 7px;
+    color: var(--footer_foreground_color);
+    height: 5%;
+    flex-shrink: 0;
+    width: 100%;
+    order: 1000;
+    font-family: var(--Font1);
+}
+
+
+.Body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background: var(--C2);
+    width: 100%;
+    order: 0;
+    margin: 5px;
+}
+
+.PartTitle {
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    background: var(--C2);
+    font-family: var(--Font2);
+    font-size: 50px;
+    width: 100%;
+    order: 0;
+    color: white;
+}
+
+.Main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    order: 3;
+}
+
+.card * {
+    font-family: var(--Font2);
+}
+
+.card {
+    margin: 5px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.card-inside {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.card:hover div {
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+
+.card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 0px;
+    color: white;
+    background: rgba(0, 0, 0, 0.30);
+    opacity: 0;
+    -webkit-transition: all 300ms ease-in-out;
+    -o-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+}
+
+.card-front:hover img {
+    -webkit-transition: all 300ms ease-in-out;
+    -o-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    -webkit-filter: blur(1px);
+    -moz-filter: blur(1px);
+    -ms-filter: blur(1px);
+    -o-filter: blur(1px);
+    filter: blur(5px);
+    transform: scale(1.001);
+}
+
+.card-inside.is-flipped {
+    transform: rotateY(-180deg);
+}
+
+/* Position the front and back side */
+.card-front, .card-back, .card-text {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.card-front {
+    display: flex;
+    justify-content: center;
+    background-color: #bbb;
+    color: black;
+}
+
+/* Style the back side */
+.card-back {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: var(--C3);
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.genres {
+    align-content: flex-start;
+    gap: 1px 1px;
+    border: red 2px;
+}
+
+.patches {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    gap: 5px;
+}
+
+.patch {
+    display: flex;
+    flex-direction: column;
+}
+
+.patch img{
+    width: 50px;
+    height: 50px;
+}
