@@ -39,6 +39,7 @@
     margin-bottom: 7px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     align-content: center;
     justify-content: space-between;
