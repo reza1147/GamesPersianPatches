@@ -1,7 +1,7 @@
 {
   "Resident Evil 2": {
     "name": "Resident Evil 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ir3.jpg",
+    "picURL": "Images/Games/co1ir3.jpg",
     "releaseYear": 2019.0,
     "company": "Capcom",
     "engine": "RE Engine",
@@ -25,7 +25,7 @@
   },
   "Resident Evil 3": {
     "name": "Resident Evil 3",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22l7.jpg",
+    "picURL": "Images/Games/co22l7.jpg",
     "releaseYear": 2020.0,
     "company": "Capcom",
     "engine": "RE Engine",
@@ -64,7 +64,7 @@
   },
   "Batman: Arkham Knight": {
     "name": "Batman: Arkham Knight",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nh1.jpg",
+    "picURL": "Images/Games/co1nh1.jpg",
     "releaseYear": 2015.0,
     "company": "Warner Bros. Interactive Entertainment",
     "engine": "Unreal Engine",
@@ -88,7 +88,7 @@
   },
   "Uncharted: The Lost Legacy": {
     "name": "Uncharted: The Lost Legacy",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tp9.jpg",
+    "picURL": "Images/Games/co1tp9.jpg",
     "releaseYear": 2017.0,
     "company": "Sony Interactive Entertainment",
     "patches": [
@@ -107,7 +107,7 @@
   },
   "Assassin\u0027s Creed Origins": {
     "name": "Assassin\u0027s Creed Origins",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbe.jpg",
+    "picURL": "Images/Games/co1rbe.jpg",
     "releaseYear": 2017.0,
     "company": "Ubisoft Entertainment",
     "engine": "AnvilNext",
@@ -141,7 +141,7 @@
   },
   "Grand Theft Auto III: The Definitive Edition": {
     "name": "Grand Theft Auto III: The Definitive Edition",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yy.jpg",
+    "picURL": "Images/Games/co65yy.jpg",
     "releaseYear": 2021.0,
     "company": "Rockstar Games",
     "engine": "Unreal Engine 4",
@@ -176,7 +176,7 @@
   },
   "Red Dead Redemption 2": {
     "name": "Red Dead Redemption 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
+    "picURL": "Images/Games/co1q1f.jpg",
     "releaseYear": 2018.0,
     "company": "Take-Two Interactive",
     "engine": "RAGE",
@@ -206,7 +206,7 @@
   },
   "Hogwarts Legacy": {
     "name": "Hogwarts Legacy",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gn3.jpg",
+    "picURL": "Images/Games/co2gn3.jpg",
     "releaseYear": 2023.0,
     "company": "Portkey Games",
     "engine": "Unreal Engine 4",
@@ -230,7 +230,7 @@
   },
   "Little Nightmares": {
     "name": "Little Nightmares",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rdi.jpg",
+    "picURL": "Images/Games/co1rdi.jpg",
     "releaseYear": 2017.0,
     "company": "Bandai Namco Entertainment",
     "engine": "Unreal Engine 4",
@@ -250,7 +250,7 @@
   },
   "Vampyr": {
     "name": "Vampyr",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q8o.jpg",
+    "picURL": "Images/Games/co1q8o.jpg",
     "releaseYear": 2018.0,
     "company": "Focus Entertainment",
     "engine": "Unreal Engine 4",
@@ -284,7 +284,7 @@
   },
   "Resident Evil 4": {
     "name": "Resident Evil 4",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bo0.jpg",
+    "picURL": "Images/Games/co6bo0.jpg",
     "releaseYear": 2023.0,
     "company": "Capcom",
     "engine": "RE Engine",
@@ -319,7 +319,7 @@
   },
   "Valiant Hearts: The Great War": {
     "name": "Valiant Hearts: The Great War",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25zo.jpg",
+    "picURL": "Images/Games/co25zo.jpg",
     "releaseYear": 2014.0,
     "company": "Ubisoft Entertainment",
     "engine": "UbiArt Framework",
@@ -339,7 +339,7 @@
   },
   "Her Story": {
     "name": "Her Story",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gzl.jpg",
+    "picURL": "Images/Games/co2gzl.jpg",
     "releaseYear": 2015.0,
     "company": "Sam Barlow",
     "engine": "Unity",
@@ -359,7 +359,7 @@
   },
   "It Takes Two": {
     "name": "It Takes Two",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2t97.jpg",
+    "picURL": "Images/Games/co2t97.jpg",
     "releaseYear": 2021.0,
     "company": "Electronic Arts",
     "engine": "Unreal Engine 4",
@@ -389,7 +389,7 @@
   },
   "Assassin\u0027s Creed Chronicles: Russia": {
     "name": "Assassin\u0027s Creed Chronicles: Russia",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qy5.jpg",
+    "picURL": "Images/Games/co1qy5.jpg",
     "releaseYear": 2016.0,
     "company": "Ubisoft Entertainment",
     "patches": [
@@ -407,7 +407,7 @@
   },
   "Martha Is Dead": {
     "name": "Martha Is Dead",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2or1.jpg",
+    "picURL": "Images/Games/co2or1.jpg",
     "releaseYear": 2022.0,
     "company": "Wired Productions",
     "engine": "Unreal Engine 4",
@@ -427,7 +427,7 @@
   },
   "The Last of Us": {
     "name": "The Last of Us",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.jpg",
+    "picURL": "Images/Games/co1r7f.jpg",
     "releaseYear": 2013.0,
     "company": "Sony Computer Entertainment",
     "patches": [
@@ -445,7 +445,7 @@
   },
   "Grand Theft Auto V": {
     "name": "Grand Theft Auto V",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+    "picURL": "Images/Games/co2lbd.jpg",
     "releaseYear": 2013.0,
     "company": "Rockstar Games",
     "engine": "RAGE",
@@ -469,7 +469,7 @@
   },
   "Kena: Bridge of Spirits": {
     "name": "Kena: Bridge of Spirits",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vx4.jpg",
+    "picURL": "Images/Games/co5vx4.jpg",
     "releaseYear": 2021.0,
     "company": "Ember Lab",
     "engine": "Unreal Engine 4",
@@ -508,7 +508,7 @@
   },
   "Contrast": {
     "name": "Contrast",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qqh.jpg",
+    "picURL": "Images/Games/co1qqh.jpg",
     "releaseYear": 2013.0,
     "company": "Focus Entertainment",
     "patches": [
@@ -528,7 +528,7 @@
   },
   "Metal Gear Solid V: The Phantom Pain": {
     "name": "Metal Gear Solid V: The Phantom Pain",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.jpg",
+    "picURL": "Images/Games/co1v85.jpg",
     "releaseYear": 2015.0,
     "company": "Konami",
     "engine": "Fox Engine",
@@ -548,7 +548,7 @@
   },
   "BioShock Infinite": {
     "name": "BioShock Infinite",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg",
+    "picURL": "Images/Games/co2n12.jpg",
     "releaseYear": 2013.0,
     "company": "2K Games",
     "engine": "Unreal Engine",
@@ -572,7 +572,7 @@
   },
   "The Awesome Adventures of Captain Spirit": {
     "name": "The Awesome Adventures of Captain Spirit",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gmm.jpg",
+    "picURL": "Images/Games/co3gmm.jpg",
     "releaseYear": 2018.0,
     "company": "Square Enix",
     "patches": [
@@ -589,7 +589,7 @@
   },
   "Layers of Fear": {
     "name": "Layers of Fear",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nhw.jpg",
+    "picURL": "Images/Games/co1nhw.jpg",
     "releaseYear": 2016.0,
     "company": "Bloober Team",
     "engine": "Unity",
@@ -609,7 +609,7 @@
   },
   "Uncharted 4: A Thief\u0027s End": {
     "name": "Uncharted 4: A Thief\u0027s End",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7h.jpg",
+    "picURL": "Images/Games/co1r7h.jpg",
     "releaseYear": 2016.0,
     "company": "Sony Interactive Entertainment",
     "patches": [
@@ -627,7 +627,7 @@
   },
   "Dying Light 2: Stay Human": {
     "name": "Dying Light 2: Stay Human",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yk.jpg",
+    "picURL": "Images/Games/co65yk.jpg",
     "releaseYear": 2022.0,
     "company": "Techland Publishing",
     "engine": "C-Engine",
@@ -651,7 +651,7 @@
   },
   "Sherlock Holmes: The Awakened": {
     "name": "Sherlock Holmes: The Awakened",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68l9.jpg",
+    "picURL": "Images/Games/co68l9.jpg",
     "releaseYear": 2023,
     "company": "Frogwares",
     "engine": "Unreal Engine",
@@ -671,7 +671,7 @@
   },
   "Minecraft: Story Mode": {
     "name": "Minecraft: Story Mode",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vi7.jpg",
+    "picURL": "Images/Games/co1vi7.jpg",
     "releaseYear": 2015.0,
     "company": "Mojang Studios",
     "engine": "Telltale Tool",
@@ -689,7 +689,7 @@
   },
   "Little Nightmares II": {
     "name": "Little Nightmares II",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p7d.jpg",
+    "picURL": "Images/Games/co1p7d.jpg",
     "releaseYear": 2021.0,
     "company": "Bandai Namco Entertainment",
     "engine": "Unreal Engine 4",
@@ -709,7 +709,7 @@
   },
   "Mortal Shell": {
     "name": "Mortal Shell",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co227z.jpg",
+    "picURL": "Images/Games/co227z.jpg",
     "releaseYear": 2020.0,
     "company": "Playstack",
     "engine": "Unreal Engine 4",
@@ -728,7 +728,7 @@
   },
   "Cyberpunk 2077": {
     "name": "Cyberpunk 2077",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hk8.jpg",
+    "picURL": "Images/Games/co4hk8.jpg",
     "releaseYear": 2020.0,
     "company": "CD Projekt RED",
     "engine": "REDengine 4",
@@ -763,7 +763,7 @@
   },
   "Star Wars Jedi: Fallen Order": {
     "name": "Star Wars Jedi: Fallen Order",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.jpg",
+    "picURL": "Images/Games/co1rbi.jpg",
     "releaseYear": 2019.0,
     "company": "Electronic Arts",
     "engine": "Unreal Engine 4",
@@ -786,7 +786,7 @@
   },
   "Visage": {
     "name": "Visage",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1h7d.jpg",
+    "picURL": "Images/Games/co1h7d.jpg",
     "releaseYear": 2020.0,
     "company": "SadSquare Studio",
     "engine": "Unreal Engine",
@@ -807,7 +807,7 @@
   },
   "Game of Thrones: A Telltale Games Series": {
     "name": "Game of Thrones: A Telltale Games Series",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nrt.jpg",
+    "picURL": "Images/Games/co1nrt.jpg",
     "releaseYear": 2014.0,
     "company": "Telltale Games",
     "engine": "Telltale Tool",
@@ -826,7 +826,7 @@
   },
   "Sherlock Holmes: Crimes \u0026 Punishments": {
     "name": "Sherlock Holmes: Crimes \u0026 Punishments",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sqz.jpg",
+    "picURL": "Images/Games/co1sqz.jpg",
     "releaseYear": 2014.0,
     "company": "Focus Entertainment",
     "engine": "Unreal Engine",
@@ -845,7 +845,7 @@
   },
   "Evil West": {
     "name": "Evil West",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4udq.jpg",
+    "picURL": "Images/Games/co4udq.jpg",
     "releaseYear": 2022.0,
     "company": "Focus Entertainment",
     "engine": "Unreal Engine 4",
@@ -865,7 +865,7 @@
   },
   "The Dark Pictures Anthology: Man of Medan": {
     "name": "The Dark Pictures Anthology: Man of Medan",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1omz.jpg",
+    "picURL": "Images/Games/co1omz.jpg",
     "releaseYear": 2019.0,
     "company": "Bandai Namco Entertainment",
     "engine": "Unreal Engine 4",
@@ -883,7 +883,7 @@
   },
   "Metal Gear Solid V: Ground Zeroes": {
     "name": "Metal Gear Solid V: Ground Zeroes",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v88.jpg",
+    "picURL": "Images/Games/co1v88.jpg",
     "releaseYear": 2014.0,
     "company": "Konami",
     "engine": "Fox Engine",
@@ -904,7 +904,7 @@
   },
   "Call of Cthulhu": {
     "name": "Call of Cthulhu",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d3a.jpg",
+    "picURL": "Images/Games/co2d3a.jpg",
     "releaseYear": 2018.0,
     "company": "Focus Entertainment",
     "engine": "Unreal Engine 4",
@@ -923,7 +923,7 @@
   },
   "Elden Ring": {
     "name": "Elden Ring",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
+    "picURL": "Images/Games/co4jni.jpg",
     "releaseYear": 2022.0,
     "company": "Bandai Namco Entertainment",
     "patches": [
@@ -956,7 +956,7 @@
   },
   "Uncharted 3: Drake\u0027s Deception": {
     "name": "Uncharted 3: Drake\u0027s Deception",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tp8.jpg",
+    "picURL": "Images/Games/co1tp8.jpg",
     "releaseYear": 2011.0,
     "company": "Sony Computer Entertainment",
     "engine": "Naughty Dog Engine",
@@ -976,7 +976,7 @@
   },
   "Marvel\u0027s Spider-Man Remastered": {
     "name": "Marvel\u0027s Spider-Man Remastered",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52vm.jpg",
+    "picURL": "Images/Games/co52vm.jpg",
     "releaseYear": 2020.0,
     "company": "Sony Interactive Entertainment",
     "engine": "Insomniac Engine v.4.0",
@@ -995,7 +995,7 @@
   },
   "God of War III": {
     "name": "God of War III",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3koi.jpg",
+    "picURL": "Images/Games/co3koi.jpg",
     "releaseYear": 2010.0,
     "company": "Sony Computer Entertainment",
     "patches": [
@@ -1013,7 +1013,7 @@
   },
   "DmC: Devil May Cry": {
     "name": "DmC: Devil May Cry",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u77.jpg",
+    "picURL": "Images/Games/co1u77.jpg",
     "releaseYear": 2013.0,
     "company": "Capcom",
     "engine": "Unreal Engine",
@@ -1033,7 +1033,7 @@
   },
   "Call of the Sea": {
     "name": "Call of the Sea",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ir4.jpg",
+    "picURL": "Images/Games/co2ir4.jpg",
     "releaseYear": 2020.0,
     "company": "Raw Fury",
     "engine": "Unreal Engine 4",
@@ -1053,7 +1053,7 @@
   },
   "Batman: The Telltale Series": {
     "name": "Batman: The Telltale Series",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u65.jpg",
+    "picURL": "Images/Games/co1u65.jpg",
     "releaseYear": 2016.0,
     "company": "Telltale Games",
     "engine": "Telltale Tool",
@@ -1079,7 +1079,7 @@
   },
   "The Walking Dead: The Telltale Definitive Series": {
     "name": "The Walking Dead: The Telltale Definitive Series",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q9o.jpg",
+    "picURL": "Images/Games/co1q9o.jpg",
     "releaseYear": 2019.0,
     "company": "Skybound Games",
     "patches": [
@@ -1097,7 +1097,7 @@
   },
   "Crash Bandicoot 4: It\u0027s About Time": {
     "name": "Crash Bandicoot 4: It\u0027s About Time",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hp4.jpg",
+    "picURL": "Images/Games/co2hp4.jpg",
     "releaseYear": 2020.0,
     "company": "Activision",
     "patches": [
@@ -1124,7 +1124,7 @@
   },
   "The Quarry": {
     "name": "The Quarry",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4kl4.jpg",
+    "picURL": "Images/Games/co4kl4.jpg",
     "releaseYear": 2022.0,
     "company": "2K Games",
     "engine": "Unreal Engine",
@@ -1147,7 +1147,7 @@
   },
   "Horizon Zero Dawn": {
     "name": "Horizon Zero Dawn",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2una.jpg",
+    "picURL": "Images/Games/co2una.jpg",
     "releaseYear": 2017.0,
     "company": "Sony Interactive Entertainment",
     "engine": "Decima",
@@ -1187,7 +1187,7 @@
   },
   "The Sinking City": {
     "name": "The Sinking City",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1l7s.jpg",
+    "picURL": "Images/Games/co1l7s.jpg",
     "releaseYear": 2019.0,
     "company": "Bigben Interactive",
     "engine": "Unreal Engine 4",
@@ -1213,7 +1213,7 @@
   },
   "Resident Evil 7: Biohazard": {
     "name": "Resident Evil 7: Biohazard",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co545w.jpg",
+    "picURL": "Images/Games/co545w.jpg",
     "releaseYear": 2017.0,
     "company": "Capcom",
     "engine": "RE Engine",
@@ -1238,7 +1238,7 @@
   },
   "Uncharted 2: Among Thieves": {
     "name": "Uncharted 2: Among Thieves",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnb.jpg",
+    "picURL": "Images/Games/co1tnb.jpg",
     "releaseYear": 2009.0,
     "company": "Sony Computer Entertainment",
     "engine": "Naughty Dog Engine",
@@ -1258,7 +1258,7 @@
   },
   "A Way Out": {
     "name": "A Way Out",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vca.jpg",
+    "picURL": "Images/Games/co1vca.jpg",
     "releaseYear": 2018.0,
     "company": "Electronic Arts",
     "engine": "Unreal Engine",
@@ -1286,7 +1286,7 @@
   },
   "Assassin\u0027s Creed Chronicles: China": {
     "name": "Assassin\u0027s Creed Chronicles: China",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qy6.jpg",
+    "picURL": "Images/Games/co1qy6.jpg",
     "releaseYear": 2015.0,
     "company": "Ubisoft Entertainment",
     "patches": [
@@ -1305,7 +1305,7 @@
   },
   "Blair Witch": {
     "name": "Blair Witch",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rci.jpg",
+    "picURL": "Images/Games/co1rci.jpg",
     "releaseYear": 2019.0,
     "company": "Bloober Team",
     "engine": "Unreal Engine 4",
@@ -1329,7 +1329,7 @@
   },
   "Assassin\u0027s Creed Valhalla": {
     "name": "Assassin\u0027s Creed Valhalla",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ed3.jpg",
+    "picURL": "Images/Games/co2ed3.jpg",
     "releaseYear": 2020.0,
     "company": "Ubisoft Entertainment",
     "engine": "AnvilNext",
@@ -1353,7 +1353,7 @@
   },
   "Bright Memory: Infinite": {
     "name": "Bright Memory: Infinite",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xvo.jpg",
+    "picURL": "Images/Games/co1xvo.jpg",
     "releaseYear": 2021.0,
     "company": "PLAYISM",
     "engine": "Unreal Engine 4",
@@ -1374,7 +1374,7 @@
   },
   "Sherlock Holmes: The Devil\u0027s Daughter": {
     "name": "Sherlock Holmes: The Devil\u0027s Daughter",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wmc.jpg",
+    "picURL": "Images/Games/co3wmc.jpg",
     "releaseYear": 2016.0,
     "company": "Bigben Interactive",
     "engine": "Unreal Engine",
@@ -1398,7 +1398,7 @@
   },
   "Grand Theft Auto: San Andreas - The Definitive Edition": {
     "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65z0.jpg",
+    "picURL": "Images/Games/co65z0.jpg",
     "releaseYear": 2021.0,
     "company": "",
     "engine": "Unreal Engine 4",
@@ -1418,7 +1418,7 @@
   },
   "Outlast": {
     "name": "Outlast",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yat.jpg",
+    "picURL": "Images/Games/co1yat.jpg",
     "releaseYear": 2013.0,
     "company": "Red Barrels",
     "engine": "Unreal Engine 3",
@@ -1437,7 +1437,7 @@
   },
   "Resident Evil Village": {
     "name": "Resident Evil Village",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpu.jpg",
+    "picURL": "Images/Games/co2zpu.jpg",
     "releaseYear": 2021.0,
     "company": "Capcom",
     "engine": "RE Engine",
@@ -1476,7 +1476,7 @@
   },
   "Devil May Cry 5": {
     "name": "Devil May Cry 5",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rb4.jpg",
+    "picURL": "Images/Games/co1rb4.jpg",
     "releaseYear": 2019.0,
     "company": "Capcom",
     "engine": "RE Engine",
@@ -1505,7 +1505,7 @@
   },
   "The Last of Us Remastered": {
     "name": "The Last of Us Remastered",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zks.jpg",
+    "picURL": "Images/Games/co5zks.jpg",
     "releaseYear": 2014.0,
     "company": "Sony Computer Entertainment",
     "engine": "Proprietry in house engine",
@@ -1529,7 +1529,7 @@
   },
   "Dark Souls III": {
     "name": "Dark Souls III",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vcf.jpg",
+    "picURL": "Images/Games/co1vcf.jpg",
     "releaseYear": 2016.0,
     "company": "Bandai Namco Entertainment",
     "patches": [
@@ -1552,7 +1552,7 @@
   },
   "Aliens: Fireteam Elite": {
     "name": "Aliens: Fireteam Elite",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gu0.jpg",
+    "picURL": "Images/Games/co3gu0.jpg",
     "releaseYear": 2021.0,
     "company": "Focus Entertainment",
     "patches": [
@@ -1571,7 +1571,7 @@
   },
   "Max Payne 3": {
     "name": "Max Payne 3",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjo.jpg",
+    "picURL": "Images/Games/co2mjo.jpg",
     "releaseYear": 2012.0,
     "company": "Rockstar Games",
     "engine": "RAGE",
@@ -1589,7 +1589,7 @@
   },
   "Paradise Lost": {
     "name": "Paradise Lost",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vrm.jpg",
+    "picURL": "Images/Games/co2vrm.jpg",
     "releaseYear": 2021.0,
     "company": "All In! Games",
     "engine": "Unreal Engine 4",
@@ -1609,7 +1609,7 @@
   },
   "God of War": {
     "name": "God of War",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.jpg",
+    "picURL": "Images/Games/co1tmu.jpg",
     "releaseYear": 2018.0,
     "company": "Sony Interactive Entertainment",
     "patches": [
@@ -1643,7 +1643,7 @@
   },
   "The Evil Within 2": {
     "name": "The Evil Within 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wgu.jpg",
+    "picURL": "Images/Games/co5wgu.jpg",
     "releaseYear": 2017.0,
     "company": "Bethesda Softworks",
     "engine": "id Tech 5",
@@ -1668,7 +1668,7 @@
   },
   "Ghostwire: Tokyo": {
     "name": "Ghostwire: Tokyo",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55xn.jpg",
+    "picURL": "Images/Games/co55xn.jpg",
     "releaseYear": 2022.0,
     "company": "Bethesda Softworks",
     "engine": "Unreal Engine 4",
@@ -1686,7 +1686,7 @@
   },
   "This War of Mine": {
     "name": "This War of Mine",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ans.jpg",
+    "picURL": "Images/Games/co3ans.jpg",
     "releaseYear": 2014.0,
     "company": "11 bit studios",
     "engine": "In-house engine",
@@ -1707,7 +1707,7 @@
   },
   "Uncharted: Drake\u0027s Fortune": {
     "name": "Uncharted: Drake\u0027s Fortune",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tp7.jpg",
+    "picURL": "Images/Games/co1tp7.jpg",
     "releaseYear": 2007.0,
     "company": "Sony Computer Entertainment",
     "patches": [
@@ -1726,7 +1726,7 @@
   },
   "Hellblade: Senua\u0027s Sacrifice": {
     "name": "Hellblade: Senua\u0027s Sacrifice",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7l.jpg",
+    "picURL": "Images/Games/co2l7l.jpg",
     "releaseYear": 2017.0,
     "company": "Ninja Theory",
     "engine": "Unreal Engine",
@@ -1761,7 +1761,7 @@
   },
   "Grand Theft Auto: Vice City - The Definitive Edition": {
     "name": "Grand Theft Auto: Vice City - The Definitive Edition",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yz.jpg",
+    "picURL": "Images/Games/co65yz.jpg",
     "releaseYear": 2021.0,
     "company": "",
     "engine": "Unreal Engine 4",
@@ -1791,7 +1791,7 @@
   },
   "The Forest": {
     "name": "The Forest",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20x5.jpg",
+    "picURL": "Images/Games/co20x5.jpg",
     "releaseYear": 2018.0,
     "company": "Endnight Games Ltd",
     "engine": "Unity",
@@ -1812,7 +1812,7 @@
   },
   "Life is Strange 2": {
     "name": "Life is Strange 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7p.jpg",
+    "picURL": "Images/Games/co1r7p.jpg",
     "releaseYear": 2018.0,
     "company": "Square Enix",
     "engine": "Unreal Engine",
@@ -1845,7 +1845,7 @@
   },
   "Life is Strange: Before the Storm": {
     "name": "Life is Strange: Before the Storm",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twj.jpg",
+    "picURL": "Images/Games/co1twj.jpg",
     "releaseYear": 2017.0,
     "company": "Square Enix",
     "engine": "Unity",
@@ -1868,7 +1868,7 @@
   },
   "Twelve Minutes": {
     "name": "Twelve Minutes",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5etb.jpg",
+    "picURL": "Images/Games/co5etb.jpg",
     "releaseYear": 2021.0,
     "company": "Annapurna Interactive",
     "engine": "Unity",
@@ -1894,7 +1894,7 @@
   },
   "Sherlock Holmes: Chapter One": {
     "name": "Sherlock Holmes: Chapter One",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48pg.jpg",
+    "picURL": "Images/Games/co48pg.jpg",
     "releaseYear": 2021.0,
     "company": "Frogwares",
     "engine": "Unreal Engine",
@@ -1923,7 +1923,7 @@
   },
   "Assassin\u0027s Creed Unity": {
     "name": "Assassin\u0027s Creed Unity",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xiq.jpg",
+    "picURL": "Images/Games/co1xiq.jpg",
     "releaseYear": 2014.0,
     "company": "Ubisoft Entertainment",
     "engine": "AnvilNext",
@@ -1942,7 +1942,7 @@
   },
   "Assassin\u0027s Creed Chronicles: India": {
     "name": "Assassin\u0027s Creed Chronicles: India",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qy4.jpg",
+    "picURL": "Images/Games/co1qy4.jpg",
     "releaseYear": 2016.0,
     "company": "Ubisoft Entertainment",
     "patches": [
@@ -1960,7 +1960,7 @@
   },
   "Death Stranding": {
     "name": "Death Stranding",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vq8.jpg",
+    "picURL": "Images/Games/co5vq8.jpg",
     "releaseYear": 2019.0,
     "company": "Sony Interactive Entertainment",
     "engine": "Decima",
@@ -1980,7 +1980,7 @@
   },
   "Days Gone": {
     "name": "Days Gone",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1izz.jpg",
+    "picURL": "Images/Games/co1izz.jpg",
     "releaseYear": 2019.0,
     "company": "Sony Interactive Entertainment",
     "engine": "Unreal Engine 4",
@@ -2009,7 +2009,7 @@
   },
   "Sekiro: Shadows Die Twice": {
     "name": "Sekiro: Shadows Die Twice",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.jpg",
+    "picURL": "Images/Games/co2a23.jpg",
     "releaseYear": 2019.0,
     "company": "Activision",
     "patches": [
@@ -2042,7 +2042,7 @@
   },
   "Mafia: Definitive Edition": {
     "name": "Mafia: Definitive Edition",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26vl.jpg",
+    "picURL": "Images/Games/co26vl.jpg",
     "releaseYear": 2020.0,
     "company": "2K Games",
     "engine": "Fusion Engine",
@@ -2071,7 +2071,7 @@
   },
   "Stray": {
     "name": "Stray",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tt2.jpg",
+    "picURL": "Images/Games/co4tt2.jpg",
     "releaseYear": 2022.0,
     "company": "Annapurna Interactive",
     "engine": "Unreal Engine 4",
@@ -2100,7 +2100,7 @@
   },
   "Tell Me Why": {
     "name": "Tell Me Why",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ej1.jpg",
+    "picURL": "Images/Games/co2ej1.jpg",
     "releaseYear": 2020.0,
     "company": "Xbox Game Studios",
     "engine": "Unreal Engine 4",
@@ -2118,7 +2118,7 @@
   },
   "Ghostrunner": {
     "name": "Ghostrunner",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nbk.jpg",
+    "picURL": "Images/Games/co2nbk.jpg",
     "releaseYear": 2020.0,
     "company": "All In! Games",
     "engine": "Unreal Engine 4",
@@ -2153,7 +2153,7 @@
   },
   "Assassin\u0027s Creed Odyssey": {
     "name": "Assassin\u0027s Creed Odyssey",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nul.jpg",
+    "picURL": "Images/Games/co2nul.jpg",
     "releaseYear": 2018.0,
     "company": "",
     "engine": "AnvilNext",
@@ -2187,7 +2187,7 @@
   },
   "Atomic Heart": {
     "name": "Atomic Heart",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ag.jpg",
+    "picURL": "Images/Games/co68ag.jpg",
     "releaseYear": 2023.0,
     "company": "Focus Entertainment",
     "engine": "Unreal Engine 4",
@@ -2207,7 +2207,7 @@
   },
   "Detroit: Become Human": {
     "name": "Detroit: Become Human",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6j7u.jpg",
+    "picURL": "Images/Games/co6j7u.jpg",
     "releaseYear": 2018.0,
     "company": "Sony Interactive Entertainment",
     "patches": [
@@ -2225,7 +2225,7 @@
   },
   "Control": {
     "name": "Control",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2evj.jpg",
+    "picURL": "Images/Games/co2evj.jpg",
     "releaseYear": 2019.0,
     "company": "505 Games",
     "engine": "Northlight Engine",
@@ -2254,7 +2254,7 @@
   },
   "L.A. Noire": {
     "name": "L.A. Noire",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ldn.jpg",
+    "picURL": "Images/Games/co2ldn.jpg",
     "releaseYear": 2011.0,
     "company": "Rockstar Games",
     "patches": [
@@ -2287,7 +2287,7 @@
   },
   "Layers of Fear 2": {
     "name": "Layers of Fear 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2j3p.jpg",
+    "picURL": "Images/Games/co2j3p.jpg",
     "releaseYear": 2019.0,
     "company": "Gun Interactive",
     "engine": "Unreal Engine 4",
@@ -2307,7 +2307,7 @@
   },
   "Outlast II": {
     "name": "Outlast II",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20x8.jpg",
+    "picURL": "Images/Games/co20x8.jpg",
     "releaseYear": 2017.0,
     "company": "Red Barrels",
     "engine": "Unreal Engine 3",
@@ -2331,7 +2331,7 @@
   },
   "The Elder Scrolls V: Skyrim": {
     "name": "The Elder Scrolls V: Skyrim",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.jpg",
+    "picURL": "Images/Games/co1tnw.jpg",
     "releaseYear": 2011.0,
     "company": "Bethesda Softworks",
     "engine": "Creation Engine",
@@ -2365,7 +2365,7 @@
   },
   "Shadow of the Tomb Raider": {
     "name": "Shadow of the Tomb Raider",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vcn.jpg",
+    "picURL": "Images/Games/co1vcn.jpg",
     "releaseYear": 2018.0,
     "company": "Square Enix",
     "engine": "Crystal Engine",
@@ -2399,7 +2399,7 @@
   },
   "Far Cry New Dawn": {
     "name": "Far Cry New Dawn",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpg.jpg",
+    "picURL": "Images/Games/co1vpg.jpg",
     "releaseYear": 2019.0,
     "company": "Ubisoft Entertainment",
     "engine": "AnvilNext",
@@ -2423,7 +2423,7 @@
   },
   "Twin Mirror": {
     "name": "Twin Mirror",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w0s.jpg",
+    "picURL": "Images/Games/co5w0s.jpg",
     "releaseYear": 2020.0,
     "company": "Bandai Namco Entertainment",
     "patches": [
@@ -2440,7 +2440,7 @@
   },
   "Batman: Arkham Asylum": {
     "name": "Batman: Arkham Asylum",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voj.jpg",
+    "picURL": "Images/Games/co1voj.jpg",
     "releaseYear": 2009.0,
     "company": "Eidos Interactive",
     "engine": "Unreal Engine",
@@ -2459,7 +2459,7 @@
   },
   "Immortals Fenyx Rising": {
     "name": "Immortals Fenyx Rising",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co489n.jpg",
+    "picURL": "Images/Games/co489n.jpg",
     "releaseYear": 2020.0,
     "company": "",
     "engine": "Ubisoft Anvil",
@@ -2479,7 +2479,7 @@
   },
   "The Wolf Among Us": {
     "name": "The Wolf Among Us",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcy.jpg",
+    "picURL": "Images/Games/co1rcy.jpg",
     "releaseYear": 2013.0,
     "company": "Telltale Games",
     "engine": "Telltale Tool",
@@ -2498,7 +2498,7 @@
   },
   "Fallout 4": {
     "name": "Fallout 4",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc6.jpg",
+    "picURL": "Images/Games/co1yc6.jpg",
     "releaseYear": 2015.0,
     "company": "Bethesda Softworks",
     "engine": "Creation Engine",
@@ -2522,7 +2522,7 @@
   },
   "Life is Strange": {
     "name": "Life is Strange",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8e.jpg",
+    "picURL": "Images/Games/co1r8e.jpg",
     "releaseYear": 2015.0,
     "company": "Square Enix",
     "engine": "Unreal Engine",
@@ -2547,7 +2547,7 @@
   },
   "The Evil Within": {
     "name": "The Evil Within",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wgs.jpg",
+    "picURL": "Images/Games/co5wgs.jpg",
     "releaseYear": 2014.0,
     "company": "Bethesda Softworks",
     "engine": "id Tech 5",
@@ -2577,7 +2577,7 @@
   },
   "Life is Strange: True Colors": {
     "name": "Life is Strange: True Colors",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vpp.jpg",
+    "picURL": "Images/Games/co2vpp.jpg",
     "releaseYear": 2021.0,
     "company": "Square Enix",
     "patches": [
@@ -2614,7 +2614,7 @@
   },
   "Sifu": {
     "name": "Sifu",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4h5s.jpg",
+    "picURL": "Images/Games/co4h5s.jpg",
     "releaseYear": 2022.0,
     "company": "Sloclap",
     "engine": "Unreal Engine 4",
@@ -2644,7 +2644,7 @@
   },
   "Final Fantasy VII Remake": {
     "name": "Final Fantasy VII Remake",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qxr.jpg",
+    "picURL": "Images/Games/co1qxr.jpg",
     "releaseYear": 2020.0,
     "company": "Square Enix",
     "engine": "Unreal Engine",
@@ -2663,7 +2663,7 @@
   },
   "The Medium": {
     "name": "The Medium",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z0q.jpg",
+    "picURL": "Images/Games/co2z0q.jpg",
     "releaseYear": 2021.0,
     "company": "Bloober Team",
     "engine": "Unreal Engine 4",
@@ -2686,7 +2686,7 @@
   },
   "A Juggler\u0027s Tale": {
     "name": "A Juggler\u0027s Tale",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r3a.jpg",
+    "picURL": "Images/Games/co2r3a.jpg",
     "releaseYear": 2021.0,
     "company": "Mixtvision",
     "engine": "Unreal Engine 4",
@@ -2707,7 +2707,7 @@
   },
   "Deathloop": {
     "name": "Deathloop",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4nzt.jpg",
+    "picURL": "Images/Games/co4nzt.jpg",
     "releaseYear": 2021.0,
     "company": "Bethesda Softworks",
     "engine": "Void Engine",
@@ -2726,7 +2726,7 @@
   },
   "Beyond: Two Souls": {
     "name": "Beyond: Two Souls",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mps.jpg",
+    "picURL": "Images/Games/co2mps.jpg",
     "releaseYear": 2013.0,
     "company": "Sony Computer Entertainment",
     "patches": [
@@ -2743,7 +2743,7 @@
   },
   "Metro Exodus": {
     "name": "Metro Exodus",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iuj.jpg",
+    "picURL": "Images/Games/co1iuj.jpg",
     "releaseYear": 2019.0,
     "company": "Deep Silver",
     "engine": "4A Engine",
@@ -2777,7 +2777,7 @@
   },
   "High on Life": {
     "name": "High on Life",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67qo.jpg",
+    "picURL": "Images/Games/co67qo.jpg",
     "releaseYear": 2022.0,
     "company": "Squanch Games",
     "patches": [
@@ -2794,7 +2794,7 @@
   },
   "Heavy Rain": {
     "name": "Heavy Rain",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3rhy.jpg",
+    "picURL": "Images/Games/co3rhy.jpg",
     "releaseYear": 2010.0,
     "company": "Quantic Dream",
     "engine": "Havok",
@@ -2812,7 +2812,7 @@
   },
   "The Witcher 3: Wild Hunt": {
     "name": "The Witcher 3: Wild Hunt",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg",
+    "picURL": "Images/Games/co1wyy.jpg",
     "releaseYear": 2015.0,
     "company": "WB Games",
     "engine": "REDengine",
@@ -2836,7 +2836,7 @@
   },
   "A Plague Tale: Requiem": {
     "name": "A Plague Tale: Requiem",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pwb.jpg",
+    "picURL": "Images/Games/co5pwb.jpg",
     "releaseYear": 2022.0,
     "company": "Focus Entertainment",
     "engine": "Zouna",
@@ -2860,7 +2860,7 @@
   },
   "A Plague Tale: Innocence": {
     "name": "A Plague Tale: Innocence",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lat.jpg",
+    "picURL": "Images/Games/co1lat.jpg",
     "releaseYear": 2019.0,
     "company": "Focus Entertainment",
     "engine": "Zouna",
@@ -2884,7 +2884,7 @@
   },
   "Psychonauts 2": {
     "name": "Psychonauts 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sod.jpg",
+    "picURL": "Images/Games/co1sod.jpg",
     "releaseYear": 2021.0,
     "company": "Xbox Game Studios",
     "engine": "Unreal Engine 4",
@@ -2903,7 +2903,7 @@
   },
   "Far Cry 6": {
     "name": "Far Cry 6",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2npg.jpg",
+    "picURL": "Images/Games/co2npg.jpg",
     "releaseYear": 2021.0,
     "company": "",
     "engine": "Dunia Engine",
@@ -2932,7 +2932,7 @@
   },
   "Biomutant": {
     "name": "Biomutant",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rse.jpg",
+    "picURL": "Images/Games/co1rse.jpg",
     "releaseYear": 2021.0,
     "company": "THQ Nordic",
     "engine": "Unreal Engine 4",
@@ -2951,7 +2951,7 @@
   },
   "Sniper Ghost Warrior Contracts 2": {
     "name": "Sniper Ghost Warrior Contracts 2",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nuh.jpg",
+    "picURL": "Images/Games/co2nuh.jpg",
     "releaseYear": 2021.0,
     "company": "CI Games",
     "engine": "CryEngine V",
@@ -2970,7 +2970,7 @@
   },
   "Chernobylite": {
     "name": "Chernobylite",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vi.jpg",
+    "picURL": "Images/Games/co39vi.jpg",
     "releaseYear": 2021.0,
     "company": "All In! Games",
     "engine": "Unreal Engine 4",
@@ -2996,7 +2996,7 @@
   },
   "Trek to Yomi": {
     "name": "Trek to Yomi",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p88.jpg",
+    "picURL": "Images/Games/co4p88.jpg",
     "releaseYear": 2022.0,
     "company": "Devolver Digital",
     "engine": "Unreal Engine 4",
@@ -3016,7 +3016,7 @@
   },
   "Darksiders III": {
     "name": "Darksiders III",
-    "picURL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qqk.jpg",
+    "picURL": "Images/Games/co1qqk.jpg",
     "releaseYear": 2018.0,
     "company": "THQ Nordic",
     "engine": "Unreal Engine 4",
