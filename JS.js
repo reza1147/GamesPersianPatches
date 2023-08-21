@@ -98,6 +98,9 @@ function fetchData() {
                         case "Par30Game":
                             patcherImg.src = "Images/Patcher/Par30Game.png";
                             break;
+                        case "GMDownload":
+                            patcherImg.src = "Images/Patcher/GMDownload.png";
+                            break;
                     }
                     var platformImg = document.createElement("img");
                     platformImg.classList.add("platformImg");

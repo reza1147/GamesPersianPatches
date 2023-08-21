@@ -96,6 +96,11 @@
         "patcher": "FarsiSaz",
         "URL": "https://farsisaz.com/product/uncharted-legacy-of-thieves-collection-farsi/",
         "platform": "PC"
+      },
+      {
+        "patcher": "Par30Game",
+        "URL": "https://par30games.net/197747/uncharted-legacy-of-thieves-collection-persian-subtitle/",
+        "platform": "PC"
       }
     ],
     "genres": [
@@ -220,6 +225,11 @@
         "patcher": "Mohsening",
         "URL": "https://www.p30day.ir/hogwarts-legacy-subtitle-319265.html",
         "platform": "PS4"
+      },
+      {
+        "patcher": "Par30Game",
+        "URL": "https://par30games.net/214227/hogwarts-legacy-persian-subtitle/",
+        "platform": "PC"
       }
     ],
     "genres": [
@@ -459,6 +469,11 @@
         "patcher": "GameSub",
         "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
         "platform": "PC"
+      },
+      {
+        "patcher": "GameSub",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
+        "platform": "PS4"
       }
     ],
     "genres": [
@@ -616,6 +631,11 @@
       {
         "patcher": "FarsiSaz",
         "URL": "https://farsisaz.com/product/uncharted-legacy-of-thieves-collection-farsi/",
+        "platform": "PC"
+      },
+      {
+        "patcher": "Par30Game",
+        "URL": "https://par30games.net/197747/uncharted-legacy-of-thieves-collection-persian-subtitle/",
         "platform": "PC"
       }
     ],
@@ -783,6 +803,43 @@
       "Adventure"
     ],
     "IGDB_ID": "74701"
+  },
+  "Star Wars Jedi: Survivor": {
+    "name": "Star Wars Jedi: Survivor",
+    "picURL": "Images/Games/co5uzk.jpg",
+    "releaseYear": 2023.0,
+    "company": "Electronic Arts",
+    "engine": "Unreal Engine 4",
+    "patches": [
+      {
+        "patcher": "FarsiSaz",
+        "URL": "https://farsisaz.com/product/star-wars-jedi-survivor/",
+        "platform": "PC"
+      }
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "IGDB_ID": "201156"
+  },
+  "The Callisto Protocol": {
+    "name": "The Callisto Protocol",
+    "picURL": "Images/Games/co4ymo.jpg",
+    "releaseYear": 2022.0,
+    "company": "Striking Distance Studios",
+    "engine": "Unreal Engine 4",
+    "patches": [
+      {
+        "patcher": "FarsiSaz",
+        "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
+        "platform": "PC"
+      }
+    ],
+    "genres": [
+      "Adventure",
+      "Shooter"
+    ],
+    "IGDB_ID": "141538"
   },
   "Visage": {
     "name": "Visage",
@@ -992,6 +1049,25 @@
       "Adventure"
     ],
     "IGDB_ID": "138949"
+  },
+  "Marvel\u0027s Spider-Man: Miles Morales": {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "picURL": "Images/Games/co2dwe.jpg",
+    "releaseYear": 2020.0,
+    "company": "Sony Interactive Entertainment",
+    "engine": "Insomniac Engine v.4.0",
+    "patches": [
+      {
+        "patcher": "FarsiSaz",
+        "URL": "https://farsisaz.com/product/marvels-spider-man-miles-morales/",
+        "platform": "PC"
+      }
+    ],
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "IGDB_ID": "134581"
   },
   "God of War III": {
     "name": "God of War III",
@@ -1372,6 +1448,26 @@
     ],
     "IGDB_ID": "113739"
   },
+  "Bright Memory": {
+    "name": "Bright Memory",
+    "picURL": "Images/Games/co26z5.jpg",
+    "releaseYear": 2020.0,
+    "company": "PLAYISM",
+    "engine": "Unreal Engine 4",
+    "patches": [
+      {
+        "patcher": "GMDownload",
+        "URL": "https://gmdownload.ir/bright-memory/",
+        "platform": "PC"
+      }
+    ],
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Shooter"
+    ],
+    "IGDB_ID": "113739"
+  },
   "Sherlock Holmes: The Devil\u0027s Daughter": {
     "name": "Sherlock Holmes: The Devil\u0027s Daughter",
     "picURL": "Images/Games/co3wmc.jpg",
@@ -1518,6 +1614,11 @@
       {
         "patcher": "FarsiSaz",
         "URL": "https://farsisaz.com/product/the-last-of-us-part-i/",
+        "platform": "PC"
+      },
+      {
+        "patcher": "GameSub",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-last-of-us-part-i/",
         "platform": "PC"
       }
     ],
@@ -3013,6 +3114,47 @@
       "Indie"
     ],
     "IGDB_ID": "152203"
+  },
+  "Wasteland 2": {
+    "name": "Wasteland 2",
+    "picURL": "Images/Games/co2601.jpg",
+    "releaseYear": 2014.0,
+    "company": "inXile Entertainment",
+    "engine": "Unity",
+    "patches": [
+      {
+        "patcher": "Hayoola",
+        "URL": "",
+        "platform": "PC"
+      }
+    ],
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)"
+    ],
+    "IGDB_ID": "3101"
+  },
+  "Gylt": {
+    "name": "Gylt",
+    "picURL": "Images/Games/co2qad.jpg",
+    "releaseYear": 2019.0,
+    "company": "Tequila Works",
+    "engine": "Unreal Engine 4",
+    "patches": [
+      {
+        "patcher": "GMDownload",
+        "URL": "https://gmdownload.ir/gylt/",
+        "platform": "PC"
+      }
+    ],
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "IGDB_ID": "119247"
   },
   "Darksiders III": {
     "name": "Darksiders III",
