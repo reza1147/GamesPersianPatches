@@ -78,25 +78,25 @@ function fetchData() {
                     patcherImg.alt = jsonData[name]["patches"][patchIdx]["patcher"];
                     switch (jsonData[name]["patches"][patchIdx]["patcher"]) {
                         case "GameSub":
-                            patcherImg.src = "https://i.ibb.co/d2KMYj4/image-2023-05-30-005030085.png";
+                            patcherImg.src = "Images/Patcher/GameSub.png";
                             break;
                         case "FarsiSaz":
-                            patcherImg.src = "https://i.ibb.co/tqKd6HG/image-2023-05-30-005053503.png";
+                            patcherImg.src = "Images/Patcher/FarsiSaz.png";
                             break;
                         case "SubRan":
-                            patcherImg.src = "https://i.ibb.co/KDr9TmB/image-2023-05-30-005131749.png";
+                            patcherImg.src = "Images/Patcher/SubRan.png";
                             break;
                         case "TeamFa":
-                            patcherImg.src = "https://i.ibb.co/Scg4vH6/image-2023-05-30-005140826.png";
+                            patcherImg.src = "Images/Patcher/TeamFa.png";
                             break;
                         case "Hayoola":
-                            patcherImg.src = "https://i.ibb.co/09V2RR4/image-2023-05-30-005300790.png";
+                            patcherImg.src = "Images/Patcher/Hayoola.png";
                             break;
                         case "Mohsening":
-                            patcherImg.src = "https://i.ibb.co/sjb6Dzx/image-2023-05-30-005230254.png";
+                            patcherImg.src = "Images/Patcher/Mohsening.png";
                             break;
                         case "Par30Game":
-                            patcherImg.src = "https://i.ibb.co/87zhLfB/image-2023-05-30-005120438.png";
+                            patcherImg.src = "Images/Patcher/Par30Game.png";
                             break;
                     }
                     var platformImg = document.createElement("img");
@@ -104,16 +104,16 @@ function fetchData() {
                     platformImg.alt = jsonData[name]["patches"][patchIdx]["platform"];
                     switch (jsonData[name]["patches"][patchIdx]["platform"]) {
                         case "PC":
-                            platformImg.src = "https://i.ibb.co/YBDgkCp/image-2023-05-30-011911502.png";
+                            platformImg.src = "Images/Platform/PC.png";
                             break;
                         case "PS4":
-                            platformImg.src = "https://i.ibb.co/Rg9ym3S/image-2023-05-30-011920235.png";
+                            platformImg.src = "Images/Platform/PS4.png";
                             break;
                         case "PS3":
-                            platformImg.src = "https://i.ibb.co/Qr09nSP/image-2023-05-30-011929210.png";
+                            platformImg.src = "Images/Platform/PS3.png";
                             break;
                         case "NintendoSwitch":
-                            platformImg.src = "https://i.ibb.co/Jzpwyxm/image-2023-05-30-011939880.png";
+                            platformImg.src = "Images/Platform/NintendoSwitch.png";
                             break;
                     }
                     // patch.innerHTML = jsonData[name]["patches"][patchIdx]["platform"];
