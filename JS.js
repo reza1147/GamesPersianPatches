@@ -117,8 +117,8 @@ function fetchData() {
                             break;
                     }
                     // patch.innerHTML = jsonData[name]["patches"][patchIdx]["platform"];
-                    patch.appendChild(platformImg);
                     link.appendChild(patcherImg);
+                    link.appendChild(platformImg);
                     patch.appendChild(link);
                     patches.appendChild(patch);
                 }
