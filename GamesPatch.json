@@ -2400,6 +2400,25 @@
     "picURL": "Images/Games/co2zpu.jpg",
     "releaseYear": 2021.0
   },
+  "Scars Above": {
+    "IGDB_ID": "152074",
+    "company": "Mad Head Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Scars Above",
+    "patches": [
+      {
+        "URL": "https://gmdownload.ir/scars-above/",
+        "patcher": "GMDownload",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co56q7.jpg",
+    "releaseYear": 2023.0
+  },
   "Sekiro: Shadows Die Twice": {
     "IGDB_ID": "76882",
     "company": "Activision",
