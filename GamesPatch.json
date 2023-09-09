@@ -1,3133 +1,3338 @@
 {
-  "Resident Evil 2": {
-    "name": "Resident Evil 2",
-    "picURL": "Images/Games/co1ir3.jpg",
-    "releaseYear": 2019.0,
-    "company": "Capcom",
-    "engine": "RE Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-2-remake/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-2-remake/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "19686"
-  },
-  "Resident Evil 3": {
-    "name": "Resident Evil 3",
-    "picURL": "Images/Games/co22l7.jpg",
-    "releaseYear": 2020.0,
-    "company": "Capcom",
-    "engine": "RE Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/resident-evil-3-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/resident-evil-3/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-3-remake/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-3-remake/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "SubRan",
-        "URL": "https://vgdl.ir/4resident-evil-3-remake/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "115115"
-  },
-  "Batman: Arkham Knight": {
-    "name": "Batman: Arkham Knight",
-    "picURL": "Images/Games/co1nh1.jpg",
-    "releaseYear": 2015.0,
-    "company": "Warner Bros. Interactive Entertainment",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/batman-arkham-knight/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/batman-arkham-knight/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "5503"
-  },
-  "Uncharted: The Lost Legacy": {
-    "name": "Uncharted: The Lost Legacy",
-    "picURL": "Images/Games/co1tp9.jpg",
-    "releaseYear": 2017.0,
-    "company": "Sony Interactive Entertainment",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/uncharted-legacy-of-thieves-collection-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/197747/uncharted-legacy-of-thieves-collection-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "26193"
-  },
-  "Assassin\u0027s Creed Origins": {
-    "name": "Assassin\u0027s Creed Origins",
-    "picURL": "Images/Games/co1rbe.jpg",
-    "releaseYear": 2017.0,
-    "company": "Ubisoft Entertainment",
-    "engine": "AnvilNext",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/assassins-creed-origins-ps4-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/assassins-creed-origins/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-origins/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-origins/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "28540"
-  },
-  "Grand Theft Auto III: The Definitive Edition": {
-    "name": "Grand Theft Auto III: The Definitive Edition",
-    "picURL": "Images/Games/co65yy.jpg",
-    "releaseYear": 2021.0,
-    "company": "Rockstar Games",
+  "A Juggler\u0027s Tale": {
+    "IGDB_ID": "122050",
+    "company": "Mixtvision",
     "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/gta-iii-definitive-edition-farsi-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/gta-iii-definitive-edition-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/135272/gta-iii-definitive-edition-persian-subtitle/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/gta-iii-definitive-edition",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Racing",
-      "Adventure"
-    ],
-    "IGDB_ID": "178123"
-  },
-  "Red Dead Redemption 2": {
-    "name": "Red Dead Redemption 2",
-    "picURL": "Images/Games/co1q1f.jpg",
-    "releaseYear": 2018.0,
-    "company": "Take-Two Interactive",
-    "engine": "RAGE",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/rdr2-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/rdr2-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-red-dead-redemption-2/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "25076"
-  },
-  "Hogwarts Legacy": {
-    "name": "Hogwarts Legacy",
-    "picURL": "Images/Games/co2gn3.jpg",
-    "releaseYear": 2023.0,
-    "company": "Portkey Games",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/hogwarts-legacy-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Mohsening",
-        "URL": "https://www.p30day.ir/hogwarts-legacy-subtitle-319265.html",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/214227/hogwarts-legacy-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "136625"
-  },
-  "Little Nightmares": {
-    "name": "Little Nightmares",
-    "picURL": "Images/Games/co1rdi.jpg",
-    "releaseYear": 2017.0,
-    "company": "Bandai Namco Entertainment",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/little-nightmares",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Platform",
       "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "9174"
-  },
-  "Vampyr": {
-    "name": "Vampyr",
-    "picURL": "Images/Games/co1q8o.jpg",
-    "releaseYear": 2018.0,
-    "company": "Focus Entertainment",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/vampyr-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/vampyr/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ومپایر-vampyr/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ومپایر-vampyr/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "8729"
-  },
-  "Resident Evil 4": {
-    "name": "Resident Evil 4",
-    "picURL": "Images/Games/co6bo0.jpg",
-    "releaseYear": 2023.0,
-    "company": "Capcom",
-    "engine": "RE Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/resident-evil-4-remake/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/resident-evil-4-remake/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-4/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "132181"
-  },
-  "Valiant Hearts: The Great War": {
-    "name": "Valiant Hearts: The Great War",
-    "picURL": "Images/Games/co25zo.jpg",
-    "releaseYear": 2014.0,
-    "company": "Ubisoft Entertainment",
-    "engine": "UbiArt Framework",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-قلب-های-دلیر/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "7327"
-  },
-  "Her Story": {
-    "name": "Her Story",
-    "picURL": "Images/Games/co2gzl.jpg",
-    "releaseYear": 2015.0,
-    "company": "Sam Barlow",
-    "engine": "Unity",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-داستان-او-her-story/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Point-and-click",
-      "Simulator",
+      "Adventure",
       "Indie"
     ],
-    "IGDB_ID": "11346"
-  },
-  "It Takes Two": {
-    "name": "It Takes Two",
-    "picURL": "Images/Games/co2t97.jpg",
-    "releaseYear": 2021.0,
-    "company": "Electronic Arts",
-    "engine": "Unreal Engine 4",
+    "name": "A Juggler\u0027s Tale",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/a-jugglers-tale-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/it-takes-two/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/it-takes-two-2-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/it-takes-two",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co2r3a.jpg",
+    "releaseYear": 2021.0
+  },
+  "A Plague Tale: Innocence": {
+    "IGDB_ID": "27316",
+    "company": "Focus Entertainment",
+    "engine": "Zouna",
     "genres": [
-      "Platform",
-      "Puzzle",
+      "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "135243"
+    "name": "A Plague Tale: Innocence",
+    "patches": [
+      {
+        "URL": "https://par30games.net/185560/a-plague-tale-innocence-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://subran.org/shop/فارسی-ساز-کامل-بازی-a-plague-tale-innocence/",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1lat.jpg",
+    "releaseYear": 2019.0
+  },
+  "A Plague Tale: Requiem": {
+    "IGDB_ID": "152242",
+    "company": "Focus Entertainment",
+    "engine": "Zouna",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "A Plague Tale: Requiem",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/a-plague-tale-requiem/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/191905/a-plague-tale-requiem-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5pwb.jpg",
+    "releaseYear": 2022.0
+  },
+  "A Way Out": {
+    "IGDB_ID": "36897",
+    "company": "Electronic Arts",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "A Way Out",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/a-way-out/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/a-way-out/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://teamfa.net/shop/a-way-out",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1vca.jpg",
+    "releaseYear": 2018.0
+  },
+  "Alan Wake Remastered": {
+    "IGDB_ID": "167611",
+    "company": "Remedy Entertainment",
+    "engine": "Northlight Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Alan Wake Remastered",
+    "patches": [
+      {
+        "URL": "https://gbaz.ir/game/1363/alan-wake-remastered-farsi",
+        "patcher": "GBaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co65aa.jpg",
+    "releaseYear": 2021.0
+  },
+  "Aliens: Fireteam Elite": {
+    "IGDB_ID": "144153",
+    "company": "Focus Entertainment",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Aliens: Fireteam Elite",
+    "patches": [
+      {
+        "URL": "https://par30games.net/129704/aliens-fireteam-elite-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co3gu0.jpg",
+    "releaseYear": 2021.0
+  },
+  "Assassin\u0027s Creed Chronicles: China": {
+    "IGDB_ID": "8223",
+    "company": "Ubisoft Entertainment",
+    "genres": [
+      "Platform",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Assassin\u0027s Creed Chronicles: China",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-chronicles/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1qy6.jpg",
+    "releaseYear": 2015.0
+  },
+  "Assassin\u0027s Creed Chronicles: India": {
+    "IGDB_ID": "14902",
+    "company": "Ubisoft Entertainment",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Assassin\u0027s Creed Chronicles: India",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-chronicles/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1qy4.jpg",
+    "releaseYear": 2016.0
   },
   "Assassin\u0027s Creed Chronicles: Russia": {
-    "name": "Assassin\u0027s Creed Chronicles: Russia",
-    "picURL": "Images/Games/co1qy5.jpg",
-    "releaseYear": 2016.0,
+    "IGDB_ID": "14903",
     "company": "Ubisoft Entertainment",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Assassin\u0027s Creed Chronicles: Russia",
     "patches": [
       {
-        "patcher": "GameSub",
         "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-chronicles/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ],
-    "IGDB_ID": "14903"
-  },
-  "Martha Is Dead": {
-    "name": "Martha Is Dead",
-    "picURL": "Images/Games/co2or1.jpg",
-    "releaseYear": 2022.0,
-    "company": "Wired Productions",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/martha-is-dead-farsisaz/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "90714"
-  },
-  "The Last of Us": {
-    "name": "The Last of Us",
-    "picURL": "Images/Games/co1r7f.jpg",
-    "releaseYear": 2013.0,
-    "company": "Sony Computer Entertainment",
-    "patches": [
-      {
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-last-of-us/",
-        "platform": "PS3"
+        "platform": "PC"
       }
     ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "1009"
+    "picURL": "Images/Games/co1qy5.jpg",
+    "releaseYear": 2016.0
   },
-  "Grand Theft Auto V": {
-    "name": "Grand Theft Auto V",
-    "picURL": "Images/Games/co2lbd.jpg",
-    "releaseYear": 2013.0,
-    "company": "Rockstar Games",
-    "engine": "RAGE",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
-        "platform": "PS3"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
-        "platform": "PS4"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "1020"
-  },
-  "Kena: Bridge of Spirits": {
-    "name": "Kena: Bridge of Spirits",
-    "picURL": "Images/Games/co5vx4.jpg",
-    "releaseYear": 2021.0,
-    "company": "Ember Lab",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/kena-bridge-of-spirits-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/kena-bridge-of-spirits-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-کنا-پل-ارواح-kena-bridge-of-spirits/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-کنا-پل-ارواح-kena-bridge-of-spirits/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/125719/kena-bridge-of-spirits-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "134588"
-  },
-  "Contrast": {
-    "name": "Contrast",
-    "picURL": "Images/Games/co1qqh.jpg",
-    "releaseYear": 2013.0,
-    "company": "Focus Entertainment",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/contrast-زیرنویس-فارسی-بازی/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "3839"
-  },
-  "Metal Gear Solid V: The Phantom Pain": {
-    "name": "Metal Gear Solid V: The Phantom Pain",
-    "picURL": "Images/Games/co1v85.jpg",
-    "releaseYear": 2015.0,
-    "company": "Konami",
-    "engine": "Fox Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-metal-gear-solid-v-the-phantom-pain/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure"
-    ],
-    "IGDB_ID": "1985"
-  },
-  "BioShock Infinite": {
-    "name": "BioShock Infinite",
-    "picURL": "Images/Games/co2n12.jpg",
-    "releaseYear": 2013.0,
-    "company": "2K Games",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/bioshock-infinite-all-dlcs-زیرنویس-فارسی/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/bioshock-infinite-all-dlcs-زیرنویس-فارسی/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "538"
-  },
-  "The Awesome Adventures of Captain Spirit": {
-    "name": "The Awesome Adventures of Captain Spirit",
-    "picURL": "Images/Games/co3gmm.jpg",
-    "releaseYear": 2018.0,
-    "company": "Square Enix",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/captain-spirit",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "103283"
-  },
-  "Layers of Fear": {
-    "name": "Layers of Fear",
-    "picURL": "Images/Games/co1nhw.jpg",
-    "releaseYear": 2016.0,
-    "company": "Bloober Team",
-    "engine": "Unity",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/layers-of-fear-1",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "12482"
-  },
-  "Uncharted 4: A Thief\u0027s End": {
-    "name": "Uncharted 4: A Thief\u0027s End",
-    "picURL": "Images/Games/co1r7h.jpg",
-    "releaseYear": 2016.0,
-    "company": "Sony Interactive Entertainment",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/uncharted-legacy-of-thieves-collection-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/197747/uncharted-legacy-of-thieves-collection-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "7331"
-  },
-  "Dying Light 2: Stay Human": {
-    "name": "Dying Light 2: Stay Human",
-    "picURL": "Images/Games/co65yk.jpg",
-    "releaseYear": 2022.0,
-    "company": "Techland Publishing",
-    "engine": "C-Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/subtitle-dying-light-2-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/subtitle-dying-light-2-farsi/",
-        "platform": "PC"
-      }
-    ],
+  "Assassin\u0027s Creed Odyssey": {
+    "IGDB_ID": "103054",
+    "company": "",
+    "engine": "AnvilNext",
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "102584"
-  },
-  "Sherlock Holmes: The Awakened": {
-    "name": "Sherlock Holmes: The Awakened",
-    "picURL": "Images/Games/co68l9.jpg",
-    "releaseYear": 2023,
-    "company": "Frogwares",
-    "engine": "Unreal Engine",
+    "name": "Assassin\u0027s Creed Odyssey",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/pc-assassins-creed-odyssey/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/sherlock-holmes-the-awakened/",
         "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "212664"
-  },
-  "Minecraft: Story Mode": {
-    "name": "Minecraft: Story Mode",
-    "picURL": "Images/Games/co1vi7.jpg",
-    "releaseYear": 2015.0,
-    "company": "Mojang Studios",
-    "engine": "Telltale Tool",
-    "patches": [
+      },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-قسمت-اول-minecraft-story-mode-episode-1/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "8339"
-  },
-  "Little Nightmares II": {
-    "name": "Little Nightmares II",
-    "picURL": "Images/Games/co1p7d.jpg",
-    "releaseYear": 2021.0,
-    "company": "Bandai Namco Entertainment",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/little-nightmares-ii",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "121760"
-  },
-  "Mortal Shell": {
-    "name": "Mortal Shell",
-    "picURL": "Images/Games/co227z.jpg",
-    "releaseYear": 2020.0,
-    "company": "Playstack",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/mortal-shell",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Indie"
-    ],
-    "IGDB_ID": "132050"
-  },
-  "Cyberpunk 2077": {
-    "name": "Cyberpunk 2077",
-    "picURL": "Images/Games/co4hk8.jpg",
-    "releaseYear": 2020.0,
-    "company": "CD Projekt RED",
-    "engine": "REDengine 4",
-    "patches": [
-      {
+        "URL": "https://farsisaz.com/product/assassins-creed-odyssey-ps4/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/cyberpunk-2077-farsi/",
         "platform": "PS4"
       },
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/cyberpunk-2077-farsi/",
-        "platform": "PC"
-      },
-      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-odyssey/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سایبرپانک-cyberpunk-2077/",
         "platform": "PS4"
       },
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-odyssey/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سایبرپانک-cyberpunk-2077/",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co2nul.jpg",
+    "releaseYear": 2018.0
+  },
+  "Assassin\u0027s Creed Origins": {
+    "IGDB_ID": "28540",
+    "company": "Ubisoft Entertainment",
+    "engine": "AnvilNext",
     "genres": [
-      "Shooter",
       "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "1877"
-  },
-  "Star Wars Jedi: Fallen Order": {
-    "name": "Star Wars Jedi: Fallen Order",
-    "picURL": "Images/Games/co1rbi.jpg",
-    "releaseYear": 2019.0,
-    "company": "Electronic Arts",
-    "engine": "Unreal Engine 4",
+    "name": "Assassin\u0027s Creed Origins",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/assassins-creed-origins-ps4-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/star-wars-jedi-fallen-order/",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/assassins-creed-origins/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       },
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/star-wars-jedi-fallen-order-ps4/",
-        "platform": "PS4"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "74701"
-  },
-  "Star Wars Jedi: Survivor": {
-    "name": "Star Wars Jedi: Survivor",
-    "picURL": "Images/Games/co5uzk.jpg",
-    "releaseYear": 2023.0,
-    "company": "Electronic Arts",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/star-wars-jedi-survivor/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "201156"
-  },
-  "The Callisto Protocol": {
-    "name": "The Callisto Protocol",
-    "picURL": "Images/Games/co4ymo.jpg",
-    "releaseYear": 2022.0,
-    "company": "Striking Distance Studios",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure",
-      "Shooter"
-    ],
-    "IGDB_ID": "141538"
-  },
-  "Visage": {
-    "name": "Visage",
-    "picURL": "Images/Games/co1h7d.jpg",
-    "releaseYear": 2020.0,
-    "company": "SadSquare Studio",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/visage",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Puzzle",
-      "Simulator",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "18020"
-  },
-  "Game of Thrones: A Telltale Games Series": {
-    "name": "Game of Thrones: A Telltale Games Series",
-    "picURL": "Images/Games/co1nrt.jpg",
-    "releaseYear": 2014.0,
-    "company": "Telltale Games",
-    "engine": "Telltale Tool",
-    "patches": [
-      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-origins/",
         "patcher": "GameSub",
-        "URL": "https://s29.picofile.com/file/8463742768/Game_of_Throens_tell_tale_games_farsisaz_pass_gotyfarsi_9981_.rar.html",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-origins/",
+        "patcher": "GameSub",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1rbe.jpg",
+    "releaseYear": 2017.0
+  },
+  "Assassin\u0027s Creed Unity": {
+    "IGDB_ID": "5606",
+    "company": "Ubisoft Entertainment",
+    "engine": "AnvilNext",
     "genres": [
-      "Point-and-click",
+      "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "7610"
-  },
-  "Sherlock Holmes: Crimes \u0026 Punishments": {
-    "name": "Sherlock Holmes: Crimes \u0026 Punishments",
-    "picURL": "Images/Games/co1sqz.jpg",
-    "releaseYear": 2014.0,
-    "company": "Focus Entertainment",
-    "engine": "Unreal Engine",
+    "name": "Assassin\u0027s Creed Unity",
     "patches": [
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/sherlock-holmes-crimes-and-punishments-farsi/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "5541"
-  },
-  "Evil West": {
-    "name": "Evil West",
-    "picURL": "Images/Games/co4udq.jpg",
-    "releaseYear": 2022.0,
-    "company": "Focus Entertainment",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/208280/evil-west-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "141547"
-  },
-  "The Dark Pictures Anthology: Man of Medan": {
-    "name": "The Dark Pictures Anthology: Man of Medan",
-    "picURL": "Images/Games/co1omz.jpg",
-    "releaseYear": 2019.0,
-    "company": "Bandai Namco Entertainment",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
+        "URL": "https://vgdl.ir/79732-2/",
         "patcher": "SubRan",
-        "URL": "https://www.payping.ir/d/29jd",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1xiq.jpg",
+    "releaseYear": 2014.0
+  },
+  "Assassin\u0027s Creed Valhalla": {
+    "IGDB_ID": "133004",
+    "company": "Ubisoft Entertainment",
+    "engine": "AnvilNext",
     "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "55047"
-  },
-  "Metal Gear Solid V: Ground Zeroes": {
-    "name": "Metal Gear Solid V: Ground Zeroes",
-    "picURL": "Images/Games/co1v88.jpg",
-    "releaseYear": 2014.0,
-    "company": "Konami",
-    "engine": "Fox Engine",
+    "name": "Assassin\u0027s Creed Valhalla",
     "patches": [
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-metal-gear-solid-v-ground-zeroes/",
+        "URL": "https://farsisaz.com/product/assassins-creed-valhalla/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/assassins-creed-valhalla/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure"
-    ],
-    "IGDB_ID": "5328"
+    "picURL": "Images/Games/co2ed3.jpg",
+    "releaseYear": 2020.0
   },
-  "Call of Cthulhu": {
-    "name": "Call of Cthulhu",
-    "picURL": "Images/Games/co2d3a.jpg",
-    "releaseYear": 2018.0,
+  "Atomic Heart": {
+    "IGDB_ID": "76747",
     "company": "Focus Entertainment",
     "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/call-of-cthulhu",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "9176"
-  },
-  "Elden Ring": {
-    "name": "Elden Ring",
-    "picURL": "Images/Games/co4jni.jpg",
-    "releaseYear": 2022.0,
-    "company": "Bandai Namco Entertainment",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/elden-ring-farsisaz/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/elden-ring-farsisaz/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-الدن-رینگ-elden-ring/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-الدن-رینگ-elden-ring/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "119133"
-  },
-  "Uncharted 3: Drake\u0027s Deception": {
-    "name": "Uncharted 3: Drake\u0027s Deception",
-    "picURL": "Images/Games/co1tp8.jpg",
-    "releaseYear": 2011.0,
-    "company": "Sony Computer Entertainment",
-    "engine": "Naughty Dog Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-بازی-uncharted-3-drakes-deception/",
-        "platform": "PS3"
-      }
-    ],
     "genres": [
       "Shooter",
-      "Platform",
+      "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "512"
-  },
-  "Marvel\u0027s Spider-Man Remastered": {
-    "name": "Marvel\u0027s Spider-Man Remastered",
-    "picURL": "Images/Games/co52vm.jpg",
-    "releaseYear": 2020.0,
-    "company": "Sony Interactive Entertainment",
-    "engine": "Insomniac Engine v.4.0",
+    "name": "Atomic Heart",
     "patches": [
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/marvels-spider-man-remastered-farsisaz/",
-        "platform": "PC"
+        "URL": "https://www.p30day.ir/atomic-heart-subtitle-316840.html",
+        "patcher": "Mohsening",
+        "platform": "PS4"
       }
     ],
-    "genres": [
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "138949"
+    "picURL": "Images/Games/co68ag.jpg",
+    "releaseYear": 2023.0
   },
-  "Marvel\u0027s Spider-Man: Miles Morales": {
-    "name": "Marvel's Spider-Man: Miles Morales",
-    "picURL": "Images/Games/co2dwe.jpg",
-    "releaseYear": 2020.0,
-    "company": "Sony Interactive Entertainment",
-    "engine": "Insomniac Engine v.4.0",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/marvels-spider-man-miles-morales/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "134581"
-  },
-  "God of War III": {
-    "name": "God of War III",
-    "picURL": "Images/Games/co3koi.jpg",
-    "releaseYear": 2010.0,
-    "company": "Sony Computer Entertainment",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/god-of-war-3-زیرنویس-فارسی-بازی/",
-        "platform": "PS3"
-      }
-    ],
-    "genres": [
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "499"
-  },
-  "DmC: Devil May Cry": {
-    "name": "DmC: Devil May Cry",
-    "picURL": "Images/Games/co1u77.jpg",
-    "releaseYear": 2013.0,
-    "company": "Capcom",
+  "Batman: Arkham Asylum": {
+    "IGDB_ID": "500",
+    "company": "Eidos Interactive",
     "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شیطان-میگرید-dmc/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
-      "Puzzle",
       "Hack and slash/Beat \u0027em up",
       "Adventure"
     ],
-    "IGDB_ID": "1254"
-  },
-  "Call of the Sea": {
-    "name": "Call of the Sea",
-    "picURL": "Images/Games/co2ir4.jpg",
-    "releaseYear": 2020.0,
-    "company": "Raw Fury",
-    "engine": "Unreal Engine 4",
+    "name": "Batman: Arkham Asylum",
     "patches": [
       {
-        "patcher": "SubRan",
-        "URL": "https://subran.org/shop/فارسی-ساز-بازی-call-of-the-sea/",
+        "URL": "https://teamfa.net/shop/batman-arkham-asylum",
+        "patcher": "TeamFa",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1voj.jpg",
+    "releaseYear": 2009.0
+  },
+  "Batman: Arkham Knight": {
+    "IGDB_ID": "5503",
+    "company": "Warner Bros. Interactive Entertainment",
+    "engine": "Unreal Engine",
     "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
     ],
-    "IGDB_ID": "133306"
+    "name": "Batman: Arkham Knight",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/batman-arkham-knight/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/batman-arkham-knight/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1nh1.jpg",
+    "releaseYear": 2015.0
   },
   "Batman: The Telltale Series": {
-    "name": "Batman: The Telltale Series",
-    "picURL": "Images/Games/co1u65.jpg",
-    "releaseYear": 2016.0,
+    "IGDB_ID": "14746",
     "company": "Telltale Games",
     "engine": "Telltale Tool",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-فصل-اول-batman-the-telltale-series/",
-        "platform": "PS3"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-فصل-اول-batman-the-telltale-series/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Point-and-click",
       "Role-playing (RPG)",
       "Adventure",
       "Visual Novel"
     ],
-    "IGDB_ID": "14746"
-  },
-  "The Walking Dead: The Telltale Definitive Series": {
-    "name": "The Walking Dead: The Telltale Definitive Series",
-    "picURL": "Images/Games/co1q9o.jpg",
-    "releaseYear": 2019.0,
-    "company": "Skybound Games",
+    "name": "Batman: The Telltale Series",
     "patches": [
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-فصل-اول-batman-the-telltale-series/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-مردگان-متحرک-the-walking-dead/",
+        "platform": "PS3"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-فصل-اول-batman-the-telltale-series/",
+        "patcher": "GameSub",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1u65.jpg",
+    "releaseYear": 2016.0
+  },
+  "Beyond: Two Souls": {
+    "IGDB_ID": "1342",
+    "company": "Sony Computer Entertainment",
     "genres": [
-      "Point-and-click",
       "Adventure"
     ],
-    "IGDB_ID": "117514"
-  },
-  "Crash Bandicoot 4: It\u0027s About Time": {
-    "name": "Crash Bandicoot 4: It\u0027s About Time",
-    "picURL": "Images/Games/co2hp4.jpg",
-    "releaseYear": 2020.0,
-    "company": "Activision",
+    "name": "Beyond: Two Souls",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/beyond-two-souls-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/crash-bandicoot-4-its-about-time-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/crash-bandicoot-4-its-about-time-farsdi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/crash-bandicoot-4-its-about-time",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Platform"
-    ],
-    "IGDB_ID": "135254"
+    "picURL": "Images/Games/co2mps.jpg",
+    "releaseYear": 2013.0
   },
-  "The Quarry": {
-    "name": "The Quarry",
-    "picURL": "Images/Games/co4kl4.jpg",
-    "releaseYear": 2022.0,
+  "BioShock Infinite": {
+    "IGDB_ID": "538",
     "company": "2K Games",
     "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-quarry/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-quarry/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "194404"
-  },
-  "Horizon Zero Dawn": {
-    "name": "Horizon Zero Dawn",
-    "picURL": "Images/Games/co2una.jpg",
-    "releaseYear": 2017.0,
-    "company": "Sony Interactive Entertainment",
-    "engine": "Decima",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/horizon-zero-dawn/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/horizon-zero-dawn/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هورایزن-horizon-zero-dawn/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/145148/horizon-zero-dawn-persian-subtitle/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/145148/horizon-zero-dawn-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Shooter",
-      "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "11156"
+    "name": "BioShock Infinite",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/bioshock-infinite-all-dlcs-زیرنویس-فارسی/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/bioshock-infinite-all-dlcs-زیرنویس-فارسی/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2n12.jpg",
+    "releaseYear": 2013.0
   },
-  "The Sinking City": {
-    "name": "The Sinking City",
-    "picURL": "Images/Games/co1l7s.jpg",
-    "releaseYear": 2019.0,
-    "company": "Bigben Interactive",
+  "Biomutant": {
+    "IGDB_ID": "54842",
+    "company": "THQ Nordic",
     "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-sinking-city-ps4/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-sinking-city/",
-        "platform": "PS4"
-      }
-    ],
     "genres": [
-      "Shooter",
-      "Puzzle",
       "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "18225"
-  },
-  "Resident Evil 7: Biohazard": {
-    "name": "Resident Evil 7: Biohazard",
-    "picURL": "Images/Games/co545w.jpg",
-    "releaseYear": 2017.0,
-    "company": "Capcom",
-    "engine": "RE Engine",
+    "name": "Biomutant",
     "patches": [
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-7/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-7/",
+        "URL": "https://par30games.net/117646/biomutant-persian-subtitle/",
+        "patcher": "Par30Game",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "19562"
-  },
-  "Uncharted 2: Among Thieves": {
-    "name": "Uncharted 2: Among Thieves",
-    "picURL": "Images/Games/co1tnb.jpg",
-    "releaseYear": 2009.0,
-    "company": "Sony Computer Entertainment",
-    "engine": "Naughty Dog Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-uncharted-2-among-thieves/",
-        "platform": "PS3"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ],
-    "IGDB_ID": "565"
-  },
-  "A Way Out": {
-    "name": "A Way Out",
-    "picURL": "Images/Games/co1vca.jpg",
-    "releaseYear": 2018.0,
-    "company": "Electronic Arts",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/a-way-out/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/a-way-out/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/a-way-out",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "36897"
-  },
-  "Assassin\u0027s Creed Chronicles: China": {
-    "name": "Assassin\u0027s Creed Chronicles: China",
-    "picURL": "Images/Games/co1qy6.jpg",
-    "releaseYear": 2015.0,
-    "company": "Ubisoft Entertainment",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-chronicles/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "8223"
+    "picURL": "Images/Games/co1rse.jpg",
+    "releaseYear": 2021.0
   },
   "Blair Witch": {
-    "name": "Blair Witch",
-    "picURL": "Images/Games/co1rci.jpg",
-    "releaseYear": 2019.0,
+    "IGDB_ID": "119298",
     "company": "Bloober Team",
     "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Blair Witch",
     "patches": [
       {
-        "patcher": "FarsiSaz",
         "URL": "https://farsisaz.com/product/blair-witch-ps4/",
+        "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "patcher": "FarsiSaz",
         "URL": "https://farsisaz.com/product/blair-witch/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "119298"
-  },
-  "Assassin\u0027s Creed Valhalla": {
-    "name": "Assassin\u0027s Creed Valhalla",
-    "picURL": "Images/Games/co2ed3.jpg",
-    "releaseYear": 2020.0,
-    "company": "Ubisoft Entertainment",
-    "engine": "AnvilNext",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/assassins-creed-valhalla/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/assassins-creed-valhalla/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "133004"
-  },
-  "Bright Memory: Infinite": {
-    "name": "Bright Memory: Infinite",
-    "picURL": "Images/Games/co1xvo.jpg",
-    "releaseYear": 2021.0,
-    "company": "PLAYISM",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/bright-memory-infinite-farsi/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Hack and slash/Beat \u0027em up",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "113739"
+    "picURL": "Images/Games/co1rci.jpg",
+    "releaseYear": 2019.0
   },
   "Bright Memory": {
-    "name": "Bright Memory",
-    "picURL": "Images/Games/co26z5.jpg",
-    "releaseYear": 2020.0,
+    "IGDB_ID": "113739",
     "company": "PLAYISM",
     "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "GMDownload",
-        "URL": "https://gmdownload.ir/bright-memory/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Adventure",
       "Indie",
       "Shooter"
     ],
-    "IGDB_ID": "113739"
-  },
-  "Sherlock Holmes: The Devil\u0027s Daughter": {
-    "name": "Sherlock Holmes: The Devil\u0027s Daughter",
-    "picURL": "Images/Games/co3wmc.jpg",
-    "releaseYear": 2016.0,
-    "company": "Bigben Interactive",
-    "engine": "Unreal Engine",
+    "name": "Bright Memory",
     "patches": [
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شرلوک-هولمز-sherlock-holmes-the-devils-daughter/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شرلوک-هولمز-sherlock-holmes-the-devils-daughter/",
+        "URL": "https://gmdownload.ir/bright-memory/",
+        "patcher": "GMDownload",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ],
-    "IGDB_ID": "11563"
+    "picURL": "Images/Games/co26z5.jpg",
+    "releaseYear": 2020.0
   },
-  "Grand Theft Auto: San Andreas - The Definitive Edition": {
-    "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
-    "picURL": "Images/Games/co65z0.jpg",
-    "releaseYear": 2021.0,
-    "company": "",
+  "Bright Memory: Infinite": {
+    "IGDB_ID": "113739",
+    "company": "PLAYISM",
     "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/gta-san-andreas-definitive-edition/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Shooter",
-      "Racing",
-      "Adventure"
-    ],
-    "IGDB_ID": "178126"
-  },
-  "Outlast": {
-    "name": "Outlast",
-    "picURL": "Images/Games/co1yat.jpg",
-    "releaseYear": 2013.0,
-    "company": "Red Barrels",
-    "engine": "Unreal Engine 3",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/outlast-1",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "1910"
-  },
-  "Resident Evil Village": {
-    "name": "Resident Evil Village",
-    "picURL": "Images/Games/co2zpu.jpg",
-    "releaseYear": 2021.0,
-    "company": "Capcom",
-    "engine": "RE Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/resident-evil-village/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/resident-evil-village-farsi-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-village/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-village/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/114472/resident-evil-village-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "55163"
-  },
-  "Devil May Cry 5": {
-    "name": "Devil May Cry 5",
-    "picURL": "Images/Games/co1rb4.jpg",
-    "releaseYear": 2019.0,
-    "company": "Capcom",
-    "engine": "RE Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/devil-may-cry-5-2/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-دویل-می-کرای-devil-may-cry-5/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-دویل-می-کرای-devil-may-cry-5/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "76253"
-  },
-  "The Last of Us Remastered": {
-    "name": "The Last of Us Remastered",
-    "picURL": "Images/Games/co5zks.jpg",
-    "releaseYear": 2014.0,
-    "company": "Sony Computer Entertainment",
-    "engine": "Proprietry in house engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-last-of-us-part-i/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-last-of-us-part-i/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-last-of-us-part-i/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "6036"
-  },
-  "Dark Souls III": {
-    "name": "Dark Souls III",
-    "picURL": "Images/Games/co1vcf.jpg",
-    "releaseYear": 2016.0,
-    "company": "Bandai Namco Entertainment",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/dark-souls-iii-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/dark-souls-iii/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "11133"
-  },
-  "Aliens: Fireteam Elite": {
-    "name": "Aliens: Fireteam Elite",
-    "picURL": "Images/Games/co3gu0.jpg",
-    "releaseYear": 2021.0,
-    "company": "Focus Entertainment",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/129704/aliens-fireteam-elite-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "144153"
-  },
-  "Max Payne 3": {
-    "name": "Max Payne 3",
-    "picURL": "Images/Games/co2mjo.jpg",
-    "releaseYear": 2012.0,
-    "company": "Rockstar Games",
-    "engine": "RAGE",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/max-payne-3-زیرنویس-فارسی-بازی/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter"
-    ],
-    "IGDB_ID": "960"
-  },
-  "Paradise Lost": {
-    "name": "Paradise Lost",
-    "picURL": "Images/Games/co2vrm.jpg",
-    "releaseYear": 2021.0,
-    "company": "All In! Games",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "SubRan",
-        "URL": "https://subran.org/shop/paradise-lost-فارسی-ساز-کامل/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Simulator",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "134574"
-  },
-  "God of War": {
-    "name": "God of War",
-    "picURL": "Images/Games/co1tmu.jpg",
-    "releaseYear": 2018.0,
-    "company": "Sony Interactive Entertainment",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/god-of-war-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/god-of-war-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-خدای-جنگ-god-of-war/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/149381/god-of-war-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "19560"
-  },
-  "The Evil Within 2": {
-    "name": "The Evil Within 2",
-    "picURL": "Images/Games/co5wgu.jpg",
-    "releaseYear": 2017.0,
-    "company": "Bethesda Softworks",
-    "engine": "id Tech 5",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اویل-ویتن-the-evil-within-2/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اویل-ویتن-the-evil-within-2/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "36813"
-  },
-  "Ghostwire: Tokyo": {
-    "name": "Ghostwire: Tokyo",
-    "picURL": "Images/Games/co55xn.jpg",
-    "releaseYear": 2022.0,
-    "company": "Bethesda Softworks",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/190753/ghostwire-tokyo-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "119308"
-  },
-  "This War of Mine": {
-    "name": "This War of Mine",
-    "picURL": "Images/Games/co3ans.jpg",
-    "releaseYear": 2014.0,
-    "company": "11 bit studios",
-    "engine": "In-house engine",
-    "patches": [
-      {
-        "patcher": "Hayoola",
-        "URL": "https://hayoola.com/game/12/این-جنگ-من#!/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Simulator",
-      "Strategy",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "7706"
-  },
-  "Uncharted: Drake\u0027s Fortune": {
-    "name": "Uncharted: Drake\u0027s Fortune",
-    "picURL": "Images/Games/co1tp7.jpg",
-    "releaseYear": 2007.0,
-    "company": "Sony Computer Entertainment",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-uncharted-drakes-fortune/",
-        "platform": "PS3"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ],
-    "IGDB_ID": "431"
-  },
-  "Hellblade: Senua\u0027s Sacrifice": {
-    "name": "Hellblade: Senua\u0027s Sacrifice",
-    "picURL": "Images/Games/co2l7l.jpg",
-    "releaseYear": 2017.0,
-    "company": "Ninja Theory",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/hellblade-senuas-sacrifice/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/hellblade-senuas-sacrifice-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هل%e2%80%8cبلید-hellblade-senuas-sacrifice/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هل%e2%80%8cبلید-hellblade-senuas-sacrifice/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
       "Hack and slash/Beat \u0027em up",
       "Adventure",
       "Indie"
     ],
-    "IGDB_ID": "7603"
-  },
-  "Grand Theft Auto: Vice City - The Definitive Edition": {
-    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
-    "picURL": "Images/Games/co65yz.jpg",
-    "releaseYear": 2021.0,
-    "company": "",
-    "engine": "Unreal Engine 4",
+    "name": "Bright Memory: Infinite",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/bright-memory-infinite-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/gta-vice-city-definitive-edition-ps4-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/gta-vice-city-definitive-edition-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/159529/gta-vice-city-persian-subtitle/",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Shooter",
-      "Racing",
-      "Adventure"
-    ],
-    "IGDB_ID": "178125"
+    "picURL": "Images/Games/co1xvo.jpg",
+    "releaseYear": 2021.0
   },
-  "The Forest": {
-    "name": "The Forest",
-    "picURL": "Images/Games/co20x5.jpg",
-    "releaseYear": 2018.0,
-    "company": "Endnight Games Ltd",
-    "engine": "Unity",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-forest/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Puzzle",
-      "Simulator",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "7504"
-  },
-  "Life is Strange 2": {
-    "name": "Life is Strange 2",
-    "picURL": "Images/Games/co1r7p.jpg",
-    "releaseYear": 2018.0,
-    "company": "Square Enix",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/life-is-strange-2-complete-season-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/life-is-strange-2-complete-season-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-زندگی-عجیب-است-life-is-strange-2/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-زندگی-عجیب-است-life-is-strange-2/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "62151"
-  },
-  "Life is Strange: Before the Storm": {
-    "name": "Life is Strange: Before the Storm",
-    "picURL": "Images/Games/co1twj.jpg",
-    "releaseYear": 2017.0,
-    "company": "Square Enix",
-    "engine": "Unity",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/فارسی-ساز-کامل-life-is-strange-before-the-storm/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/فارسی-ساز-کامل-life-is-strange-before-the-storm/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "29004"
-  },
-  "Twelve Minutes": {
-    "name": "Twelve Minutes",
-    "picURL": "Images/Games/co5etb.jpg",
-    "releaseYear": 2021.0,
-    "company": "Annapurna Interactive",
-    "engine": "Unity",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/twelve-minutes-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/122258/twelve-minutes-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "16612"
-  },
-  "Sherlock Holmes: Chapter One": {
-    "name": "Sherlock Holmes: Chapter One",
-    "picURL": "Images/Games/co48pg.jpg",
-    "releaseYear": 2021.0,
-    "company": "Frogwares",
-    "engine": "Unreal Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/farsi-sherlock-holmes-chapter-one/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/143957/sherlock-holmes-chapter-one-persian-subtitle/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/sherlock-holmes-chapter-one",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "134161"
-  },
-  "Assassin\u0027s Creed Unity": {
-    "name": "Assassin\u0027s Creed Unity",
-    "picURL": "Images/Games/co1xiq.jpg",
-    "releaseYear": 2014.0,
-    "company": "Ubisoft Entertainment",
-    "engine": "AnvilNext",
-    "patches": [
-      {
-        "patcher": "SubRan",
-        "URL": "https://vgdl.ir/79732-2/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "5606"
-  },
-  "Assassin\u0027s Creed Chronicles: India": {
-    "name": "Assassin\u0027s Creed Chronicles: India",
-    "picURL": "Images/Games/co1qy4.jpg",
-    "releaseYear": 2016.0,
-    "company": "Ubisoft Entertainment",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-chronicles/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ],
-    "IGDB_ID": "14902"
-  },
-  "Death Stranding": {
-    "name": "Death Stranding",
-    "picURL": "Images/Games/co5vq8.jpg",
-    "releaseYear": 2019.0,
-    "company": "Sony Interactive Entertainment",
-    "engine": "Decima",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-دث-استرندینگ-death-stranding/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "19564"
-  },
-  "Days Gone": {
-    "name": "Days Gone",
-    "picURL": "Images/Games/co1izz.jpg",
-    "releaseYear": 2019.0,
-    "company": "Sony Interactive Entertainment",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-روزهای-دست-رفته-days-gone/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-روزهای-دست-رفته-days-gone/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/113599/days-gone-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "19561"
-  },
-  "Sekiro: Shadows Die Twice": {
-    "name": "Sekiro: Shadows Die Twice",
-    "picURL": "Images/Games/co2a23.jpg",
-    "releaseYear": 2019.0,
-    "company": "Activision",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/sekiro-shadows-die-twice/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/sekiro-shadows-die-twice-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سکیرو-sekiro-shadows-die-twice/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سکیرو-sekiro-shadows-die-twice/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "76882"
-  },
-  "Mafia: Definitive Edition": {
-    "name": "Mafia: Definitive Edition",
-    "picURL": "Images/Games/co26vl.jpg",
-    "releaseYear": 2020.0,
-    "company": "2K Games",
-    "engine": "Fusion Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/mafia-definitive-edition/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/mafia-definitive-edition/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/120440/mafia-definitnive-edition-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "134070"
-  },
-  "Stray": {
-    "name": "Stray",
-    "picURL": "Images/Games/co4tt2.jpg",
-    "releaseYear": 2022.0,
-    "company": "Annapurna Interactive",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/stray-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/stray-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/فارسی-ساز-stray",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "110248"
-  },
-  "Tell Me Why": {
-    "name": "Tell Me Why",
-    "picURL": "Images/Games/co2ej1.jpg",
-    "releaseYear": 2020.0,
-    "company": "Xbox Game Studios",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/?s\u003dwhy",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "125628"
-  },
-  "Ghostrunner": {
-    "name": "Ghostrunner",
-    "picURL": "Images/Games/co2nbk.jpg",
-    "releaseYear": 2020.0,
-    "company": "All In! Games",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/ghostrunner",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/ghostrunner-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/ghostrunner-nintendo-switch/",
-        "platform": "NintendoSwitch"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/farsisaz-ghostrunner/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ],
-    "IGDB_ID": "121752"
-  },
-  "Assassin\u0027s Creed Odyssey": {
-    "name": "Assassin\u0027s Creed Odyssey",
-    "picURL": "Images/Games/co2nul.jpg",
-    "releaseYear": 2018.0,
-    "company": "",
-    "engine": "AnvilNext",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/pc-assassins-creed-odyssey/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/assassins-creed-odyssey-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-odyssey/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-assassins-creed-odyssey/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "103054"
-  },
-  "Atomic Heart": {
-    "name": "Atomic Heart",
-    "picURL": "Images/Games/co68ag.jpg",
-    "releaseYear": 2023.0,
+  "Call of Cthulhu": {
+    "IGDB_ID": "9176",
     "company": "Focus Entertainment",
     "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "Mohsening",
-        "URL": "https://www.p30day.ir/atomic-heart-subtitle-316840.html",
-        "platform": "PS4"
-      }
-    ],
     "genres": [
-      "Shooter",
       "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "76747"
-  },
-  "Detroit: Become Human": {
-    "name": "Detroit: Become Human",
-    "picURL": "Images/Games/co6j7u.jpg",
-    "releaseYear": 2018.0,
-    "company": "Sony Interactive Entertainment",
+    "name": "Call of Cthulhu",
     "patches": [
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/detroit-become-human-farsi/",
+        "URL": "https://teamfa.net/shop/call-of-cthulhu",
+        "patcher": "TeamFa",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co2d3a.jpg",
+    "releaseYear": 2018.0
+  },
+  "Call of the Sea": {
+    "IGDB_ID": "133306",
+    "company": "Raw Fury",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Call of the Sea",
+    "patches": [
+      {
+        "URL": "https://subran.org/shop/فارسی-ساز-بازی-call-of-the-sea/",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2ir4.jpg",
+    "releaseYear": 2020.0
+  },
+  "Chernobylite": {
+    "IGDB_ID": "115054",
+    "company": "All In! Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Simulator",
       "Adventure"
     ],
-    "IGDB_ID": "14362"
+    "name": "Chernobylite",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/chernobylite-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/chernobylite/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co39vi.jpg",
+    "releaseYear": 2021.0
+  },
+  "Contrast": {
+    "IGDB_ID": "3839",
+    "company": "Focus Entertainment",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Contrast",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/contrast-زیرنویس-فارسی-بازی/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1qqh.jpg",
+    "releaseYear": 2013.0
   },
   "Control": {
-    "name": "Control",
-    "picURL": "Images/Games/co2evj.jpg",
-    "releaseYear": 2019.0,
+    "IGDB_ID": "103329",
     "company": "505 Games",
     "engine": "Northlight Engine",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/134544/control-persian-subtitle/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/control-ultimate-edition-ps4/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/control-ultimate-edition/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Shooter",
       "Adventure"
     ],
-    "IGDB_ID": "103329"
-  },
-  "L.A. Noire": {
-    "name": "L.A. Noire",
-    "picURL": "Images/Games/co2ldn.jpg",
-    "releaseYear": 2011.0,
-    "company": "Rockstar Games",
+    "name": "Control",
     "patches": [
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/l-a-noire/",
+        "URL": "https://par30games.net/134544/control-persian-subtitle/",
+        "patcher": "Par30Game",
         "platform": "PC"
       },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ال-ای-نویر-la-noire/",
-        "platform": "PS3"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ال-ای-نویر-la-noire/",
+        "URL": "https://farsisaz.com/product/control-ultimate-edition-ps4/",
+        "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ال-ای-نویر-la-noire/",
+        "URL": "https://farsisaz.com/product/control-ultimate-edition/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co2evj.jpg",
+    "releaseYear": 2019.0
+  },
+  "Crash Bandicoot 4: It\u0027s About Time": {
+    "IGDB_ID": "135254",
+    "company": "Activision",
     "genres": [
-      "Strategy",
+      "Platform"
+    ],
+    "name": "Crash Bandicoot 4: It\u0027s About Time",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/crash-bandicoot-4-its-about-time-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/crash-bandicoot-4-its-about-time-farsdi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://teamfa.net/shop/crash-bandicoot-4-its-about-time",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2hp4.jpg",
+    "releaseYear": 2020.0
+  },
+  "Cyberpunk 2077": {
+    "IGDB_ID": "1877",
+    "company": "CD Projekt RED",
+    "engine": "REDengine 4",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "109"
-  },
-  "Layers of Fear 2": {
-    "name": "Layers of Fear 2",
-    "picURL": "Images/Games/co2j3p.jpg",
-    "releaseYear": 2019.0,
-    "company": "Gun Interactive",
-    "engine": "Unreal Engine 4",
+    "name": "Cyberpunk 2077",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/cyberpunk-2077-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/layers-of-fear-2/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Simulator",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "90107"
-  },
-  "Outlast II": {
-    "name": "Outlast II",
-    "picURL": "Images/Games/co20x8.jpg",
-    "releaseYear": 2017.0,
-    "company": "Red Barrels",
-    "engine": "Unreal Engine 3",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اوتلست-outlast-2/",
         "platform": "PS4"
       },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اوتلست-outlast-2/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "14390"
-  },
-  "The Elder Scrolls V: Skyrim": {
-    "name": "The Elder Scrolls V: Skyrim",
-    "picURL": "Images/Games/co1tnw.jpg",
-    "releaseYear": 2011.0,
-    "company": "Bethesda Softworks",
-    "engine": "Creation Engine",
-    "patches": [
-      {
+        "URL": "https://farsisaz.com/product/cyberpunk-2077-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-elder-scrolls-v-skyrim-farsi/",
         "platform": "PC"
       },
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-elder-scrolls-v-skyrim-farsi/",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سایبرپانک-cyberpunk-2077/",
+        "patcher": "GameSub",
         "platform": "PS4"
       },
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-elder-scrolls-v-skyrim-farsi/",
-        "platform": "PS3"
-      },
-      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سایبرپانک-cyberpunk-2077/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اسکایریم-the-elder-scrolls-v-skyrim/",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co4hk8.jpg",
+    "releaseYear": 2020.0
+  },
+  "Dark Souls III": {
+    "IGDB_ID": "11133",
+    "company": "Bandai Namco Entertainment",
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "472"
-  },
-  "Shadow of the Tomb Raider": {
-    "name": "Shadow of the Tomb Raider",
-    "picURL": "Images/Games/co1vcn.jpg",
-    "releaseYear": 2018.0,
-    "company": "Square Enix",
-    "engine": "Crystal Engine",
+    "name": "Dark Souls III",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/dark-souls-iii-ps4/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/shadow-of-the-tomb-raider-ps4/",
         "platform": "PS4"
       },
       {
+        "URL": "https://farsisaz.com/product/dark-souls-iii/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/shadow-of-the-tomb-raider/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-توم-ریدر-shadow-of-the-tomb-raider/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-توم-ریدر-shadow-of-the-tomb-raider/",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1vcf.jpg",
+    "releaseYear": 2016.0
+  },
+  "Darksiders III": {
+    "IGDB_ID": "28380",
+    "company": "THQ Nordic",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "Darksiders III",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/darksiders-iii-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co1qqk.jpg",
+    "releaseYear": 2018.0
+  },
+  "Days Gone": {
+    "IGDB_ID": "19561",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Shooter",
       "Adventure"
     ],
-    "IGDB_ID": "37777"
-  },
-  "Far Cry New Dawn": {
-    "name": "Far Cry New Dawn",
-    "picURL": "Images/Games/co1vpg.jpg",
-    "releaseYear": 2019.0,
-    "company": "Ubisoft Entertainment",
-    "engine": "AnvilNext",
+    "name": "Days Gone",
     "patches": [
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/far-cry-new-dawn/",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-روزهای-دست-رفته-days-gone/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-روزهای-دست-رفته-days-gone/",
+        "patcher": "GameSub",
         "platform": "PC"
       },
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/far-cry-new-dawn-ps4/",
-        "platform": "PS4"
+        "URL": "https://par30games.net/113599/days-gone-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1izz.jpg",
+    "releaseYear": 2019.0
+  },
+  "Death Stranding": {
+    "IGDB_ID": "19564",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Decima",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Death Stranding",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-دث-استرندینگ-death-stranding/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5vq8.jpg",
+    "releaseYear": 2019.0
+  },
+  "Deathloop": {
+    "IGDB_ID": "113598",
+    "company": "Bethesda Softworks",
+    "engine": "Void Engine",
     "genres": [
       "Shooter",
       "Adventure"
     ],
-    "IGDB_ID": "113111"
-  },
-  "Twin Mirror": {
-    "name": "Twin Mirror",
-    "picURL": "Images/Games/co5w0s.jpg",
-    "releaseYear": 2020.0,
-    "company": "Bandai Namco Entertainment",
+    "name": "Deathloop",
     "patches": [
       {
-        "patcher": "SubRan",
-        "URL": "https://www.payping.ir/d/LBCT",
+        "URL": "https://farsisaz.com/product/deathloopd-farsi/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co4nzt.jpg",
+    "releaseYear": 2021.0
+  },
+  "Detroit: Become Human": {
+    "IGDB_ID": "14362",
+    "company": "Sony Interactive Entertainment",
     "genres": [
+      "Puzzle",
       "Adventure"
     ],
-    "IGDB_ID": "103266"
-  },
-  "Batman: Arkham Asylum": {
-    "name": "Batman: Arkham Asylum",
-    "picURL": "Images/Games/co1voj.jpg",
-    "releaseYear": 2009.0,
-    "company": "Eidos Interactive",
-    "engine": "Unreal Engine",
+    "name": "Detroit: Become Human",
     "patches": [
       {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/batman-arkham-asylum",
+        "URL": "https://farsisaz.com/product/detroit-become-human-farsi/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co6j7u.jpg",
+    "releaseYear": 2018.0
+  },
+  "Devil May Cry 5": {
+    "IGDB_ID": "76253",
+    "company": "Capcom",
+    "engine": "RE Engine",
     "genres": [
       "Hack and slash/Beat \u0027em up",
       "Adventure"
     ],
-    "IGDB_ID": "500"
-  },
-  "Immortals Fenyx Rising": {
-    "name": "Immortals Fenyx Rising",
-    "picURL": "Images/Games/co489n.jpg",
-    "releaseYear": 2020.0,
-    "company": "",
-    "engine": "Ubisoft Anvil",
+    "name": "Devil May Cry 5",
     "patches": [
       {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/191233/immortals-fenyx-rising-persian-subtitle/",
+        "URL": "https://farsisaz.com/product/devil-may-cry-5-2/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "119357"
-  },
-  "The Wolf Among Us": {
-    "name": "The Wolf Among Us",
-    "picURL": "Images/Games/co1rcy.jpg",
-    "releaseYear": 2013.0,
-    "company": "Telltale Games",
-    "engine": "Telltale Tool",
-    "patches": [
+      },
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-دویل-می-کرای-devil-may-cry-5/",
         "patcher": "GameSub",
-        "URL": "https://gmdownload.ir/the-wolf-among-us/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Point-and-click",
-      "Adventure"
-    ],
-    "IGDB_ID": "2993"
-  },
-  "Fallout 4": {
-    "name": "Fallout 4",
-    "picURL": "Images/Games/co1yc6.jpg",
-    "releaseYear": 2015.0,
-    "company": "Bethesda Softworks",
-    "engine": "Creation Engine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-فالوت-fallout-4/",
         "platform": "PS4"
       },
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-دویل-می-کرای-devil-may-cry-5/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-فالوت-fallout-4/",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1rb4.jpg",
+    "releaseYear": 2019.0
+  },
+  "DmC: Devil May Cry": {
+    "IGDB_ID": "1254",
+    "company": "Capcom",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Puzzle",
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "DmC: Devil May Cry",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شیطان-میگرید-dmc/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1u77.jpg",
+    "releaseYear": 2013.0
+  },
+  "Dying Light 2: Stay Human": {
+    "IGDB_ID": "102584",
+    "company": "Techland Publishing",
+    "engine": "C-Engine",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Dying Light 2: Stay Human",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/subtitle-dying-light-2-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/subtitle-dying-light-2-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co65yk.jpg",
+    "releaseYear": 2022.0
+  },
+  "Elden Ring": {
+    "IGDB_ID": "119133",
+    "company": "Bandai Namco Entertainment",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Elden Ring",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/elden-ring-farsisaz/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/elden-ring-farsisaz/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-الدن-رینگ-elden-ring/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-الدن-رینگ-elden-ring/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4jni.jpg",
+    "releaseYear": 2022.0
+  },
+  "Evil West": {
+    "IGDB_ID": "141547",
+    "company": "Focus Entertainment",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "Evil West",
+    "patches": [
+      {
+        "URL": "https://par30games.net/208280/evil-west-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4udq.jpg",
+    "releaseYear": 2022.0
+  },
+  "Fallout 4": {
+    "IGDB_ID": "9630",
+    "company": "Bethesda Softworks",
+    "engine": "Creation Engine",
     "genres": [
       "Shooter",
       "Role-playing (RPG)"
     ],
-    "IGDB_ID": "9630"
-  },
-  "Life is Strange": {
-    "name": "Life is Strange",
-    "picURL": "Images/Games/co1r8e.jpg",
-    "releaseYear": 2015.0,
-    "company": "Square Enix",
-    "engine": "Unreal Engine",
+    "name": "Fallout 4",
     "patches": [
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-فالوت-fallout-4/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-بازی-زندگی-عجیب-است-فصل-دوم/",
         "platform": "PS4"
       },
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-فالوت-fallout-4/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-بازی-زندگی-عجیب-است-فصل-دوم/",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co1yc6.jpg",
+    "releaseYear": 2015.0
+  },
+  "Far Cry 6": {
+    "IGDB_ID": "126290",
+    "company": "",
+    "engine": "Dunia Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Far Cry 6",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/far-cry-6-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/far-cry-6-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://teamfa.net/shop/far-cry-6",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2npg.jpg",
+    "releaseYear": 2021.0
+  },
+  "Far Cry New Dawn": {
+    "IGDB_ID": "113111",
+    "company": "Ubisoft Entertainment",
+    "engine": "AnvilNext",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Far Cry New Dawn",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/far-cry-new-dawn/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/far-cry-new-dawn-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co1vpg.jpg",
+    "releaseYear": 2019.0
+  },
+  "Final Fantasy VII Remake": {
+    "IGDB_ID": "11169",
+    "company": "Square Enix",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Final Fantasy VII Remake",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فاینال-فانتزی-۷-final-fantasy-vii-remake/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1qxr.jpg",
+    "releaseYear": 2020.0
+  },
+  "Game of Thrones: A Telltale Games Series": {
+    "IGDB_ID": "7610",
+    "company": "Telltale Games",
+    "engine": "Telltale Tool",
+    "genres": [
+      "Point-and-click",
+      "Adventure"
+    ],
+    "name": "Game of Thrones: A Telltale Games Series",
+    "patches": [
+      {
+        "URL": "https://s29.picofile.com/file/8463742768/Game_of_Throens_tell_tale_games_farsisaz_pass_gotyfarsi_9981_.rar.html",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1nrt.jpg",
+    "releaseYear": 2014.0
+  },
+  "Ghostrunner": {
+    "IGDB_ID": "121752",
+    "company": "All In! Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Ghostrunner",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/ghostrunner",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/ghostrunner-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/ghostrunner-nintendo-switch/",
+        "patcher": "FarsiSaz",
+        "platform": "NintendoSwitch"
+      },
+      {
+        "URL": "https://farsisaz.com/product/farsisaz-ghostrunner/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2nbk.jpg",
+    "releaseYear": 2020.0
+  },
+  "Ghostwire: Tokyo": {
+    "IGDB_ID": "119308",
+    "company": "Bethesda Softworks",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Ghostwire: Tokyo",
+    "patches": [
+      {
+        "URL": "https://par30games.net/190753/ghostwire-tokyo-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co55xn.jpg",
+    "releaseYear": 2022.0
+  },
+  "God of War": {
+    "IGDB_ID": "19560",
+    "company": "Sony Interactive Entertainment",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "God of War",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/god-of-war-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/god-of-war-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-خدای-جنگ-god-of-war/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/149381/god-of-war-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1tmu.jpg",
+    "releaseYear": 2018.0
+  },
+  "God of War III": {
+    "IGDB_ID": "499",
+    "company": "Sony Computer Entertainment",
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "God of War III",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/god-of-war-3-زیرنویس-فارسی-بازی/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      }
+    ],
+    "picURL": "Images/Games/co3koi.jpg",
+    "releaseYear": 2010.0
+  },
+  "Grand Theft Auto III: The Definitive Edition": {
+    "IGDB_ID": "178123",
+    "company": "Rockstar Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ],
+    "name": "Grand Theft Auto III: The Definitive Edition",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/gta-iii-definitive-edition-farsi-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/gta-iii-definitive-edition-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/135272/gta-iii-definitive-edition-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://teamfa.net/shop/gta-iii-definitive-edition",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co65yy.jpg",
+    "releaseYear": 2021.0
+  },
+  "Grand Theft Auto V": {
+    "IGDB_ID": "1020",
+    "company": "Rockstar Games",
+    "engine": "RAGE",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Grand Theft Auto V",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-gta-v/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co2lbd.jpg",
+    "releaseYear": 2013.0
+  },
+  "Grand Theft Auto: San Andreas - The Definitive Edition": {
+    "IGDB_ID": "178126",
+    "company": "",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ],
+    "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/gta-san-andreas-definitive-edition/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co65z0.jpg",
+    "releaseYear": 2021.0
+  },
+  "Grand Theft Auto: Vice City - The Definitive Edition": {
+    "IGDB_ID": "178125",
+    "company": "",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ],
+    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/gta-vice-city-definitive-edition-ps4-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/gta-vice-city-definitive-edition-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/159529/gta-vice-city-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co65yz.jpg",
+    "releaseYear": 2021.0
+  },
+  "Gylt": {
+    "IGDB_ID": "119247",
+    "company": "Tequila Works",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "name": "Gylt",
+    "patches": [
+      {
+        "URL": "https://gmdownload.ir/gylt/",
+        "patcher": "GMDownload",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2qad.jpg",
+    "releaseYear": 2019.0
+  },
+  "Heavy Rain": {
+    "IGDB_ID": "493",
+    "company": "Quantic Dream",
+    "engine": "Havok",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Heavy Rain",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هوی-رین-heavy-rain/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co3rhy.jpg",
+    "releaseYear": 2010.0
+  },
+  "Hellblade: Senua\u0027s Sacrifice": {
+    "IGDB_ID": "7603",
+    "company": "Ninja Theory",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Hellblade: Senua\u0027s Sacrifice",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/hellblade-senuas-sacrifice/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/hellblade-senuas-sacrifice-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هل%e2%80%8cبلید-hellblade-senuas-sacrifice/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هل%e2%80%8cبلید-hellblade-senuas-sacrifice/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2l7l.jpg",
+    "releaseYear": 2017.0
+  },
+  "Henry Stickmin: Breaking the Bank": {
+    "IGDB_ID": "145662",
+    "company": "PuffballsUnited",
+    "engine": "Adobe AIR",
+    "genres": [
+      "Adventure",
+      "Point-and-click"
+    ],
+    "name": "Henry Stickmin: Breaking the Bank",
+    "patches": [
+      {
+        "URL": "https://t.me/venus_dubbed/32",
+        "patcher": "Venus",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4v6w.jpg",
+    "releaseYear": 2008.0
+  },
+  "Henry Stickmin: Completing the Mission": {
+    "IGDB_ID": "172315",
+    "company": "PuffballsUnited",
+    "engine": "Adobe AIR",
+    "genres": [
+      "Adventure",
+      "Point-and-click"
+    ],
+    "name": "Henry Stickmin: Breaking the Bank",
+    "patches": [
+      {
+        "URL": "https://t.me/venus_dubbed/32",
+        "patcher": "Venus",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2mgv.jpg",
+    "releaseYear": 2020.0
+  },
+  "Henry Stickmin: Escaping the Prison": {
+    "IGDB_ID": "140712",
+    "company": "PuffballsUnited",
+    "engine": "Adobe AIR",
+    "genres": [
+      "Point-and-click"
+    ],
+    "name": "Henry Stickmin: Escaping the Prison",
+    "patches": [
+      {
+        "URL": "https://t.me/venus_dubbed/32",
+        "patcher": "Venus",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4v6x.jpg",
+    "releaseYear": 2010.0
+  },
+  "Henry Stickmin: Fleeing the Complex": {
+    "IGDB_ID": "145664",
+    "company": "PuffballsUnited",
+    "engine": "Adobe AIR",
+    "genres": [
+      "Adventure",
+      "Point-and-click"
+    ],
+    "name": "Henry Stickmin: Fleeing the Complex",
+    "patches": [
+      {
+        "URL": "https://t.me/venus_dubbed/32",
+        "patcher": "Venus",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4v6y.jpg",
+    "releaseYear": 2016.0
+  },
+  "Henry Stickmin: Infiltrating the Airship": {
+    "IGDB_ID": "145663",
+    "company": "PuffballsUnited",
+    "engine": "Adobe AIR",
+    "genres": [
+      "Adventure",
+      "Point-and-click"
+    ],
+    "name": "Henry Stickmin: Infiltrating the Airship",
+    "patches": [
+      {
+        "URL": "https://t.me/venus_dubbed/32",
+        "patcher": "Venus",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co6jt8.jpg",
+    "releaseYear": 2013.0
+  },
+  "Henry Stickmin: Stealing the Diamond": {
+    "IGDB_ID": "142016",
+    "company": "PuffballsUnited",
+    "engine": "Adobe AIR",
+    "genres": [
+      "Point-and-click"
+    ],
+    "name": "Henry Stickmin: Stealing the Diamond",
+    "patches": [
+      {
+        "URL": "https://t.me/venus_dubbed/32",
+        "patcher": "Venus",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2naf.jpg",
+    "releaseYear": 2011.0
+  },
+  "Her Story": {
+    "IGDB_ID": "11346",
+    "company": "Sam Barlow",
+    "engine": "Unity",
+    "genres": [
+      "Point-and-click",
+      "Simulator",
+      "Indie"
+    ],
+    "name": "Her Story",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-داستان-او-her-story/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2gzl.jpg",
+    "releaseYear": 2015.0
+  },
+  "High on Life": {
+    "IGDB_ID": "204618",
+    "company": "Squanch Games",
+    "genres": [
+      "Shooter"
+    ],
+    "name": "High on Life",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/high-on-life-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co67qo.jpg",
+    "releaseYear": 2022.0
+  },
+  "Hogwarts Legacy": {
+    "IGDB_ID": "136625",
+    "company": "Portkey Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Hogwarts Legacy",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/hogwarts-legacy-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://www.p30day.ir/hogwarts-legacy-subtitle-319265.html",
+        "patcher": "Mohsening",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://par30games.net/214227/hogwarts-legacy-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2gn3.jpg",
+    "releaseYear": 2023.0
+  },
+  "Horizon Zero Dawn": {
+    "IGDB_ID": "11156",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Decima",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Horizon Zero Dawn",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/horizon-zero-dawn/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/horizon-zero-dawn/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هورایزن-horizon-zero-dawn/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://par30games.net/145148/horizon-zero-dawn-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://par30games.net/145148/horizon-zero-dawn-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2una.jpg",
+    "releaseYear": 2017.0
+  },
+  "Immortals Fenyx Rising": {
+    "IGDB_ID": "119357",
+    "company": "",
+    "engine": "Ubisoft Anvil",
     "genres": [
       "Puzzle",
       "Role-playing (RPG)",
       "Adventure"
     ],
-    "IGDB_ID": "7599"
-  },
-  "The Evil Within": {
-    "name": "The Evil Within",
-    "picURL": "Images/Games/co5wgs.jpg",
-    "releaseYear": 2014.0,
-    "company": "Bethesda Softworks",
-    "engine": "id Tech 5",
+    "name": "Immortals Fenyx Rising",
     "patches": [
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-کامل-بازی-شیطان-درون/",
+        "URL": "https://par30games.net/191233/immortals-fenyx-rising-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co489n.jpg",
+    "releaseYear": 2020.0
+  },
+  "It Takes Two": {
+    "IGDB_ID": "135243",
+    "company": "Electronic Arts",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "It Takes Two",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/it-takes-two/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-کامل-بازی-شیطان-درون/",
+        "URL": "https://farsisaz.com/product/it-takes-two-2-ps4/",
+        "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-کامل-بازی-شیطان-درون/",
-        "platform": "PS3"
+        "URL": "https://teamfa.net/shop/it-takes-two",
+        "patcher": "TeamFa",
+        "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co2t97.jpg",
+    "releaseYear": 2021.0
+  },
+  "Kena: Bridge of Spirits": {
+    "IGDB_ID": "134588",
+    "company": "Ember Lab",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Kena: Bridge of Spirits",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/kena-bridge-of-spirits-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/kena-bridge-of-spirits-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-کنا-پل-ارواح-kena-bridge-of-spirits/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-کنا-پل-ارواح-kena-bridge-of-spirits/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/125719/kena-bridge-of-spirits-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5vx4.jpg",
+    "releaseYear": 2021.0
+  },
+  "L.A. Noire": {
+    "IGDB_ID": "109",
+    "company": "Rockstar Games",
+    "genres": [
+      "Strategy",
+      "Adventure"
+    ],
+    "name": "L.A. Noire",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/l-a-noire/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ال-ای-نویر-la-noire/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ال-ای-نویر-la-noire/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ال-ای-نویر-la-noire/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2ldn.jpg",
+    "releaseYear": 2011.0
+  },
+  "Layers of Fear": {
+    "IGDB_ID": "12482",
+    "company": "Bloober Team",
+    "engine": "Unity",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Layers of Fear",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/layers-of-fear-1",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1nhw.jpg",
+    "releaseYear": 2016.0
+  },
+  "Layers of Fear 2": {
+    "IGDB_ID": "90107",
+    "company": "Gun Interactive",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Layers of Fear 2",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/layers-of-fear-2/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2j3p.jpg",
+    "releaseYear": 2019.0
+  },
+  "Life is Strange": {
+    "IGDB_ID": "7599",
+    "company": "Square Enix",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Life is Strange",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-بازی-زندگی-عجیب-است-فصل-دوم/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-بازی-زندگی-عجیب-است-فصل-دوم/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1r8e.jpg",
+    "releaseYear": 2015.0
+  },
+  "Life is Strange 2": {
+    "IGDB_ID": "62151",
+    "company": "Square Enix",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Life is Strange 2",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/life-is-strange-2-complete-season-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/life-is-strange-2-complete-season-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-زندگی-عجیب-است-life-is-strange-2/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-زندگی-عجیب-است-life-is-strange-2/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1r7p.jpg",
+    "releaseYear": 2018.0
+  },
+  "Life is Strange: Before the Storm": {
+    "IGDB_ID": "29004",
+    "company": "Square Enix",
+    "engine": "Unity",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Life is Strange: Before the Storm",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/فارسی-ساز-کامل-life-is-strange-before-the-storm/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/فارسی-ساز-کامل-life-is-strange-before-the-storm/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1twj.jpg",
+    "releaseYear": 2017.0
+  },
+  "Life is Strange: True Colors": {
+    "IGDB_ID": "144765",
+    "company": "Square Enix",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Life is Strange: True Colors",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/life-is-strange-true-colors-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/life-is-strange-true-colors-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-لایف-ایز-استرنج-life-is-strange-true-colors/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-لایف-ایز-استرنج-life-is-strange-true-colors/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/124039/life-is-strange-true-colors-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2vpp.jpg",
+    "releaseYear": 2021.0
+  },
+  "Little Nightmares": {
+    "IGDB_ID": "9174",
+    "company": "Bandai Namco Entertainment",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Little Nightmares",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/little-nightmares",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1rdi.jpg",
+    "releaseYear": 2017.0
+  },
+  "Little Nightmares II": {
+    "IGDB_ID": "121760",
+    "company": "Bandai Namco Entertainment",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Little Nightmares II",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/little-nightmares-ii",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1p7d.jpg",
+    "releaseYear": 2021.0
+  },
+  "Mafia: Definitive Edition": {
+    "IGDB_ID": "134070",
+    "company": "2K Games",
+    "engine": "Fusion Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Mafia: Definitive Edition",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/mafia-definitive-edition/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/mafia-definitive-edition/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/120440/mafia-definitnive-edition-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co26vl.jpg",
+    "releaseYear": 2020.0
+  },
+  "Martha Is Dead": {
+    "IGDB_ID": "90714",
+    "company": "Wired Productions",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Martha Is Dead",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/martha-is-dead-farsisaz/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2or1.jpg",
+    "releaseYear": 2022.0
+  },
+  "Marvel\u0027s Spider-Man Remastered": {
+    "IGDB_ID": "138949",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Insomniac Engine v.4.0",
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "Marvel\u0027s Spider-Man Remastered",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/marvels-spider-man-remastered-farsisaz/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co52vm.jpg",
+    "releaseYear": 2020.0
+  },
+  "Marvel\u0027s Spider-Man: Miles Morales": {
+    "IGDB_ID": "134581",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Insomniac Engine v.4.0",
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/marvels-spider-man-miles-morales/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2dwe.jpg",
+    "releaseYear": 2020.0
+  },
+  "Max Payne 3": {
+    "IGDB_ID": "960",
+    "company": "Rockstar Games",
+    "engine": "RAGE",
+    "genres": [
+      "Shooter"
+    ],
+    "name": "Max Payne 3",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/max-payne-3-زیرنویس-فارسی-بازی/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2mjo.jpg",
+    "releaseYear": 2012.0
+  },
+  "Metal Gear Solid V: Ground Zeroes": {
+    "IGDB_ID": "5328",
+    "company": "Konami",
+    "engine": "Fox Engine",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Strategy",
+      "Adventure"
+    ],
+    "name": "Metal Gear Solid V: Ground Zeroes",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-metal-gear-solid-v-ground-zeroes/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1v88.jpg",
+    "releaseYear": 2014.0
+  },
+  "Metal Gear Solid V: The Phantom Pain": {
+    "IGDB_ID": "1985",
+    "company": "Konami",
+    "engine": "Fox Engine",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-metal-gear-solid-v-the-phantom-pain/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1v85.jpg",
+    "releaseYear": 2015.0
+  },
+  "Metro Exodus": {
+    "IGDB_ID": "37016",
+    "company": "Deep Silver",
+    "engine": "4A Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Metro Exodus",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/metro-exodus/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/metro-exodus-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-مترو-اکسدس-metro-exodus/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-مترو-اکسدس-metro-exodus/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1iuj.jpg",
+    "releaseYear": 2019.0
+  },
+  "Minecraft: Story Mode": {
+    "IGDB_ID": "8339",
+    "company": "Mojang Studios",
+    "engine": "Telltale Tool",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Minecraft: Story Mode",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-قسمت-اول-minecraft-story-mode-episode-1/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1vi7.jpg",
+    "releaseYear": 2015.0
+  },
+  "Mortal Shell": {
+    "IGDB_ID": "132050",
+    "company": "Playstack",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Role-playing (RPG)",
+      "Indie"
+    ],
+    "name": "Mortal Shell",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/mortal-shell",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co227z.jpg",
+    "releaseYear": 2020.0
+  },
+  "Outlast": {
+    "IGDB_ID": "1910",
+    "company": "Red Barrels",
+    "engine": "Unreal Engine 3",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Outlast",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/outlast-1",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1yat.jpg",
+    "releaseYear": 2013.0
+  },
+  "Outlast II": {
+    "IGDB_ID": "14390",
+    "company": "Red Barrels",
+    "engine": "Unreal Engine 3",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Outlast II",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اوتلست-outlast-2/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اوتلست-outlast-2/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co20x8.jpg",
+    "releaseYear": 2017.0
+  },
+  "Paradise Lost": {
+    "IGDB_ID": "134574",
+    "company": "All In! Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Paradise Lost",
+    "patches": [
+      {
+        "URL": "https://subran.org/shop/paradise-lost-فارسی-ساز-کامل/",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2vrm.jpg",
+    "releaseYear": 2021.0
+  },
+  "Psychonauts 2": {
+    "IGDB_ID": "14741",
+    "company": "Xbox Game Studios",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Psychonauts 2",
+    "patches": [
+      {
+        "URL": "https://par30games.net/138159/psychonauts-2-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1sod.jpg",
+    "releaseYear": 2021.0
+  },
+  "Ratchet & Clank: Rift Apart": {
+    "IGDB_ID": "134582",
+    "company": "Insomniac Games",
+    "engine": "Insomniac Engine v.4.0",
+    "genres": [
+      "Adventure",
+      "Platform",
+      "Shooter"
+    ],
+    "name": "Ratchet & Clank: Rift Apart",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/ratchet-clank-rift-apart/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2str.jpg",
+    "releaseYear": 2021.0
+  },
+  "Red Dead Redemption 2": {
+    "IGDB_ID": "25076",
+    "company": "Take-Two Interactive",
+    "engine": "RAGE",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Red Dead Redemption 2",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/rdr2-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/rdr2-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-red-dead-redemption-2/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1q1f.jpg",
+    "releaseYear": 2018.0
+  },
+  "Resident Evil 2": {
+    "IGDB_ID": "19686",
+    "company": "Capcom",
+    "engine": "RE Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Resident Evil 2",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-2-remake/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-2-remake/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1ir3.jpg",
+    "releaseYear": 2019.0
+  },
+  "Resident Evil 3": {
+    "IGDB_ID": "115115",
+    "company": "Capcom",
+    "engine": "RE Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Resident Evil 3",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/resident-evil-3-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/resident-evil-3/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-3-remake/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-3-remake/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://vgdl.ir/4resident-evil-3-remake/",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co22l7.jpg",
+    "releaseYear": 2020.0
+  },
+  "Resident Evil 4": {
+    "IGDB_ID": "132181",
+    "company": "Capcom",
+    "engine": "RE Engine",
     "genres": [
       "Shooter",
       "Puzzle",
       "Adventure"
     ],
-    "IGDB_ID": "4786"
-  },
-  "Life is Strange: True Colors": {
-    "name": "Life is Strange: True Colors",
-    "picURL": "Images/Games/co2vpp.jpg",
-    "releaseYear": 2021.0,
-    "company": "Square Enix",
+    "name": "Resident Evil 4",
     "patches": [
       {
+        "URL": "https://farsisaz.com/product/resident-evil-4-remake/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/life-is-strange-true-colors-ps4/",
         "platform": "PS4"
       },
       {
+        "URL": "https://farsisaz.com/product/resident-evil-4-remake/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/life-is-strange-true-colors-farsi/",
         "platform": "PC"
       },
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-4/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-لایف-ایز-استرنج-life-is-strange-true-colors/",
         "platform": "PS4"
       },
       {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-4/",
         "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-لایف-ایز-استرنج-life-is-strange-true-colors/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/124039/life-is-strange-true-colors-persian-subtitle/",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co6bo0.jpg",
+    "releaseYear": 2023.0
+  },
+  "Resident Evil 7: Biohazard": {
+    "IGDB_ID": "19562",
+    "company": "Capcom",
+    "engine": "RE Engine",
     "genres": [
+      "Shooter",
+      "Puzzle",
       "Adventure"
     ],
-    "IGDB_ID": "144765"
-  },
-  "Sifu": {
-    "name": "Sifu",
-    "picURL": "Images/Games/co4h5s.jpg",
-    "releaseYear": 2022.0,
-    "company": "Sloclap",
-    "engine": "Unreal Engine 4",
+    "name": "Resident Evil 7: Biohazard",
     "patches": [
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/sifu-farsi/",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-7/",
+        "patcher": "GameSub",
         "platform": "PS4"
       },
       {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/sifu-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/163138/sifu-persian-subtitle/",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-7/",
+        "patcher": "GameSub",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co545w.jpg",
+    "releaseYear": 2017.0
+  },
+  "Resident Evil Village": {
+    "IGDB_ID": "55163",
+    "company": "Capcom",
+    "engine": "RE Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Resident Evil Village",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/resident-evil-village/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/resident-evil-village-farsi-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-village/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-رزیدنت-اویل-resident-evil-village/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/114472/resident-evil-village-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2zpu.jpg",
+    "releaseYear": 2021.0
+  },
+  "Sekiro: Shadows Die Twice": {
+    "IGDB_ID": "76882",
+    "company": "Activision",
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "Sekiro: Shadows Die Twice",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/sekiro-shadows-die-twice/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/sekiro-shadows-die-twice-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سکیرو-sekiro-shadows-die-twice/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سکیرو-sekiro-shadows-die-twice/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2a23.jpg",
+    "releaseYear": 2019.0
+  },
+  "Shadow of the Tomb Raider": {
+    "IGDB_ID": "37777",
+    "company": "Square Enix",
+    "engine": "Crystal Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Shadow of the Tomb Raider",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/shadow-of-the-tomb-raider-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/shadow-of-the-tomb-raider/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-توم-ریدر-shadow-of-the-tomb-raider/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-توم-ریدر-shadow-of-the-tomb-raider/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1vcn.jpg",
+    "releaseYear": 2018.0
+  },
+  "Sherlock Holmes: Chapter One": {
+    "IGDB_ID": "134161",
+    "company": "Frogwares",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Sherlock Holmes: Chapter One",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/farsi-sherlock-holmes-chapter-one/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/143957/sherlock-holmes-chapter-one-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://teamfa.net/shop/sherlock-holmes-chapter-one",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co48pg.jpg",
+    "releaseYear": 2021.0
+  },
+  "Sherlock Holmes: Crimes \u0026 Punishments": {
+    "IGDB_ID": "5541",
+    "company": "Focus Entertainment",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Sherlock Holmes: Crimes \u0026 Punishments",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/sherlock-holmes-crimes-and-punishments-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1sqz.jpg",
+    "releaseYear": 2014.0
+  },
+  "Sherlock Holmes: The Awakened": {
+    "IGDB_ID": "212664",
+    "company": "Frogwares",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Sherlock Holmes: The Awakened",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/sherlock-holmes-the-awakened/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co68l9.jpg",
+    "releaseYear": 2023
+  },
+  "Sherlock Holmes: The Devil\u0027s Daughter": {
+    "IGDB_ID": "11563",
+    "company": "Bigben Interactive",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Sherlock Holmes: The Devil\u0027s Daughter",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شرلوک-هولمز-sherlock-holmes-the-devils-daughter/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شرلوک-هولمز-sherlock-holmes-the-devils-daughter/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co3wmc.jpg",
+    "releaseYear": 2016.0
+  },
+  "Sifu": {
+    "IGDB_ID": "144022",
+    "company": "Sloclap",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Fighting",
       "Hack and slash/Beat \u0027em up",
       "Indie"
     ],
-    "IGDB_ID": "144022"
-  },
-  "Final Fantasy VII Remake": {
-    "name": "Final Fantasy VII Remake",
-    "picURL": "Images/Games/co1qxr.jpg",
-    "releaseYear": 2020.0,
-    "company": "Square Enix",
-    "engine": "Unreal Engine",
+    "name": "Sifu",
     "patches": [
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فاینال-فانتزی-۷-final-fantasy-vii-remake/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "11169"
-  },
-  "The Medium": {
-    "name": "The Medium",
-    "picURL": "Images/Games/co2z0q.jpg",
-    "releaseYear": 2021.0,
-    "company": "Bloober Team",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
+        "URL": "https://farsisaz.com/product/sifu-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/the-medium/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/106470/the-medium-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "133308"
-  },
-  "A Juggler\u0027s Tale": {
-    "name": "A Juggler\u0027s Tale",
-    "picURL": "Images/Games/co2r3a.jpg",
-    "releaseYear": 2021.0,
-    "company": "Mixtvision",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/a-jugglers-tale-farsi/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ],
-    "IGDB_ID": "122050"
-  },
-  "Deathloop": {
-    "name": "Deathloop",
-    "picURL": "Images/Games/co4nzt.jpg",
-    "releaseYear": 2021.0,
-    "company": "Bethesda Softworks",
-    "engine": "Void Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/deathloopd-farsi/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "113598"
-  },
-  "Beyond: Two Souls": {
-    "name": "Beyond: Two Souls",
-    "picURL": "Images/Games/co2mps.jpg",
-    "releaseYear": 2013.0,
-    "company": "Sony Computer Entertainment",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/beyond-two-souls-farsi/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "1342"
-  },
-  "Metro Exodus": {
-    "name": "Metro Exodus",
-    "picURL": "Images/Games/co1iuj.jpg",
-    "releaseYear": 2019.0,
-    "company": "Deep Silver",
-    "engine": "4A Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/metro-exodus/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/metro-exodus-ps4/",
         "platform": "PS4"
       },
       {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-مترو-اکسدس-metro-exodus/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-مترو-اکسدس-metro-exodus/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "37016"
-  },
-  "High on Life": {
-    "name": "High on Life",
-    "picURL": "Images/Games/co67qo.jpg",
-    "releaseYear": 2022.0,
-    "company": "Squanch Games",
-    "patches": [
-      {
+        "URL": "https://farsisaz.com/product/sifu-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/high-on-life-farsi/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter"
-    ],
-    "IGDB_ID": "204618"
-  },
-  "Heavy Rain": {
-    "name": "Heavy Rain",
-    "picURL": "Images/Games/co3rhy.jpg",
-    "releaseYear": 2010.0,
-    "company": "Quantic Dream",
-    "engine": "Havok",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-هوی-رین-heavy-rain/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "IGDB_ID": "493"
-  },
-  "The Witcher 3: Wild Hunt": {
-    "name": "The Witcher 3: Wild Hunt",
-    "picURL": "Images/Games/co1wyy.jpg",
-    "releaseYear": 2015.0,
-    "company": "WB Games",
-    "engine": "REDengine",
-    "patches": [
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-witcher-3/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "GameSub",
-        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-witcher-3/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "1942"
-  },
-  "A Plague Tale: Requiem": {
-    "name": "A Plague Tale: Requiem",
-    "picURL": "Images/Games/co5pwb.jpg",
-    "releaseYear": 2022.0,
-    "company": "Focus Entertainment",
-    "engine": "Zouna",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/a-plague-tale-requiem/",
         "platform": "PC"
       },
       {
+        "URL": "https://par30games.net/163138/sifu-persian-subtitle/",
         "patcher": "Par30Game",
-        "URL": "https://par30games.net/191905/a-plague-tale-requiem-persian-subtitle/",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "152242"
-  },
-  "A Plague Tale: Innocence": {
-    "name": "A Plague Tale: Innocence",
-    "picURL": "Images/Games/co1lat.jpg",
-    "releaseYear": 2019.0,
-    "company": "Focus Entertainment",
-    "engine": "Zouna",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/185560/a-plague-tale-innocence-persian-subtitle/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "SubRan",
-        "URL": "https://subran.org/shop/فارسی-ساز-کامل-بازی-a-plague-tale-innocence/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "27316"
-  },
-  "Psychonauts 2": {
-    "name": "Psychonauts 2",
-    "picURL": "Images/Games/co1sod.jpg",
-    "releaseYear": 2021.0,
-    "company": "Xbox Game Studios",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/138159/psychonauts-2-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ],
-    "IGDB_ID": "14741"
-  },
-  "Far Cry 6": {
-    "name": "Far Cry 6",
-    "picURL": "Images/Games/co2npg.jpg",
-    "releaseYear": 2021.0,
-    "company": "",
-    "engine": "Dunia Engine",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/far-cry-6-farsi/",
-        "platform": "PS4"
-      },
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/far-cry-6-farsi/",
-        "platform": "PC"
-      },
-      {
-        "patcher": "TeamFa",
-        "URL": "https://teamfa.net/shop/far-cry-6",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ],
-    "IGDB_ID": "126290"
-  },
-  "Biomutant": {
-    "name": "Biomutant",
-    "picURL": "Images/Games/co1rse.jpg",
-    "releaseYear": 2021.0,
-    "company": "THQ Nordic",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/117646/biomutant-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
-    "IGDB_ID": "54842"
+    "picURL": "Images/Games/co4h5s.jpg",
+    "releaseYear": 2022.0
   },
   "Sniper Ghost Warrior Contracts 2": {
-    "name": "Sniper Ghost Warrior Contracts 2",
-    "picURL": "Images/Games/co2nuh.jpg",
-    "releaseYear": 2021.0,
+    "IGDB_ID": "138980",
     "company": "CI Games",
     "engine": "CryEngine V",
-    "patches": [
-      {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/115821/sniper-ghost-warrior-contracts-2-persian-subtitle/",
-        "platform": "PC"
-      }
-    ],
     "genres": [
       "Shooter",
       "Tactical"
     ],
-    "IGDB_ID": "138980"
-  },
-  "Chernobylite": {
-    "name": "Chernobylite",
-    "picURL": "Images/Games/co39vi.jpg",
-    "releaseYear": 2021.0,
-    "company": "All In! Games",
-    "engine": "Unreal Engine 4",
+    "name": "Sniper Ghost Warrior Contracts 2",
     "patches": [
       {
+        "URL": "https://par30games.net/115821/sniper-ghost-warrior-contracts-2-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2nuh.jpg",
+    "releaseYear": 2021.0
+  },
+  "Star Wars Jedi: Fallen Order": {
+    "IGDB_ID": "74701",
+    "company": "Electronic Arts",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Star Wars Jedi: Fallen Order",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/star-wars-jedi-fallen-order/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/chernobylite-ps4/",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/star-wars-jedi-fallen-order-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co1rbi.jpg",
+    "releaseYear": 2019.0
+  },
+  "Star Wars Jedi: Survivor": {
+    "IGDB_ID": "201156",
+    "company": "Electronic Arts",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Star Wars Jedi: Survivor",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/star-wars-jedi-survivor/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-جنگ-ستارگان-جدای-star-wars-jedi-survivor/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5uzk.jpg",
+    "releaseYear": 2023.0
+  },
+  "Stray": {
+    "IGDB_ID": "110248",
+    "company": "Annapurna Interactive",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Stray",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/stray-farsi/",
+        "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
+        "URL": "https://farsisaz.com/product/stray-farsi/",
         "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/chernobylite/",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://teamfa.net/shop/فارسی-ساز-stray",
+        "patcher": "TeamFa",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co4tt2.jpg",
+    "releaseYear": 2022.0
+  },
+  "Tell Me Why": {
+    "IGDB_ID": "125628",
+    "company": "Xbox Game Studios",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Tell Me Why",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/?s\u003dwhy",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2ej1.jpg",
+    "releaseYear": 2020.0
+  },
+  "The Awesome Adventures of Captain Spirit": {
+    "IGDB_ID": "103283",
+    "company": "Square Enix",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "The Awesome Adventures of Captain Spirit",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/captain-spirit",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co3gmm.jpg",
+    "releaseYear": 2018.0
+  },
+  "The Callisto Protocol": {
+    "IGDB_ID": "141538",
+    "company": "Striking Distance Studios",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure",
+      "Shooter"
+    ],
+    "name": "The Callisto Protocol",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4ymo.jpg",
+    "releaseYear": 2022.0
+  },
+  "The Dark Pictures Anthology: Man of Medan": {
+    "IGDB_ID": "55047",
+    "company": "Bandai Namco Entertainment",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "patches": [
+      {
+        "URL": "https://www.payping.ir/d/29jd",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1omz.jpg",
+    "releaseYear": 2019.0
+  },
+  "The Elder Scrolls V: Skyrim": {
+    "IGDB_ID": "472",
+    "company": "Bethesda Softworks",
+    "engine": "Creation Engine",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "The Elder Scrolls V: Skyrim",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-elder-scrolls-v-skyrim-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/the-elder-scrolls-v-skyrim-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/the-elder-scrolls-v-skyrim-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PS3"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اسکایریم-the-elder-scrolls-v-skyrim/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1tnw.jpg",
+    "releaseYear": 2011.0
+  },
+  "The Evil Within": {
+    "IGDB_ID": "4786",
+    "company": "Bethesda Softworks",
+    "engine": "id Tech 5",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "The Evil Within",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-کامل-بازی-شیطان-درون/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-کامل-بازی-شیطان-درون/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-کامل-بازی-شیطان-درون/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      }
+    ],
+    "picURL": "Images/Games/co5wgs.jpg",
+    "releaseYear": 2014.0
+  },
+  "The Evil Within 2": {
+    "IGDB_ID": "36813",
+    "company": "Bethesda Softworks",
+    "engine": "id Tech 5",
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
-      "Simulator",
       "Adventure"
     ],
-    "IGDB_ID": "115054"
-  },
-  "Trek to Yomi": {
-    "name": "Trek to Yomi",
-    "picURL": "Images/Games/co4p88.jpg",
-    "releaseYear": 2022.0,
-    "company": "Devolver Digital",
-    "engine": "Unreal Engine 4",
+    "name": "The Evil Within 2",
     "patches": [
       {
-        "patcher": "Par30Game",
-        "URL": "https://par30games.net/165598/trek-to-yomi-persian-subtitle/",
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اویل-ویتن-the-evil-within-2/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اویل-ویتن-the-evil-within-2/",
+        "patcher": "GameSub",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co5wgu.jpg",
+    "releaseYear": 2017.0
+  },
+  "The Expanse: A Telltale Series": {
+    "IGDB_ID": "185239",
+    "company": "Telltale Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure",
+      "Role-playing (RPG)"
+    ],
+    "name": "The Expanse: A Telltale Series",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-expanse-a-telltale-series/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co6j63.jpg",
+    "releaseYear": 2023.0
+  },
+  "The Forest": {
+    "IGDB_ID": "7504",
+    "company": "Endnight Games Ltd",
+    "engine": "Unity",
+    "genres": [
+      "Puzzle",
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "The Forest",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-forest/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co20x5.jpg",
+    "releaseYear": 2018.0
+  },
+  "The Last of Us": {
+    "IGDB_ID": "1009",
+    "company": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "The Last of Us",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-last-of-us/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      }
+    ],
+    "picURL": "Images/Games/co1r7f.jpg",
+    "releaseYear": 2013.0
+  },
+  "The Last of Us Remastered": {
+    "IGDB_ID": "6036",
+    "company": "Sony Computer Entertainment",
+    "engine": "Proprietry in house engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "The Last of Us Remastered",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-last-of-us-part-i/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/the-last-of-us-part-i/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-last-of-us-part-i/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5zks.jpg",
+    "releaseYear": 2014.0
+  },
+  "The Medium": {
+    "IGDB_ID": "133308",
+    "company": "Bloober Team",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "The Medium",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-medium/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/106470/the-medium-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2z0q.jpg",
+    "releaseYear": 2021.0
+  },
+  "The Quarry": {
+    "IGDB_ID": "194404",
+    "company": "2K Games",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "The Quarry",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-quarry/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/the-quarry/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4kl4.jpg",
+    "releaseYear": 2022.0
+  },
+  "The Sinking City": {
+    "IGDB_ID": "18225",
+    "company": "Bigben Interactive",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "The Sinking City",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/the-sinking-city-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/the-sinking-city/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co1l7s.jpg",
+    "releaseYear": 2019.0
+  },
+  "The Walking Dead: The Telltale Definitive Series": {
+    "IGDB_ID": "117514",
+    "company": "Skybound Games",
+    "genres": [
+      "Point-and-click",
+      "Adventure"
+    ],
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-مردگان-متحرک-the-walking-dead/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1q9o.jpg",
+    "releaseYear": 2019.0
+  },
+  "The Witcher 3: Wild Hunt": {
+    "IGDB_ID": "1942",
+    "company": "WB Games",
+    "engine": "REDengine",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "The Witcher 3: Wild Hunt",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-witcher-3/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-the-witcher-3/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1wyy.jpg",
+    "releaseYear": 2015.0
+  },
+  "The Wolf Among Us": {
+    "IGDB_ID": "2993",
+    "company": "Telltale Games",
+    "engine": "Telltale Tool",
+    "genres": [
+      "Point-and-click",
+      "Adventure"
+    ],
+    "name": "The Wolf Among Us",
+    "patches": [
+      {
+        "URL": "https://gmdownload.ir/the-wolf-among-us/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1rcy.jpg",
+    "releaseYear": 2013.0
+  },
+  "This War of Mine": {
+    "IGDB_ID": "7706",
+    "company": "11 bit studios",
+    "engine": "In-house engine",
+    "genres": [
+      "Simulator",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "This War of Mine",
+    "patches": [
+      {
+        "URL": "https://hayoola.com/game/12/این-جنگ-من#!/",
+        "patcher": "Hayoola",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co3ans.jpg",
+    "releaseYear": 2014.0
+  },
+  "Trek to Yomi": {
+    "IGDB_ID": "152203",
+    "company": "Devolver Digital",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Hack and slash/Beat \u0027em up",
       "Adventure",
       "Indie"
     ],
-    "IGDB_ID": "152203"
-  },
-  "Wasteland 2": {
-    "name": "Wasteland 2",
-    "picURL": "Images/Games/co2601.jpg",
-    "releaseYear": 2014.0,
-    "company": "inXile Entertainment",
-    "engine": "Unity",
+    "name": "Trek to Yomi",
     "patches": [
       {
-        "patcher": "Hayoola",
-        "URL": "",
+        "URL": "https://par30games.net/165598/trek-to-yomi-persian-subtitle/",
+        "patcher": "Par30Game",
         "platform": "PC"
       }
     ],
+    "picURL": "Images/Games/co4p88.jpg",
+    "releaseYear": 2022.0
+  },
+  "Twelve Minutes": {
+    "IGDB_ID": "16612",
+    "company": "Annapurna Interactive",
+    "engine": "Unity",
+    "genres": [
+      "Point-and-click",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Twelve Minutes",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/twelve-minutes-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/122258/twelve-minutes-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5etb.jpg",
+    "releaseYear": 2021.0
+  },
+  "Twin Mirror": {
+    "IGDB_ID": "103266",
+    "company": "Bandai Namco Entertainment",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Twin Mirror",
+    "patches": [
+      {
+        "URL": "https://www.payping.ir/d/LBCT",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5w0s.jpg",
+    "releaseYear": 2020.0
+  },
+  "Uncharted 2: Among Thieves": {
+    "IGDB_ID": "565",
+    "company": "Sony Computer Entertainment",
+    "engine": "Naughty Dog Engine",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Uncharted 2: Among Thieves",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-uncharted-2-among-thieves/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      }
+    ],
+    "picURL": "Images/Games/co1tnb.jpg",
+    "releaseYear": 2009.0
+  },
+  "Uncharted 3: Drake\u0027s Deception": {
+    "IGDB_ID": "512",
+    "company": "Sony Computer Entertainment",
+    "engine": "Naughty Dog Engine",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Uncharted 3: Drake\u0027s Deception",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-بازی-uncharted-3-drakes-deception/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      }
+    ],
+    "picURL": "Images/Games/co1tp8.jpg",
+    "releaseYear": 2011.0
+  },
+  "Uncharted 4: A Thief\u0027s End": {
+    "IGDB_ID": "7331",
+    "company": "Sony Interactive Entertainment",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Uncharted 4: A Thief\u0027s End",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/uncharted-legacy-of-thieves-collection-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/197747/uncharted-legacy-of-thieves-collection-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1r7h.jpg",
+    "releaseYear": 2016.0
+  },
+  "Uncharted: Drake\u0027s Fortune": {
+    "IGDB_ID": "431",
+    "company": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Uncharted: Drake\u0027s Fortune",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-uncharted-drakes-fortune/",
+        "patcher": "GameSub",
+        "platform": "PS3"
+      }
+    ],
+    "picURL": "Images/Games/co1tp7.jpg",
+    "releaseYear": 2007.0
+  },
+  "Uncharted: The Lost Legacy": {
+    "IGDB_ID": "26193",
+    "company": "Sony Interactive Entertainment",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Uncharted: The Lost Legacy",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/uncharted-legacy-of-thieves-collection-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/197747/uncharted-legacy-of-thieves-collection-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1tp9.jpg",
+    "releaseYear": 2017.0
+  },
+  "Valiant Hearts: The Great War": {
+    "IGDB_ID": "7327",
+    "company": "Ubisoft Entertainment",
+    "engine": "UbiArt Framework",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Valiant Hearts: The Great War",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-قلب-های-دلیر/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co25zo.jpg",
+    "releaseYear": 2014.0
+  },
+  "Vampyr": {
+    "IGDB_ID": "8729",
+    "company": "Focus Entertainment",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Vampyr",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/vampyr-ps4/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/vampyr/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ومپایر-vampyr/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ومپایر-vampyr/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1q8o.jpg",
+    "releaseYear": 2018.0
+  },
+  "Visage": {
+    "IGDB_ID": "18020",
+    "company": "SadSquare Studio",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Puzzle",
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Visage",
+    "patches": [
+      {
+        "URL": "https://teamfa.net/shop/visage",
+        "patcher": "TeamFa",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1h7d.jpg",
+    "releaseYear": 2020.0
+  },
+  "Wasteland 2": {
+    "IGDB_ID": "3101",
+    "company": "inXile Entertainment",
+    "engine": "Unity",
     "genres": [
       "Adventure",
       "Indie",
@@ -3135,45 +3340,15 @@
       "Strategy",
       "Turn-based strategy (TBS)"
     ],
-    "IGDB_ID": "3101"
-  },
-  "Gylt": {
-    "name": "Gylt",
-    "picURL": "Images/Games/co2qad.jpg",
-    "releaseYear": 2019.0,
-    "company": "Tequila Works",
-    "engine": "Unreal Engine 4",
+    "name": "Wasteland 2",
     "patches": [
       {
-        "patcher": "GMDownload",
-        "URL": "https://gmdownload.ir/gylt/",
+        "URL": "",
+        "patcher": "Hayoola",
         "platform": "PC"
       }
     ],
-    "genres": [
-      "Action",
-      "Horror"
-    ],
-    "IGDB_ID": "119247"
-  },
-  "Darksiders III": {
-    "name": "Darksiders III",
-    "picURL": "Images/Games/co1qqk.jpg",
-    "releaseYear": 2018.0,
-    "company": "THQ Nordic",
-    "engine": "Unreal Engine 4",
-    "patches": [
-      {
-        "patcher": "FarsiSaz",
-        "URL": "https://farsisaz.com/product/darksiders-iii-ps4/",
-        "platform": "PS4"
-      }
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat \u0027em up",
-      "Adventure"
-    ],
-    "IGDB_ID": "28380"
+    "picURL": "Images/Games/co2601.jpg",
+    "releaseYear": 2014.0
   }
 }

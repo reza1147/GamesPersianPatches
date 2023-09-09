@@ -76,50 +76,11 @@ function fetchData() {
                     var patcherImg = document.createElement("img");
                     patcherImg.classList.add("patcherImg");
                     patcherImg.alt = jsonData[name]["patches"][patchIdx]["patcher"];
-                    switch (jsonData[name]["patches"][patchIdx]["patcher"]) {
-                        case "GameSub":
-                            patcherImg.src = "Images/Patcher/GameSub.png";
-                            break;
-                        case "FarsiSaz":
-                            patcherImg.src = "Images/Patcher/FarsiSaz.png";
-                            break;
-                        case "SubRan":
-                            patcherImg.src = "Images/Patcher/SubRan.png";
-                            break;
-                        case "TeamFa":
-                            patcherImg.src = "Images/Patcher/TeamFa.png";
-                            break;
-                        case "Hayoola":
-                            patcherImg.src = "Images/Patcher/Hayoola.png";
-                            break;
-                        case "Mohsening":
-                            patcherImg.src = "Images/Patcher/Mohsening.png";
-                            break;
-                        case "Par30Game":
-                            patcherImg.src = "Images/Patcher/Par30Game.png";
-                            break;
-                        case "GMDownload":
-                            patcherImg.src = "Images/Patcher/GMDownload.png";
-                            break;
-                    }
+                    patcherImg.src = "Images/Patcher/" + jsonData[name]["patches"][patchIdx]["patcher"]+".png";
                     var platformImg = document.createElement("img");
                     platformImg.classList.add("platformImg");
                     platformImg.alt = jsonData[name]["patches"][patchIdx]["platform"];
-                    switch (jsonData[name]["patches"][patchIdx]["platform"]) {
-                        case "PC":
-                            platformImg.src = "Images/Platform/PC.png";
-                            break;
-                        case "PS4":
-                            platformImg.src = "Images/Platform/PS4.png";
-                            break;
-                        case "PS3":
-                            platformImg.src = "Images/Platform/PS3.png";
-                            break;
-                        case "NintendoSwitch":
-                            platformImg.src = "Images/Platform/NintendoSwitch.png";
-                            break;
-                    }
-                    // patch.innerHTML = jsonData[name]["patches"][patchIdx]["platform"];
+                    platformImg.src = "Images/Platform/"+jsonData[name]["patches"][patchIdx]["platform"]+".png";
                     link.appendChild(patcherImg);
                     link.appendChild(platformImg);
                     patch.appendChild(link);
@@ -193,17 +154,17 @@ function addClickEventToCards() {
 }
 
 function unGroup() {
-    $('.card').each(function (index) {
+    $('.card').each(function () {
         hasThis = false;
         card = this;
-        $('#body').find('.card').each(function (c) {
+        $('#body').find('.card').each(function () {
             if (this.id === card.id)
                 hasThis = true;
         })
         if (hasThis === false)
             $("#body").append(this);
     });
-    $('.Part').each(function (c) {
+    $('.Part').each(function () {
         this.remove();
     })
     addClickEventToCards();
@@ -230,7 +191,7 @@ function groupByEngine() {
 
         part.appendChild(partTitle);
         document.getElementById("main").appendChild(part);
-        $('#body').find('.card').each(function (c) {
+        $('#body').find('.card').each(function () {
             if ($(this).find('.engine').html() === engine)
                 part.appendChild(this);
         })
@@ -257,7 +218,7 @@ function groupByCompany() {
 
         part.appendChild(partTitle);
         document.getElementById("main").appendChild(part);
-        $('#body').find('.card').each(function (c) {
+        $('#body').find('.card').each(function () {
             if ($(this).find('.company').html() === company)
                 part.appendChild(this);
         })
@@ -284,7 +245,7 @@ function groupByGenre() {
 
         part.appendChild(partTitle);
         document.getElementById("main").appendChild(part);
-        $('#body').find('.card').each(function (c) {
+        $('#body').find('.card').each(function () {
             if (jsonData[this.id]['genres'].indexOf(genre) > -1)
                 part.appendChild(this.cloneNode(true));
         })
@@ -312,7 +273,7 @@ function groupByPatcher() {
 
         part.appendChild(partTitle);
         document.getElementById("main").appendChild(part);
-        $('#body').find('.card').each(function (c) {
+        $('#body').find('.card').each(function () {
             var patchersName = new Set();
             for (var patchIdx in jsonData[this.id]["patches"]) {
                 patchersName.add(jsonData[this.id]["patches"][patchIdx]["patcher"])
@@ -344,7 +305,7 @@ function groupByPlatform() {
 
         part.appendChild(partTitle);
         document.getElementById("main").appendChild(part);
-        $('#body').find('.card').each(function (c) {
+        $('#body').find('.card').each(function () {
             var platformsName = new Set();
             for (var patchIdx in jsonData[this.id]["patches"]) {
                 platformsName.add(jsonData[this.id]["patches"][patchIdx]["platform"])
