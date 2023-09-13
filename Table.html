@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Persian Patches Table</title>
+    <link href="https://fonts.googleapis.com/css?family=Vazirmatn&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Styles.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="./JS.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/bootstrap-table.min.css"
+          rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/filter-control/bootstrap-table-filter-control.min.css"
+          rel="stylesheet"/>
+    <link href="https://rawgit.com/vitalets/x-editable/master/dist/bootstrap3-editable/css/bootstrap-editable.css"
+          rel="stylesheet"/>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-toggle/2.2.2/css/bootstrap-toggle.css">
+
+</head>
+<body class="MainBody">
+
+<div class="header" role="banner">
+    <h1>Persian Video Games Patches Table</h1>
+</div>
+<div class="menubar">
+
+    <div id="addGame" class="toggle-btn-group">
+        <button role="button" onclick="location.href='index.html';" title="Home"
+                class="toggle-btn" type="button">Home
+        </button>
+        <button role="button" onclick="location.href='https://forms.gle/K34jc6X7sWj3bXKa6';" title="addGame"
+                class="toggle-btn" type="button">addGame
+        </button>
+    </div>
+</div>
+<div id="main" class="Main">
+    <div id="body" class="Body">
+        <div id="toolbar" class="row ms-auto">
+            <h4 id="rowCount" class="col form-control ms-1">0 Games</h4>
+            <select class="col form-control ms-1 me-1">
+                <option value="">Export Basic</option>
+                <option value="all">Export All</option>
+                <option value="selected">Export Selected</option>
+            </select>
+            <input class="col form-control" data-offstyle="warning" id="duplicate" type="checkbox" unchecked data-toggle="toggle"
+                   data-on="Duplicate" data-off="Duplicate">
+        </div>
+
+        <table id="table"
+               data-cache="false"
+               data-toggle="table"
+               data-search="true"
+               data-advanced-search="true"
+               data-show-columns="true"
+               data-show-columns-toggle-all="true"
+               data-show-multi-sort="true"
+               data-filter-control="true"
+               data-show-export="true"
+               data-click-to-select="true"
+               data-id-table="advancedTable"
+               data-toolbar="#toolbar"
+               data-export-data-type="all"
+               data-query-params="queryParams"
+               class="table-responsive">
+            <thead>
+            <tr>
+                <th data-field="state" data-checkbox="true"></th>
+                <th data-field="name" data-filter-control="input" data-sortable="true">Game Name</th>
+                <th data-field="year" data-filter-control="input" data-sortable="true">Release Year</th>
+                <th data-field="company" data-filter-control="select" data-sortable="true">Company</th>
+                <th data-field="engine" data-filter-control="select" data-sortable="true">Engine</th>
+                <th data-field="genres" data-filter-control="input">Genres</th>
+                <th data-field="patcher" data-filter-control="select" data-sortable="true">Patcher</th>
+                <th data-field="platform" data-filter-control="select" data-sortable="true">Platform</th>
+            </tr>
+            </thead>
+            <tbody id="GameTable">
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="footer" role="contentinfo">Created By <a href="https://t.me/Reza1147">Reza147</a>
+    gathered from <a href="https://www.igdb.com">IGDB</a>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/bootstrap-table.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/editable/bootstrap-table-editable.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/export/bootstrap-table-export.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/filter-control/utils.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/toolbar/bootstrap-table-toolbar.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.22.1/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js"></script>
+<script src="https://rawgit.com/hhurz/tableExport.jquery.plugin/master/tableExport.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+
+<script>
+    function fetchDataForTable() {
+        fetch("./GamesPatch.json")
+            .then(response => {
+                return response.json();
+            })
+            .then(value => {
+                jsonData = value
+                tableData = [];
+                for (var jName in jsonData) {
+                    var genre = "";
+                    for (var genreName in jsonData[jName]["genres"]) {
+                        genre += jsonData[jName]["genres"][genreName] + " , ";
+                    }
+                    genre = genre.slice(0, -3);
+                    for (var patchIdx in jsonData[jName]["patches"]) {
+                        tableData.push({
+                            name: jName,
+                            year: jsonData[jName]["releaseYear"] === undefined ? "undefined" : jsonData[jName]["releaseYear"],
+                            company: jsonData[jName]["company"] === undefined ? "undefined" : jsonData[jName]["company"],
+                            engine: jsonData[jName]["engine"] === undefined ? "undefined" : jsonData[jName]["engine"],
+                            genres: genre,
+                            patcher: jsonData[jName]["patches"][patchIdx]["patcher"] === undefined ? "undefined" : jsonData[jName]["patches"][patchIdx]["patcher"],
+                            platform: jsonData[jName]["patches"][patchIdx]["platform"] === undefined ? "undefined" : jsonData[jName]["patches"][patchIdx]["platform"]
+                        });
+                    }
+                }
+                var $table = $('#table');
+                $table.bootstrapTable('destroy');
+                initTable();
+                $table.bootstrapTable();
+
+                function hidePath() {
+                    if ($('#duplicate').is(':checked')) {
+                        var patcher = $(".bootstrap-table-filter-control-patcher").val();
+                        var platform = $(".bootstrap-table-filter-control-platform").val();
+                        if (patcher !== "")
+                            $table.bootstrapTable('hideColumn', 'platform');
+                        else if (platform !== "")
+                            $table.bootstrapTable('hideColumn', 'patcher');
+                        else if (patcher === "" && platform === "") {
+                            $table.bootstrapTable('hideColumn', 'patcher');
+                            $table.bootstrapTable('hideColumn', 'platform');
+                        }
+                    } else {
+                        $table.bootstrapTable('showColumn', 'patcher');
+                        $table.bootstrapTable('showColumn', 'platform');
+                    }
+                }
+
+                function refreshRowCount() {
+                    var data = $table.bootstrapTable('getData').length;
+                    var hideRows = $table.bootstrapTable('getHiddenRows').length;
+                    $('#rowCount').html((data - hideRows) + ' Games');
+                }
+
+                $table.on('search.bs.table', function () {
+                    refreshRowCount();
+                });
+                $(function () {
+                    $('#toolbar').find('select').change(function () {
+                        $table.bootstrapTable('refreshOptions', {
+                            exportDataType: $(this).val()
+                        });
+                    });
+                })
+                $(function () {
+
+                    $('#duplicate').change(function () {
+                        if ($('#duplicate').is(':checked')) {
+                            // hidePath();
+                            $table.bootstrapTable('hideColumn', 'platform');
+
+                            var data = $table.bootstrapTable('getData');
+                            var games = {};
+                            for (var i = 0; i < data.length; i++) {
+                                if (games[data[i].name])
+                                    $('#table').bootstrapTable('hideRow', {index: i, isIdField: true});
+                                else games[data[i].name] = true;
+                            }
+                        } else {
+                            $table.bootstrapTable('getHiddenRows', true)
+                            $table.bootstrapTable('showColumn', 'platform');
+
+                        }
+                        refreshRowCount();
+                    })
+                })
+            });
+    }
+
+    fetchDataForTable();
+
+    function initTable() {
+        var table = document.getElementById('GameTable');
+        table.innerHTML = '';
+        var i = 0;
+        for (let data of tableData) {
+            let row = table.insertRow(-1);
+
+            let state = row.insertCell(0);
+            state.innerHTML = "<input data-index=\"" + i + "\" name=\"btSelectItem\" type=\"checkbox\">";
+            state.className = "bs-checkbox";
+
+            let name = row.insertCell(1);
+            name.innerHTML = data.name;
+
+            let year = row.insertCell(2);
+            year.innerHTML = data.year;
+
+            let company = row.insertCell(3);
+            company.innerHTML = data.company;
+
+            let engine = row.insertCell(4);
+            engine.innerHTML = data.engine;
+
+            let genres = row.insertCell(5);
+            genres.innerHTML = data.genres;
+
+            let patcher = row.insertCell(6);
+            patcher.innerHTML = data.patcher;
+
+            let platform = row.insertCell(7);
+            platform.innerHTML = data.platform;
+            i++;
+        }
+    }
+
+    function queryParams(params) {
+        var options = $table.bootstrapTable('getOptions')
+        if (!options.pagination) {
+            params.limit = options.totalRows
+        }
+        return params
+    }
+
+</script>
+</body>
+</html>
