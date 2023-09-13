@@ -172,8 +172,6 @@
                     $('#duplicate').change(function () {
                         if ($('#duplicate').is(':checked')) {
                             // hidePath();
-                            $table.bootstrapTable('hideColumn', 'platform');
-
                             var data = $table.bootstrapTable('getData');
                             var games = {};
                             for (var i = 0; i < data.length; i++) {
@@ -183,8 +181,6 @@
                             }
                         } else {
                             $table.bootstrapTable('getHiddenRows', true)
-                            $table.bootstrapTable('showColumn', 'platform');
-
                         }
                         refreshRowCount();
                     })
