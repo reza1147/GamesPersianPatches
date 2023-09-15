@@ -118,6 +118,7 @@
   "Aliens: Fireteam Elite": {
     "IGDB_ID": "144153",
     "company": "Focus Entertainment",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
@@ -137,6 +138,7 @@
   "Assassin\u0027s Creed Chronicles: China": {
     "IGDB_ID": "8223",
     "company": "Ubisoft Entertainment",
+    "engine": "Unreal Engine 3",
     "genres": [
       "Platform",
       "Role-playing (RPG)",
@@ -156,6 +158,7 @@
   "Assassin\u0027s Creed Chronicles: India": {
     "IGDB_ID": "14902",
     "company": "Ubisoft Entertainment",
+    "engine": "Unreal Engine 3",
     "genres": [
       "Platform",
       "Adventure"
@@ -174,6 +177,7 @@
   "Assassin\u0027s Creed Chronicles: Russia": {
     "IGDB_ID": "14903",
     "company": "Ubisoft Entertainment",
+    "engine": "Unreal Engine 3",
     "genres": [
       "Platform",
       "Adventure"
@@ -191,7 +195,7 @@
   },
   "Assassin\u0027s Creed Odyssey": {
     "IGDB_ID": "103054",
-    "company": "",
+    "company": "Ubisoft Entertainment",
     "engine": "AnvilNext",
     "genres": [
       "Role-playing (RPG)",
@@ -392,6 +396,7 @@
   "Beyond: Two Souls": {
     "IGDB_ID": "1342",
     "company": "Sony Computer Entertainment",
+    "engine": "Kara",
     "genres": [
       "Adventure"
     ],
@@ -587,6 +592,7 @@
   "Contrast": {
     "IGDB_ID": "3839",
     "company": "Focus Entertainment",
+    "engine": "Unreal Engine 3",
     "genres": [
       "Platform",
       "Puzzle",
@@ -636,6 +642,7 @@
   "Crash Bandicoot 4: It\u0027s About Time": {
     "IGDB_ID": "135254",
     "company": "Activision",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Platform"
     ],
@@ -698,6 +705,7 @@
   "Dark Souls III": {
     "IGDB_ID": "11133",
     "company": "Bandai Namco Entertainment",
+    "engine": "Dantelion",
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
@@ -809,6 +817,7 @@
   "Detroit: Become Human": {
     "IGDB_ID": "14362",
     "company": "Sony Interactive Entertainment",
+    "engine": "Quantic Dream's in-house engine",
     "genres": [
       "Puzzle",
       "Adventure"
@@ -919,6 +928,7 @@
   "Elden Ring": {
     "IGDB_ID": "119133",
     "company": "Bandai Namco Entertainment",
+    "engine": "Dantelion",
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
@@ -995,7 +1005,7 @@
   },
   "Far Cry 6": {
     "IGDB_ID": "126290",
-    "company": "",
+    "company": "Ubisoft Entertainment",
     "engine": "Dunia Engine",
     "genres": [
       "Shooter",
@@ -1145,6 +1155,7 @@
   "God of War": {
     "IGDB_ID": "19560",
     "company": "Sony Interactive Entertainment",
+    "engine": "Santa Monica's Kinetica engine",
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat \u0027em up",
@@ -1179,6 +1190,7 @@
   "God of War III": {
     "IGDB_ID": "499",
     "company": "Sony Computer Entertainment",
+    "engine": "Santa Monica's Kinetica engine",
     "genres": [
       "Hack and slash/Beat \u0027em up",
       "Adventure"
@@ -1260,7 +1272,7 @@
   },
   "Grand Theft Auto: San Andreas - The Definitive Edition": {
     "IGDB_ID": "178126",
-    "company": "",
+    "company": "Rockstar Games",
     "engine": "Unreal Engine 4",
     "genres": [
       "Shooter",
@@ -1280,7 +1292,7 @@
   },
   "Grand Theft Auto: Vice City - The Definitive Edition": {
     "IGDB_ID": "178125",
-    "company": "",
+    "company": "Rockstar Games",
     "engine": "Unreal Engine 4",
     "genres": [
       "Shooter",
@@ -1515,6 +1527,7 @@
   "High on Life": {
     "IGDB_ID": "204618",
     "company": "Squanch Games",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Shooter"
     ],
@@ -1600,7 +1613,7 @@
   },
   "Immortals Fenyx Rising": {
     "IGDB_ID": "119357",
-    "company": "",
+    "company": "Ubisoft Entertainment",
     "engine": "Ubisoft Anvil",
     "genres": [
       "Puzzle",
@@ -1695,6 +1708,7 @@
   "L.A. Noire": {
     "IGDB_ID": "109",
     "company": "Rockstar Games",
+    "engine": "RAGE",
     "genres": [
       "Strategy",
       "Adventure"
@@ -1849,6 +1863,7 @@
   "Life is Strange: True Colors": {
     "IGDB_ID": "144765",
     "company": "Square Enix",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Adventure"
     ],
@@ -2513,6 +2528,7 @@
   "Sekiro: Shadows Die Twice": {
     "IGDB_ID": "76882",
     "company": "Activision",
+    "engine": "Dantelion",
     "genres": [
       "Hack and slash/Beat \u0027em up",
       "Adventure"
@@ -2824,6 +2840,7 @@
   "The Awesome Adventures of Captain Spirit": {
     "IGDB_ID": "103283",
     "company": "Square Enix",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Adventure"
     ],
@@ -3007,6 +3024,7 @@
   "The Last of Us": {
     "IGDB_ID": "1009",
     "company": "Sony Computer Entertainment",
+    "engine": "Havok",
     "genres": [
       "Shooter",
       "Adventure"
@@ -3025,7 +3043,7 @@
   "The Last of Us Remastered": {
     "IGDB_ID": "6036",
     "company": "Sony Computer Entertainment",
-    "engine": "Proprietry in house engine",
+    "engine": "Havok",
     "genres": [
       "Shooter",
       "Adventure"
@@ -3126,6 +3144,7 @@
   "The Walking Dead: The Telltale Definitive Series": {
     "IGDB_ID": "117514",
     "company": "Skybound Games",
+    "engine": "Telltale Tool",
     "genres": [
       "Point-and-click",
       "Adventure"
@@ -3254,6 +3273,7 @@
   "Twin Mirror": {
     "IGDB_ID": "103266",
     "company": "Bandai Namco Entertainment",
+    "engine": "Unreal Engine 4",
     "genres": [
       "Adventure"
     ],
@@ -3311,6 +3331,7 @@
   "Uncharted 4: A Thief\u0027s End": {
     "IGDB_ID": "7331",
     "company": "Sony Interactive Entertainment",
+    "engine": "Naughty Dog Engine 2.0",
     "genres": [
       "Shooter",
       "Adventure"
@@ -3334,6 +3355,7 @@
   "Uncharted: Drake\u0027s Fortune": {
     "IGDB_ID": "431",
     "company": "Sony Computer Entertainment",
+    "engine": "Naughty Dog Engine 2.0",
     "genres": [
       "Shooter",
       "Platform",
@@ -3353,6 +3375,7 @@
   "Uncharted: The Lost Legacy": {
     "IGDB_ID": "26193",
     "company": "Sony Interactive Entertainment",
+    "engine": "Naughty Dog Engine 2.0",
     "genres": [
       "Shooter",
       "Puzzle",
