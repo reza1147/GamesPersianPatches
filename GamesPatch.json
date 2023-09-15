@@ -485,8 +485,8 @@
     "name": "Bright Memory",
     "patches": [
       {
-        "URL": "https://gmdownload.ir/bright-memory/",
-        "patcher": "GMDownload",
+        "URL": "https://panel.sekaans.com/type/all/1096",
+        "patcher": "STM",
         "platform": "PC"
       }
     ],
@@ -508,6 +508,11 @@
       {
         "URL": "https://farsisaz.com/product/bright-memory-infinite-farsi/",
         "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://panel.sekaans.com/type/all/1101",
+        "patcher": "STM",
         "platform": "PC"
       }
     ],
@@ -892,6 +897,25 @@
     "picURL": "Images/Games/co65yk.jpg",
     "releaseYear": 2022.0
   },
+  "eFootball PES 2020": {
+    "IGDB_ID": "119422",
+    "company": "Konami Digital Entertainment",
+    "engine": "Fox Engine",
+    "genres": [
+      "Simulator",
+      "Sport"
+    ],
+    "name": "eFootball PES 2020",
+    "patches": [
+      {
+        "URL": "https://parsipes.ir/pes2021farsi/",
+        "patcher": "ParsiPES",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1m14.jpg",
+    "releaseYear": 2019.0
+  },
   "Elden Ring": {
     "IGDB_ID": "119133",
     "company": "Bandai Namco Entertainment",
@@ -1089,6 +1113,11 @@
       {
         "URL": "https://farsisaz.com/product/farsisaz-ghostrunner/",
         "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://panel.sekaans.com/type/all/1104",
+        "patcher": "STM",
         "platform": "PC"
       }
     ],
@@ -1290,8 +1319,8 @@
     "name": "Gylt",
     "patches": [
       {
-        "URL": "https://gmdownload.ir/gylt/",
-        "patcher": "GMDownload",
+        "URL": "https://panel.sekaans.com/type/all/1108",
+        "patcher": "STM",
         "platform": "PC"
       }
     ],
@@ -1652,6 +1681,11 @@
       {
         "URL": "https://par30games.net/125719/kena-bridge-of-spirits-persian-subtitle/",
         "patcher": "Par30Game",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://panel.sekaans.com/type/all/1105",
+        "patcher": "STM",
         "platform": "PC"
       }
     ],
@@ -2169,6 +2203,44 @@
     "picURL": "Images/Games/co2vrm.jpg",
     "releaseYear": 2021.0
   },
+  "Pro Evolution Soccer 2017": {
+    "IGDB_ID": "22753",
+    "company": "Konami Digital Entertainment",
+    "engine": "Fox Engine",
+    "genres": [
+      "Simulator",
+      "Sport"
+    ],
+    "name": "Pro Evolution Soccer 2017",
+    "patches": [
+      {
+        "URL": "https://parsipes.ir/pes2017farsi/",
+        "patcher": "ParsiPES",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1mxt.jpg",
+    "releaseYear": 2016.0
+  },
+  "Pro Evolution Soccer 2019": {
+    "IGDB_ID": "100359",
+    "company": "Konami Digital Entertainment",
+    "engine": "Fox Engine",
+    "genres": [
+      "Simulator",
+      "Sport"
+    ],
+    "name": "Pro Evolution Soccer 2019",
+    "patches": [
+      {
+        "URL": "https://parsipes.ir/pes2019farsi/",
+        "patcher": "ParsiPES",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1ug4.jpg",
+    "releaseYear": 2018.0
+  },
   "Psychonauts 2": {
     "IGDB_ID": "14741",
     "company": "Xbox Game Studios",
@@ -2236,6 +2308,25 @@
       }
     ],
     "picURL": "Images/Games/co1q1f.jpg",
+    "releaseYear": 2018.0
+  },
+  "Remothered: Tormented Fathers": {
+    "IGDB_ID": "28548",
+    "company": "Stormind Games",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "name": "Remothered: Tormented Fathers",
+    "patches": [
+      {
+        "URL": "https://panel.sekaans.com/type/all/1090",
+        "patcher": "SubRan",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co26dl.jpg",
     "releaseYear": 2018.0
   },
   "Resident Evil 2": {
@@ -2411,8 +2502,8 @@
     "name": "Scars Above",
     "patches": [
       {
-        "URL": "https://gmdownload.ir/scars-above/",
-        "patcher": "GMDownload",
+        "URL": "https://panel.sekaans.com/type/all/1112",
+        "patcher": "STM",
         "platform": "PC"
       }
     ],
@@ -2603,6 +2694,11 @@
         "URL": "https://par30games.net/163138/sifu-persian-subtitle/",
         "patcher": "Par30Game",
         "platform": "PC"
+      },
+      {
+        "URL": "https://panel.sekaans.com/type/all/1128",
+        "patcher": "STM",
+        "platform": "PC"
       }
     ],
     "picURL": "Images/Games/co4h5s.jpg",
@@ -2696,6 +2792,11 @@
       {
         "URL": "https://teamfa.net/shop/فارسی-ساز-stray",
         "patcher": "TeamFa",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://panel.sekaans.com/type/all/1081",
+        "patcher": "SubRan",
         "platform": "PC"
       }
     ],
