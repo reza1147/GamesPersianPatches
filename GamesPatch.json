@@ -227,6 +227,34 @@
     "picURL": "Images/Games/co2nul.jpg",
     "releaseYear": 2018.0
   },
+  "Assassin\u0027s Creed Mirage": {
+    "IGDB_ID": "215060",
+    "company": "Ubisoft Entertainment",
+    "engine": "AnvilNext",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Assassin's Creed Mirage",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-اساسین-کرید-assassins-creed-mirage/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://t.me/iranisub_ir/9",
+        "patcher": "IraniSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://t.me/iranisub_ir/9",
+        "patcher": "IraniSub",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co57sj.jpg",
+    "releaseYear": 2023.0
+  },
   "Assassin\u0027s Creed Origins": {
     "IGDB_ID": "28540",
     "company": "Ubisoft Entertainment",
@@ -679,12 +707,12 @@
     "name": "Cyberpunk 2077",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/cyberpunk-2077-farsi/",
+        "URL": "https://farsisaz.com/product/cp2077-full-dlc/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/cyberpunk-2077-farsi/",
+        "URL": "https://farsisaz.com/product/cp2077-full-dlc/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -1186,6 +1214,25 @@
     ],
     "picURL": "Images/Games/co1tmu.jpg",
     "releaseYear": 2018.0
+  },
+  "God of War Ragnarök": {
+    "IGDB_ID": "112875",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Santa Monica's Kinetica engine",
+    "genres": [
+      "Hack and slash/Beat \u0027em up",
+      "Adventure"
+    ],
+    "name": "God of War Ragnarök",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/god-of-war-ragnarok/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co5s5v.jpg",
+    "releaseYear": 2022.0
   },
   "God of War III": {
     "IGDB_ID": "499",
@@ -1759,6 +1806,24 @@
     "picURL": "Images/Games/co1nhw.jpg",
     "releaseYear": 2016.0
   },
+  "Layers of Fear 2023": {
+    "IGDB_ID": "204363",
+    "company": "Bloober Team",
+    "engine": "Unreal Engine 5",
+    "genres": [
+      "Puzzle"
+    ],
+    "name": "Layers of Fear",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/layers-of-fear-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co66ie.jpg",
+    "releaseYear": 2023.0
+  },
   "Layers of Fear 2": {
     "IGDB_ID": "90107",
     "company": "Gun Interactive",
@@ -1778,6 +1843,29 @@
     ],
     "picURL": "Images/Games/co2j3p.jpg",
     "releaseYear": 2019.0
+  },
+  "Lies of P": {
+    "IGDB_ID": "148241",
+    "company": "Round8 Studio",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Role-playing (RPG)"
+    ],
+    "name": "Lies of P",
+    "patches": [
+      {
+        "URL": "https://t.me/iranisub_ir/5",
+        "patcher": "IraniSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://t.me/iranisub_ir/5",
+        "patcher": "IraniSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co6lxr.jpg",
+    "releaseYear": 2023.0
   },
   "Life is Strange": {
     "IGDB_ID": "7599",
@@ -1967,6 +2055,35 @@
     "picURL": "Images/Games/co26vl.jpg",
     "releaseYear": 2020.0
   },
+  "Mafia II: Definitive Edition": {
+    "IGDB_ID": "134071",
+    "company": "2K Games",
+    "engine": "The Illusion Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Mafia II: Definitive Edition",
+    "patches": [
+      {
+        "URL": "http://fansub.ir/mafia-ii-definitive-edition/",
+        "patcher": "FanSub",
+        "platform": "PS4"
+      },
+      {
+        "URL": "http://fansub.ir/mafia-ii-definitive-edition/",
+        "patcher": "FanSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://persianlingo.ir/product/farsi-saz-mafia2/",
+        "patcher": "PersianLingo",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co26zi.jpg",
+    "releaseYear": 2020.0
+  },
   "Martha Is Dead": {
     "IGDB_ID": "90714",
     "company": "Wired Productions",
@@ -2024,6 +2141,27 @@
     ],
     "picURL": "Images/Games/co2dwe.jpg",
     "releaseYear": 2020.0
+  },
+  "Mass Effect Legendary Edition": {
+    "IGDB_ID": "140839",
+    "company": "BioWare",
+    "engine": "Unreal Engine 3",
+    "genres": [
+      "Role-playing (RPG)",
+      "Shooter",
+      "Strategy",
+      "Adventure"
+    ],
+    "name": "Mass Effect Legendary Edition",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-مس-افکت-mass-effect/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2k5h.jpg",
+    "releaseYear": 2021.0
   },
   "Max Payne 3": {
     "IGDB_ID": "960",
@@ -2869,6 +3007,20 @@
         "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
         "patcher": "FarsiSaz",
         "platform": "PC"
+      },{
+        "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "http://fansub.ir/callisto-protocol-patch/",
+        "patcher": "FanSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "http://fansub.ir/callisto-protocol-patch/",
+        "patcher": "FanSub",
+        "platform": "PS4"
       }
     ],
     "picURL": "Images/Games/co4ymo.jpg",
@@ -3091,6 +3243,24 @@
     ],
     "picURL": "Images/Games/co2z0q.jpg",
     "releaseYear": 2021.0
+  },
+  "The Park": {
+    "IGDB_ID": "11649",
+    "company": "Funcom",
+    "engine": "Unreal Engine",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "The Park",
+    "patches": [
+      {
+        "URL": "https://persianlingo.ir/product/farsi-saz-the-park/",
+        "patcher": "PersianLingo",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/2pjd1k.jpg",
+    "releaseYear": 2015.0
   },
   "The Quarry": {
     "IGDB_ID": "194404",
