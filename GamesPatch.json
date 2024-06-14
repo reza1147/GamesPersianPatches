@@ -41,9 +41,14 @@
         "platform": "PC"
       },
       {
-        "URL": "https://subran.org/shop/فارسی-ساز-کامل-بازی-a-plague-tale-innocence/",
+        "URL": "https://subran.info/product/a-plague-tale-innocence/",
         "patcher": "SubRan",
         "platform": "PC"
+      },
+      {
+        "URL": "https://t.me/Subtitle_Rangarang/209",
+        "patcher": "Mohsening",
+        "platform": "PS4"
       }
     ],
     "picURL": "Images/Games/co1lat.jpg",
@@ -829,7 +834,7 @@
     "name": "Call of the Sea",
     "patches": [
       {
-        "URL": "https://subran.org/shop/فارسی-ساز-بازی-call-of-the-sea/",
+        "URL": "https://subran.info/product/فارسی-ساز-کامل-بازی-call-of-the-sea/",
         "patcher": "SubRan",
         "platform": "PC"
       }
@@ -3222,7 +3227,7 @@
     "name": "Paradise Lost",
     "patches": [
       {
-        "URL": "https://subran.org/shop/paradise-lost-فارسی-ساز-کامل/",
+        "URL": "https://subran.info/product/paradise-lost/",
         "patcher": "SubRan",
         "platform": "PC"
       }
@@ -4155,7 +4160,7 @@
     "name": "The Dark Pictures Anthology: Man of Medan",
     "patches": [
       {
-        "URL": "https://www.payping.ir/d/29jd",
+        "URL": "https://subran.info/product/dark-pictures-man-of-medan/",
         "patcher": "SubRan",
         "platform": "PC"
       }
@@ -4724,7 +4729,7 @@
     "name": "Twin Mirror",
     "patches": [
       {
-        "URL": "https://www.payping.ir/d/LBCT",
+        "URL": "https://subran.info/product/twin-mirror/",
         "patcher": "SubRan",
         "platform": "PC"
       }
