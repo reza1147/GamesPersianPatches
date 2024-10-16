@@ -135,6 +135,11 @@
         "URL": "https://gbaz.ir/game/1363/alan-wake-remastered-farsi",
         "patcher": "GBaz",
         "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/228790/alan-wake-remastered-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
       }
     ],
     "picURL": "Images/Games/co65aa.jpg",
@@ -153,6 +158,11 @@
       {
         "URL": "https://apolloarcade.net/arcade/alanwake2/",
         "patcher": "ApolloArcade",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/alan-wake-2/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       },
       {
@@ -188,6 +198,25 @@
     ],
     "picURL": "Images/Games/co3gu0.jpg",
     "releaseYear": 2021.0
+  },
+  "Assassin's Creed Brotherhood": {
+    "IGDB_ID": "113",
+    "company": "Ubisoft Entertainment",
+    "engine": "Anvil",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Assassin's Creed Brotherhood",
+    "patches": [
+      {
+        "URL": "https://fansub.ir/ac-brotherhood-patch/",
+        "patcher": "FanSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co6t4d.jpg",
+    "releaseYear": 2010.0
   },
   "Assassin's Creed Chronicles: China": {
     "IGDB_ID": "8223",
@@ -266,6 +295,25 @@
     "picURL": "Images/Games/co1rcf.jpg",
     "releaseYear": 2009.0
   },
+  "Assassin's Creed IV Black Flag": {
+    "IGDB_ID": "1970",
+    "company": "Ubisoft Entertainment",
+    "engine": "Anvil",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Assassin's Creed IV Black Flag",
+    "patches": [
+      {
+        "URL": "https://parsiteamsite.ir/product3/AssassinsCreedBlackFlag/index.html",
+        "patcher": "PersiTeam",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co4qfn.jpg",
+    "releaseYear": 2013.0
+  },
   "Assassin's Creed Mirage": {
     "IGDB_ID": "215060",
     "company": "Ubisoft Entertainment",
@@ -298,6 +346,16 @@
       {
         "URL": "https://apolloarcade.net/arcade/assassins-creed-mirag/",
         "patcher": "ApolloArcade",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/assassins-creed-mirage-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/assassins-creed-mirage-farsi/",
+        "patcher": "FarsiSaz",
         "platform": "PS4"
       }
     ],
@@ -392,6 +450,48 @@
     "picURL": "Images/Games/co1rbe.jpg",
     "releaseYear": 2017.0
   },
+  "Assassin's Creed Revelations": {
+    "IGDB_ID": "537",
+    "company": "Ubisoft Entertainment",
+    "engine": "Anvil",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Assassin's Creed Revelations",
+    "patches": [
+      {
+        "URL": "https://fansub.ir/ac-revelations-patch/",
+        "patcher": "FanSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://persianlingo.ir/product/assassins-creed-revelations/",
+        "patcher": "PersianLingo",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1xih.jpg",
+    "releaseYear": 2011.0
+  },
+  "Assassin's Creed Rogue": {
+    "IGDB_ID": "7570",
+    "company": "Ubisoft Entertainment",
+    "engine": "Anvil",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Assassin's Creed Rogue",
+    "patches": [
+      {
+        "URL": "https://parsiteamsite.ir/product2/AssassinsCreedRogue/index.html",
+        "patcher": "PersiTeam",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co1xir.jpg",
+    "releaseYear": 2014.0
+  },
   "Assassin's Creed Syndicate": {
     "IGDB_ID": "8263",
     "company": "Ubisoft Entertainment",
@@ -404,6 +504,11 @@
       {
         "URL": "https://apolloarcade.net/arcade/assassins-creed-syndicate/",
         "patcher": "ApolloArcade",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/assassins-creed-syndicate-farsi/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
@@ -559,12 +664,12 @@
     "name": "Batman: Arkham Knight",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/batman-arkham-knight/",
+        "URL": "https://farsisaz.com/product/batman-arkham-knight-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/batman-arkham-knight/",
+        "URL": "https://farsisaz.com/product/batman-arkham-knight-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -637,7 +742,7 @@
     "name": "Beyond: Two Souls",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/beyond-two-souls-farsi/",
+        "URL": "https://farsisaz.com/product/beyond-two-souls/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -698,6 +803,25 @@
     "picURL": "Images/Games/co1rse.jpg",
     "releaseYear": 2021.0
   },
+  "Black Myth Wukong": {
+    "IGDB_ID": "136879",
+    "company": "Game Science",
+    "engine": "Unreal Engine 5",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Black Myth Wukong",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-ووکونگ-black-myth-wukong/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co8h3y.jpg",
+    "releaseYear": 2024.0
+  },
   "Blair Witch": {
     "IGDB_ID": "119298",
     "company": "Bloober Team",
@@ -731,6 +855,25 @@
     ],
     "picURL": "Images/Games/co1rci.jpg",
     "releaseYear": 2019.0
+  },
+  "Bloodborne": {
+    "IGDB_ID": "7334",
+    "company": "FromSoftware",
+    "engine": "Unknown",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Bloodborne",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بلادبورن-bloodborne/",
+        "patcher": "GameSub",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co1rba.jpg",
+    "releaseYear": 2015.0
   },
   "Bright Memory": {
     "IGDB_ID": "113739",
@@ -1007,12 +1150,12 @@
     "name": "Cyberpunk 2077",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/cp2077-full-dlc/",
+        "URL": "https://farsisaz.com/product/cyberpunk-2077-phantom-liberty/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/cp2077-full-dlc/",
+        "URL": "https://farsisaz.com/product/cyberpunk-2077-phantom-liberty/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -1038,6 +1181,25 @@
       }
     ],
     "picURL": "Images/Games/co4hk8.jpg",
+    "releaseYear": 2020.0
+  },
+  "Crysis Remastered": {
+    "IGDB_ID": "132164",
+    "company": "Crytek",
+    "engine": "CryEngine 3",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Crysis Remastered",
+    "patches": [
+      {
+        "URL": "https://parsiteamsite.ir/product5/CrysisRemastered/index.html",
+        "patcher": "PersiTeam",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2on5.jpg",
     "releaseYear": 2020.0
   },
   "Dark Souls III": {
@@ -1133,6 +1295,27 @@
     "picURL": "Images/Games/co1izz.jpg",
     "releaseYear": 2019.0
   },
+  "Dead Island 2": {
+    "IGDB_ID": "7329",
+    "company": "Deep Silver",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "name": "Dead Island 2",
+    "patches": [
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-دد-آیلند-dead-island-2/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5469.jpg",
+    "releaseYear": 2023.0
+  },
   "Death Stranding": {
     "IGDB_ID": "19564",
     "company": "Sony Interactive Entertainment",
@@ -1164,7 +1347,7 @@
     "name": "Deathloop",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/deathloopd-farsi/",
+        "URL": "https://farsisaz.com/product/deathloop-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -1266,12 +1449,12 @@
     "name": "Dying Light 2: Stay Human",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/subtitle-dying-light-2-farsi/",
+        "URL": "https://farsisaz.com/product/dying-light-2-stay-human-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/subtitle-dying-light-2-farsi/",
+        "URL": "https://farsisaz.com/product/dying-light-2-stay-human-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -1319,12 +1502,12 @@
     "name": "Elden Ring",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/elden-ring-farsisaz/",
+        "URL": "https://farsisaz.com/product/elden-ring/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/elden-ring-farsisaz/",
+        "URL": "https://farsisaz.com/product/elden-ring/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -1469,6 +1652,35 @@
     "picURL": "Images/Games/co1vpp.jpg",
     "releaseYear": 2013.0
   },
+  "Far Cry 5": {
+    "IGDB_ID": "28552",
+    "company": "Ubisoft Entertainment",
+    "engine": "Dunia Engine",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "name": "Far Cry 5",
+    "patches": [
+      {
+        "URL": "https://parsiteamsite.ir/product4/FarCry5/index.html",
+        "patcher": "PersiTeam",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://t.me/iranisub_ir/29",
+        "patcher": "IraniSub",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://t.me/iranisub_ir/29",
+        "patcher": "IraniSub",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co21a6.jpg",
+    "releaseYear": 2018.0
+  },
   "Far Cry 6": {
     "IGDB_ID": "126290",
     "company": "Ubisoft Entertainment",
@@ -1480,12 +1692,12 @@
     "name": "Far Cry 6",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/far-cry-6-farsi/",
+        "URL": "https://farsisaz.com/product/far-cry-6/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/far-cry-6-farsi/",
+        "URL": "https://farsisaz.com/product/far-cry-6/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -1580,6 +1792,31 @@
     "picURL": "Images/Games/co1nrt.jpg",
     "releaseYear": 2014.0
   },
+  "Ghost of Tsushima": {
+    "IGDB_ID": "75235",
+    "company": "Sucker Punch Productions",
+    "engine": "Unknown",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure,"
+    ],
+    "name": "Ghost of Tsushima",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/ghost-of-tsushima/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-شبح-سوشیما-ghost-of-tsushima/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2crj.jpg",
+    "releaseYear": 2020.0
+  },
   "Ghostrunner": {
     "IGDB_ID": "121752",
     "company": "All In! Games",
@@ -1651,6 +1888,11 @@
         "URL": "https://apolloarcade.net/arcade/ghostrunner-1/",
         "patcher": "ApolloArcade",
         "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/ghostrunner-1-project-hel/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
       }
     ],
     "picURL": "Images/Games/co49st.jpg",
@@ -1671,6 +1913,11 @@
       {
         "URL": "https://apolloarcade.net/arcade/ghostrunner-2/",
         "patcher": "ApolloArcade",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/ghostrunner-2-brutal-edition/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
@@ -1759,6 +2006,16 @@
         "URL": "https://farsisaz.com/product/god-of-war-ragnarok/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/god-of-war-ragnarok-farsi/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-خدای-جنگ-god-of-war-ragnarok/",
+        "patcher": "GameSub",
+        "platform": "PC"
       },
       {
         "URL": "https://apolloarcade.net/arcade/god-of-war-ragnarok/",
@@ -2151,9 +2408,14 @@
     "name": "High on Life",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/high-on-life-farsi/",
+        "URL": "https://farsisaz.com/product/high-on-life/",
         "patcher": "FarsiSaz",
         "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/high-on-life/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
       },
       {
         "URL": "https://apolloarcade.net/arcade/high-on-life/",
@@ -2180,9 +2442,14 @@
     "name": "Hogwarts Legacy",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/hogwarts-legacy-farsi/",
+        "URL": "https://farsisaz.com/product/hogwarts-legacy/",
         "patcher": "FarsiSaz",
         "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/hogwarts-legacy/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
       },
       {
         "URL": "https://apolloarcade.net/arcade/hogwarts-legacy/",
@@ -2237,6 +2504,25 @@
     ],
     "picURL": "Images/Games/co1rgi.jpg",
     "releaseYear": 2017.0
+  },
+  "Horizon Forbidden West": {
+    "IGDB_ID": "112874",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Decima",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "name": "Horizon Forbidden West",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/horizon-forbidden-west/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2gvu.jpg",
+    "releaseYear": 2022.0
   },
   "Horizon Zero Dawn": {
     "IGDB_ID": "11156",
@@ -2509,7 +2795,7 @@
     "name": "Layers of Fear",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/layers-of-fear-farsi/",
+        "URL": "https://farsisaz.com/product/layers-of-fear-2023-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -2574,6 +2860,16 @@
       {
         "URL": "https://apolloarcade.net/arcade/lies-of-p-farsi/",
         "patcher": "ApolloArcade",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/lies-of-p/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
+        "URL": "https://farsisaz.com/product/lies-of-p/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
@@ -2775,6 +3071,11 @@
         "platform": "PC"
       },
       {
+        "URL": "https://farsisaz.com/product/lord-of-fallen/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
         "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-لرد-اف-فالن-the-lords-of-the-fallen/",
         "patcher": "GameSub",
         "platform": "PC"
@@ -2794,12 +3095,12 @@
     "name": "Mafia: Definitive Edition",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/mafia-definitive-edition/",
+        "URL": "https://farsisaz.com/product/farsi-mafia1-definitive-edition/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/mafia-definitive-edition/",
+        "URL": "https://farsisaz.com/product/farsi-mafia1-definitive-edition/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -2891,6 +3192,11 @@
         "platform": "PC"
       },
       {
+        "URL": "https://farsisaz.com/product/manor-lords/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
         "URL": "https://apolloarcade.net/arcade/manor-lords-farsisaz/",
         "patcher": "ApolloArcade",
         "platform": "PC"
@@ -2935,7 +3241,7 @@
     "name": "Marvel's Spider-Man Remastered",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/marvels-spider-man-remastered-farsisaz/",
+        "URL": "https://farsisaz.com/product/marvels-spider-man-remastered/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -3297,6 +3603,25 @@
     "picURL": "Images/Games/co1sod.jpg",
     "releaseYear": 2021.0
   },
+  "Quantum Break": {
+    "IGDB_ID": "3750",
+    "company": "Remedy Entertainment",
+    "engine": "Northlight Engine",
+    "genres": [
+      "Action",
+      "Science fiction"
+    ],
+    "name": "Quantum Break",
+    "patches": [
+      {
+        "URL": "https://fansub.ir/quantum-break-patch/",
+        "patcher": "FanSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co8gsr.jpg",
+    "releaseYear": 2016.0
+  },
   "Ratchet & Clank: Rift Apart": {
     "IGDB_ID": "134582",
     "company": "Insomniac Games",
@@ -3361,6 +3686,25 @@
     ],
     "picURL": "Images/Games/co1q1f.jpg",
     "releaseYear": 2018.0
+  },
+  "Remember Me": {
+    "IGDB_ID": "1827",
+    "company": "DON'T NOD",
+    "engine": "Unreal Engine 3",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Remember Me",
+    "patches": [
+      {
+        "URL": "https://fansub.ir/remember-me-patch/",
+        "patcher": "FanSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co2h9u.jpg",
+    "releaseYear": 2013.0
   },
   "Remothered: Broken Porcelain": {
     "IGDB_ID": "117309",
@@ -3689,8 +4033,23 @@
         "platform": "PC"
       },
       {
+        "URL": "https://farsisaz.com/product/senuas-saga-hellblade-ii/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-senuas-saga-hellblade-2/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      },
+      {
         "URL": "https://gbaz.ir/game/1763/senuas-saga--hellblade-ii-farsi",
         "patcher": "GBaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://par30games.net/266710/senuas-saga-hellblade-ii-persian-subtitle/",
+        "patcher": "Par30Game",
         "platform": "PC"
       }
     ],
@@ -3816,6 +4175,16 @@
         "platform": "PC"
       },
       {
+        "URL": "https://par30games.net/228636/sherlock-holmes-the-awakened-persian-subtitle/",
+        "patcher": "Par30Game",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/sherlock-holmes-the-awakened/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
         "URL": "https://apolloarcade.net/arcade/sherlock-holmes-the-awakened/",
         "patcher": "ApolloArcade",
         "platform": "PC"
@@ -3898,6 +4267,30 @@
     "picURL": "Images/Games/co4h5s.jpg",
     "releaseYear": 2022.0
   },
+  "Silent Hill 2 Remake": {
+    "IGDB_ID": "222341",
+    "company": "Konami",
+    "engine": "Unreal Engine 5",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "name": "Silent Hill 2 Remake",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/silent-hill-2-remake/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://gamesub.in/shop/زیرنویس-فارسی-بازی-سایلنت-هیل-silent-hill-2-remake/",
+        "patcher": "GameSub",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co5l7s.jpg",
+    "releaseYear": 2024.0
+  },
   "Sniper Ghost Warrior Contracts 2": {
     "IGDB_ID": "138980",
     "company": "CI Games",
@@ -3921,6 +4314,25 @@
     ],
     "picURL": "Images/Games/co2nuh.jpg",
     "releaseYear": 2021.0
+  },
+  "Spyro Reignited Trilogy": {
+    "IGDB_ID": "87683",
+    "company": "Toys for Bob",
+    "engine": "Unreal Engine 4",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "name": "Spyro Reignited Trilogy",
+    "patches": [
+      {
+        "URL": "https://t.me/iranisub_ir/27",
+        "patcher": "IraniSub",
+        "platform": "PS4"
+      }
+    ],
+    "picURL": "Images/Games/co1tjo.jpg",
+    "releaseYear": 2018.0
   },
   "Star Wars Jedi: Fallen Order": {
     "IGDB_ID": "74701",
@@ -3997,6 +4409,11 @@
       {
         "URL": "https://apolloarcade.net/arcade/starfield/",
         "patcher": "ApolloArcade",
+        "platform": "PC"
+      },
+      {
+        "URL": "https://farsisaz.com/product/starfield/",
+        "patcher": "FarsiSaz",
         "platform": "PC"
       }
     ],
@@ -4099,12 +4516,12 @@
     "name": "The Callisto Protocol",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
+        "URL": "https://farsisaz.com/product/the-callisto-protocol/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
       {
-        "URL": "https://farsisaz.com/product/the-callisto-protocol-fa/",
+        "URL": "https://farsisaz.com/product/the-callisto-protocol/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
@@ -4278,7 +4695,7 @@
     "name": "The Expanse: A Telltale Series",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/the-expanse-a-telltale-series/",
+        "URL": "https://farsisaz.com/product/the-expanse-a-telltale-series-archangel/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -4412,6 +4829,11 @@
         "platform": "PS4"
       },
       {
+        "URL": "https://farsisaz.com/product/the-last-of-us-part-ii/",
+        "patcher": "FarsiSaz",
+        "platform": "PS4"
+      },
+      {
         "URL": "https://t.me/iranisub_ir/18",
         "patcher": "IraniSub",
         "platform": "PS4"
@@ -4430,7 +4852,7 @@
     "name": "The Medium",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/the-medium/",
+        "URL": "https://farsisaz.com/product/the-medium-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -4476,12 +4898,12 @@
     "name": "The Quarry",
     "patches": [
       {
-        "URL": "https://farsisaz.com/product/the-quarry/",
+        "URL": "https://farsisaz.com/product/the-quarry-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PS4"
       },
       {
-        "URL": "https://farsisaz.com/product/the-quarry/",
+        "URL": "https://farsisaz.com/product/the-quarry-farsi/",
         "patcher": "FarsiSaz",
         "platform": "PC"
       },
@@ -4850,6 +5272,24 @@
     ],
     "picURL": "Images/Games/co1tp9.jpg",
     "releaseYear": 2017.0
+  },
+  "Until Dawn": {
+    "IGDB_ID": "284721",
+    "company": "Sony Interactive Entertainment",
+    "engine": "Unreal Engine 5",
+    "genres": [
+      "Adventure"
+    ],
+    "name": "Until Dawn",
+    "patches": [
+      {
+        "URL": "https://farsisaz.com/product/until-dawn/",
+        "patcher": "FarsiSaz",
+        "platform": "PC"
+      }
+    ],
+    "picURL": "Images/Games/co7p73.jpg",
+    "releaseYear": 2024.0
   },
   "Valiant Hearts: The Great War": {
     "IGDB_ID": "7327",
